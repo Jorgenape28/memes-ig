@@ -107,7 +107,7 @@
   "nombre": "Memes IG · proponer meme (martes y viernes)",
   "cron": "CRON_TZ=America/Bogota 52 8 * * 2,5",
   "modo": "propone; publica solo con «publica» de Jorge",
-  "pendiente": "Actualizar la instrucción al formato reel (reelgen.py + create_ad_video + video_data). El sistema pidió confirmación de Jorge para editar la tarea; la versión nueva está en tarea-programada.md."
+  "actualizada": "2026-10-16 22:05 — solo reels (reelgen.py + create_ad_video + video_data)"
  },
  "perfil": {
   "fijar_autorizado": "2026-10-16 20:37 — Jorge autorizó fijar 3 publicaciones (memes o viajes) y no tocar más la cuadrícula",
@@ -159,7 +159,7 @@
   "nota": "Dos memes con la misma selfie se ven repetidos en la cuadrícula: usar selfies distintas para cada meme.",
   "fotos_fijas": "Ninguna: la foto del prestamista se eliminó (reemplazada por el reel DelEaZBBaEg) y la de Moscú está archivada."
  },
- "formato": "REEL: video vertical 1080x1920, ~7 s, notificaciones entrando una por una con «ding» (reelgen.py). La imagen fija (memegen.py) solo sirve de portada/miniatura.",
+ "formato": "SOLO REELS (Jorge, 16-oct 22:04): nada de imagen fija, ni en anuncios ni en el perfil.",
  "windsor": {
   "nota": "El 16-oct a las 21:49 se desactivó por error 'Enable write actions' (ajuste global de Windsor, no por conector) y se volvió a activar en Settings > API Access. No tocar ese interruptor."
  }

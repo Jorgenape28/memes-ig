@@ -42,7 +42,7 @@
   {
    "slug": "rusia",
    "estado": "pendiente de aprobación",
-   "archivo": "out/2026-10-16_rusia.jpg",
+   "archivo": "out/2026-10-16_rusia_reel.mp4",
    "notifications": [
     {
      "name": "Ex",
@@ -64,11 +64,14 @@
     {
      "name": "Amorcito 💗",
      "msg": "¿Quién es Svetlana?",
-     "time": "3:15 a.m."
+     "time": "3:15 a.m.",
+     "avatar": "avatares/amorcito.png"
     }
    ],
    "fecha": "2026-10-16",
-   "nota": "Se publicó en la cuadrícula el 16-oct y se archivó (misma selfie que el prestamista). Sirve como anuncio o con otra selfie."
+   "nota": "Se publicó en la cuadrícula el 16-oct y se archivó (misma selfie que el prestamista). Sirve como anuncio o con otra selfie.",
+   "cover": "out/2026-10-16_rusia_reel_cover.jpg",
+   "caption": "Moscú, 3:15 a. m."
   },
   {
    "slug": "cual-es-la-buena",
