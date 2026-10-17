@@ -97,7 +97,7 @@ def ease_out_back(x, s=1.4):
     return 1 + (s + 1) * (x - 1) ** 3 + s * (x - 1) ** 2
 
 
-def make_bg_frames_from_photo(photo_path, total_frames, zoom=0.07):
+def make_bg_frames_from_photo(photo_path, total_frames, zoom=0.07, anchor="center"):
     photo = Image.open(photo_path).convert("RGB")
     pw, ph = photo.size
     # fondo desenfocado 9:16
@@ -118,7 +118,8 @@ def make_bg_frames_from_photo(photo_path, total_frames, zoom=0.07):
         left = max(0, min(left, fw - W)); top = max(0, min(top, max(0, fh - min(fh, H))))
         crop = fr.crop((left, top, left + W, top + min(fh, H)))
         frame = bg.copy()
-        frame.paste(crop, (0, (H - crop.height) // 2))
+        y_off = {"center": (H - crop.height) // 2, "bottom": H - crop.height, "top": 0}[anchor]
+        frame.paste(crop, (0, y_off))
         yield frame
 
 

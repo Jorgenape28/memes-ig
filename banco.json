@@ -42,6 +42,18 @@
    ]
   },
   {
+   "slug": "convencio",
+   "formato": "texto grande (quotegen.py)",
+   "estado": "entregado a Jorge 17-oct 18:12 (sin audio; él publica)",
+   "archivos": [
+    "out/2026-10-17_convencio_moto.mp4",
+    "out/2026-10-17_convencio_trotar.mp4",
+    "out/2026-10-17_convencio_prediccion.mp4"
+   ],
+   "caption": "No sé ustedes, pero a mí me convenció.",
+   "referencia": "https://www.instagram.com/reel/Deh3wisSmtx/ (@munozlawgroup)"
+  },
+  {
    "slug": "rusia",
    "estado": "rechazado",
    "archivo": "out/2026-10-16_rusia_reel.mp4",
