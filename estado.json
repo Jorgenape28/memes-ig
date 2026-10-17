@@ -19,7 +19,8 @@
    "caption": "Un viernes cualquiera 📱",
    "autor": "Jorge",
    "preview": "https://fb.me/2uGkhbMAPtzfAjb",
-   "ig_permalink": "https://www.instagram.com/p/Dek4dkIgWLw/"
+   "ig_permalink": "https://www.instagram.com/p/Dek4dkIgWLw/",
+   "formato": "imagen"
   },
   {
    "id": "120252917535440220",
@@ -30,7 +31,32 @@
    "caption": "Un viernes cualquiera 📱",
    "autor": "Jorge",
    "preview": "https://fb.me/23iAfTIw1K6IkyT",
-   "ig_permalink": "https://www.instagram.com/p/Dek4dkIgWLw/"
+   "ig_permalink": "https://www.instagram.com/p/Dek4dkIgWLw/",
+   "formato": "imagen"
+  },
+  {
+   "id": "120252918071040220",
+   "adset": "mujeres",
+   "fecha": "2026-10-16",
+   "slug": "prestamista",
+   "formato": "video",
+   "archivo": "out/2026-10-16_prestamista_reel.mp4",
+   "video_id": "1444624741148815",
+   "cover": "out/2026-10-16_prestamista_reel_cover.jpg",
+   "caption": "Un viernes cualquiera 📱",
+   "autor": "Jorge"
+  },
+  {
+   "id": "120252918071330220",
+   "adset": "todos",
+   "fecha": "2026-10-16",
+   "slug": "prestamista",
+   "formato": "video",
+   "archivo": "out/2026-10-16_prestamista_reel.mp4",
+   "video_id": "1444624741148815",
+   "cover": "out/2026-10-16_prestamista_reel_cover.jpg",
+   "caption": "Un viernes cualquiera 📱",
+   "autor": "Jorge"
   }
  ],
  "rotacion": {
@@ -108,22 +134,29 @@
   "publicadas_en_cuadricula": [
    {
     "fecha": "2026-10-16",
-    "permalink": "https://www.instagram.com/p/Dek-vxDFSQe/",
-    "archivo": "out/2026-10-16_prestamista.jpg",
+    "permalink": "https://www.instagram.com/reel/DelEaZBBaEg/",
+    "archivo": "out/2026-10-16_prestamista_reel.mp4",
     "caption": "Un viernes cualquiera.",
-    "autor": "Jorge"
+    "autor": "Jorge",
+    "tipo": "reel"
+   },
+   {
+    "fecha": "2026-10-16",
+    "permalink": "https://www.instagram.com/p/Dek-vxDFSQe/",
+    "estado": "ELIMINADA 21:47 (era foto fija; reemplazada por el reel)"
    },
    {
     "fecha": "2026-10-16",
     "permalink": "https://www.instagram.com/p/Dek-4GrFcam/",
-    "archivo": "out/2026-10-16_rusia.jpg",
-    "caption": "Moscú, 3:15 a. m.",
-    "autor": "Claude (autorizado 16-oct 20:37)",
-    "estado": "archivada 16-oct 21:07 (misma selfie que el prestamista; se veía repetida)"
+    "estado": "archivada por Jorge (misma selfie)"
    }
   ],
-  "fijar_pendiente": "Instagram web no ofrece «Fijar en tu perfil» (solo la app). Fijar desde el teléfono: Dek-vxDFSQe (prestamista) y Dedr1JHh9bA («Una mitad me conoce»).",
+  "fijar_pendiente": "Fijar desde la app: el reel DelEaZBBaEg y la publicación Dedr1JHh9bA («Una mitad me conoce»).",
   "direccion": "Cambios muy graduales. Persona: tipo cool, seguro, algo rebelde (público femenino). No cambiar nombre ni biografía por ahora.",
   "nota": "Dos memes con la misma selfie se ven repetidos en la cuadrícula: usar selfies distintas para cada meme."
+ },
+ "formato": "REEL: video vertical 1080x1920, ~7 s, notificaciones entrando una por una con «ding» (reelgen.py). La imagen fija (memegen.py) solo sirve de portada/miniatura.",
+ "windsor": {
+  "nota": "El 16-oct a las 21:49 se desactivó por error 'Enable write actions' (ajuste global de Windsor, no por conector) y se volvió a activar en Settings > API Access. No tocar ese interruptor."
  }
 }

@@ -13,7 +13,16 @@ con la identidad de @jorgenape28. **No aparecen en la cuadrícula del perfil.**
   `https://raw.githubusercontent.com/Jorgenape28/memes-ig/main/out/<archivo>`
 - `avatares/` — fotos de perfil ficticias para las notificaciones (opcional).
 
-## Generar un meme
+## Formato oficial: REEL (desde el 16-oct)
+```
+python3 reelgen.py spec.json out/AAAA-MM-DD_slug_reel.mp4            # con foto (zoom lento)
+python3 reelgen.py spec.json out/AAAA-MM-DD_slug_reel.mp4 --video clip.mp4   # con un clip de Jorge
+ffmpeg -sseof -0.5 -i out/X_reel.mp4 -frames:v 1 -q:v 2 out/X_reel_cover.jpg  # portada
+```
+Anuncio en video (Windsor): `create_ad_video` con la URL raw del mp4 → `video_id`; luego `create_ad` con
+`creative.object_story_spec.video_data` = {video_id, image_url (portada raw), message, call_to_action VIEW_INSTAGRAM_PROFILE} más page_id e instagram_user_id.
+
+## Generar un meme (imagen fija, solo portada)
 ```
 python3 memegen.py spec.json out/2026-10-20_slug.jpg
 ```
