@@ -1,6 +1,7 @@
 # Tarea programada · Memes IG (martes y viernes, 8:52 a. m. Bogotá)
 
 Pendiente de crear (el sistema pide la confirmación de Jorge para tareas programadas).
+**Cambio del 16-oct (20:00):** Jorge quiere aprobar cada meme. La tarea solo PROPONE: genera el siguiente meme, lo sube al repo y se lo manda a Jorge; se publica (un anuncio en cada conjunto: Mujeres 120252917300730220 y Todos 120252917534040220) únicamente cuando Jorge responde «publica».
 Cron: `CRON_TZ=America/Bogota 52 8 * * 2,5` · notificación push · no requiere el Mac.
 
 ## Instrucción de cada corrida

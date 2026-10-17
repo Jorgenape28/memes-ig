@@ -4,12 +4,43 @@
   "Colombiano, corto, sin groserías, sin drogas ni marcas reales (política de anuncios de Meta)",
   "Nombres genéricos: Mamá, Cliente, Amorcito 💗, Banco, Juzgado 14 Penal, Vecino 4B…",
   "Persona: abogado penalista ('los malos también tienen derechos'), viaja a lugares raros/peligrosos",
-  "Horas consecutivas (11:02, 11:03…) o fechas viejas cuando el chiste es el tiempo"
+  "Horas consecutivas (11:02, 11:03…) o fechas viejas cuando el chiste es el tiempo",
+  "Nada se publica sin el OK de Jorge (salvo los memes que él mismo hace)"
  ],
  "escenarios": [
   {
+   "slug": "prestamista",
+   "estado": "publicado",
+   "fecha": "2026-10-16",
+   "autor": "Jorge",
+   "archivo": "out/2026-10-16_prestamista.jpg",
+   "notifications": [
+    {
+     "name": "Prestamista",
+     "msg": "Me paga hoy o lo estallo.",
+     "time": "11:28 a.m."
+    },
+    {
+     "name": "Mecánico",
+     "type": "audio",
+     "duration": "6:32",
+     "time": "11:29 a.m."
+    },
+    {
+     "name": "Amorcito 💗",
+     "msg": "Quién es Valentina?",
+     "time": "11:30 a.m."
+    },
+    {
+     "name": "drogas la rebaja",
+     "msg": "No me ha bajado 😭",
+     "time": "11:31 a.m."
+    }
+   ]
+  },
+  {
    "slug": "lunes-abogado",
-   "estado": "renderizado",
+   "estado": "pendiente de aprobación",
    "archivo": "out/2026-10-16_lunes-abogado.jpg",
    "notifications": [
     {
@@ -40,7 +71,7 @@
   },
   {
    "slug": "rusia",
-   "estado": "renderizado",
+   "estado": "pendiente de aprobación",
    "archivo": "out/2026-10-16_rusia.jpg",
    "notifications": [
     {
@@ -69,7 +100,7 @@
   },
   {
    "slug": "cobros",
-   "estado": "renderizado",
+   "estado": "pendiente de aprobación",
    "archivo": "out/2026-10-16_cobros.jpg",
    "notifications": [
     {

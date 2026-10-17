@@ -21,6 +21,12 @@ python3 memegen.py spec.json out/2026-10-20_slug.jpg
 Tipos de notificación: `text` (por defecto), `audio` (`duration`), `photo`, `doc`, `missed`.
 Avatar: `avatar` (ruta), o `initials` + `color`, o nada (silueta).
 
+## Campaña (creada 16-oct-2026, activa)
+- Campaña 120252917299480220 · objetivo: visitas al perfil (proxy de seguidores).
+- Conjunto «Mujeres 24-40» 120252917300730220 · COP 14.000/día (70 %).
+- Conjunto «Todos 20-45» 120252917534040220 · COP 6.000/día (30 %).
+- Cada meme se publica como un anuncio en cada conjunto. Nada se publica sin el OK de Jorge.
+
 ## Publicar como anuncio (Windsor.ai → Meta Ads, cuenta 911008968626641)
 1. Subir el jpg a `out/` y hacer push (queda público en raw.githubusercontent.com).
 2. `execute_action(connector="facebook", account="911008968626641", action="create_ad", params={...})`

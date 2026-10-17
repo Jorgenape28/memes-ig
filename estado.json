@@ -8,14 +8,31 @@
   "windsor_connector": "facebook"
  },
  "campaign_id": "120252917299480220",
- "adset_id": "120252917300730220",
- "ads": [],
- "adset": {
-  "daily_budget_cop": 20000,
-  "targeting": "Colombia, 18-45, solo Instagram (feed, historias, explorar, reels, feed de perfil)",
-  "optimization": "VISIT_INSTAGRAM_PROFILE",
-  "status": "paused — pendiente de método de pago/fondos en la cuenta publicitaria"
- },
+ "adset_id": null,
+ "ads": [
+  {
+   "id": "120252917535000220",
+   "adset": "mujeres",
+   "fecha": "2026-10-16",
+   "slug": "prestamista",
+   "archivo": "out/2026-10-16_prestamista.jpg",
+   "caption": "Un viernes cualquiera 📱",
+   "autor": "Jorge",
+   "preview": "https://fb.me/2uGkhbMAPtzfAjb",
+   "ig_permalink": "https://www.instagram.com/p/Dek4dkIgWLw/"
+  },
+  {
+   "id": "120252917535440220",
+   "adset": "todos",
+   "fecha": "2026-10-16",
+   "slug": "prestamista",
+   "archivo": "out/2026-10-16_prestamista.jpg",
+   "caption": "Un viernes cualquiera 📱",
+   "autor": "Jorge",
+   "preview": "https://fb.me/23iAfTIw1K6IkyT",
+   "ig_permalink": "https://www.instagram.com/p/Dek4dkIgWLw/"
+  }
+ ],
  "rotacion": {
   "dias_activo_por_anuncio": 14,
   "max_anuncios_activos": 4
@@ -25,5 +42,21 @@
   "rusia": "Viajo a lugares que muchos rehúyen. Mi mamá no está de acuerdo.",
   "cobros": "Tres años después, sigue siendo mi cliente."
  },
- "pendiente": "Meta rechazó create_ad el 16-oct: 'Ningún método de pago' (cuenta 911008968626641 usa saldo prepago, hoy COP 63). Al haber fondos: crear el anuncio lunes-abogado y activar campaña, conjunto y anuncio."
+ "adsets": {
+  "mujeres": {
+   "id": "120252917300730220",
+   "nombre": "Memes · Mujeres 24-40 · Colombia · Solo Instagram",
+   "daily_budget_cop": 14000,
+   "targeting": "Colombia, mujeres 24-40, solo Instagram"
+  },
+  "todos": {
+   "id": "120252917534040220",
+   "nombre": "Memes · Todos 20-45 · Colombia · Solo Instagram",
+   "daily_budget_cop": 6000,
+   "targeting": "Colombia, todos 20-45, solo Instagram"
+  }
+ },
+ "objetivo": "Aumentar seguidores de @jorgenape28 (proxy: visitas al perfil), con enfoque en mujeres (70 % del presupuesto).",
+ "aprobacion": "Todo meme hecho por Claude se publica solo con el OK de Jorge. Los que haga Jorge se publican de inmediato.",
+ "estado_campana": "ACTIVA desde 2026-10-16 20:05 (anuncios en revisión de Meta)"
 }
