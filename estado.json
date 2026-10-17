@@ -79,5 +79,37 @@
   "nombre": "Memes IG · proponer meme (martes y viernes)",
   "cron": "CRON_TZ=America/Bogota 52 8 * * 2,5",
   "modo": "propone; publica solo con «publica» de Jorge"
+ },
+ "perfil": {
+  "fijar_autorizado": "2026-10-16 20:37 — Jorge autorizó fijar 3 publicaciones (memes o viajes) y no tocar más la cuadrícula",
+  "plan_fijados": [
+   "NUEVO: out/2026-10-16_prestamista.jpg (meme de Jorge)",
+   "NUEVO: out/2026-10-16_lunes-abogado.jpg",
+   "EXISTENTE: https://www.instagram.com/p/Dedr1JHh9bA/ («Una mitad me conoce; la otra habla mal de mí.»)"
+  ],
+  "bloqueo": "La sesión de Instagram en Chrome se cerró el 16-oct (OAuth de Windsor con force_authentication); publicar y fijar requiere que Jorge inicie sesión en instagram.com en Chrome (2FA).",
+  "publicaciones_existentes": [
+   {
+    "fecha": "2026-10-14",
+    "permalink": "https://www.instagram.com/p/Dedr1JHh9bA/",
+    "caption": "Una mitad me conoce; la otra habla mal de mí."
+   },
+   {
+    "fecha": "2026-04-25",
+    "permalink": "https://www.instagram.com/p/DXjzsRIjIQ7/",
+    "caption": "Recuerdo de mi visita a Noruega."
+   },
+   {
+    "fecha": "2026-03-23",
+    "permalink": "https://www.instagram.com/p/DWOL_MUjCS-/",
+    "caption": "El pelito parado es por la estática…"
+   },
+   {
+    "fecha": "2024-04-21",
+    "permalink": "https://www.instagram.com/p/C6AkcUJNVRI/",
+    "caption": "Con las máquinas",
+    "likes": 21
+   }
+  ]
  }
 }
