@@ -1,0 +1,351 @@
+{
+ "formato": "selfie seria + 4 notificaciones de WhatsApp apiladas; la última es el remate",
+ "reglas": [
+  "Colombiano, corto, sin groserías, sin drogas ni marcas reales (política de anuncios de Meta)",
+  "Nombres genéricos: Mamá, Cliente, Amorcito 💗, Banco, Juzgado 14 Penal, Vecino 4B…",
+  "Persona: abogado penalista ('los malos también tienen derechos'), viaja a lugares raros/peligrosos",
+  "Horas consecutivas (11:02, 11:03…) o fechas viejas cuando el chiste es el tiempo"
+ ],
+ "escenarios": [
+  {
+   "slug": "lunes-abogado",
+   "estado": "renderizado",
+   "archivo": "out/2026-10-16_lunes-abogado.jpg",
+   "notifications": [
+    {
+     "name": "Cliente nuevo",
+     "msg": "Doctor, fue en defensa propia. Las tres veces.",
+     "time": "11:02 a.m."
+    },
+    {
+     "name": "Mamá",
+     "msg": "¿Ya comiste?",
+     "time": "11:03 a.m."
+    },
+    {
+     "name": "Juzgado 14 Penal",
+     "msg": "Audiencia reprogramada para el 2031.",
+     "time": "11:04 a.m.",
+     "initials": "J",
+     "color": "#5b6b7a"
+    },
+    {
+     "name": "Banco",
+     "msg": "Su cuota venció hace 47 días 🙂",
+     "time": "11:05 a.m.",
+     "initials": "B",
+     "color": "#c0392b"
+    }
+   ]
+  },
+  {
+   "slug": "rusia",
+   "estado": "renderizado",
+   "archivo": "out/2026-10-16_rusia.jpg",
+   "notifications": [
+    {
+     "name": "Ex",
+     "msg": "Vi que estás en Rusia. ¿Cuándo vuelves?",
+     "time": "3:12 a.m."
+    },
+    {
+     "name": "Mamá",
+     "msg": "Mijo, en las noticias dicen que allá hay guerra.",
+     "time": "3:13 a.m."
+    },
+    {
+     "name": "Taxi Moscú",
+     "msg": "Ваш водитель прибыл 🚕",
+     "time": "3:14 a.m.",
+     "initials": "T",
+     "color": "#f1c40f"
+    },
+    {
+     "name": "Amorcito 💗",
+     "msg": "¿Quién es Svetlana?",
+     "time": "3:15 a.m."
+    }
+   ]
+  },
+  {
+   "slug": "cobros",
+   "estado": "renderizado",
+   "archivo": "out/2026-10-16_cobros.jpg",
+   "notifications": [
+    {
+     "name": "Cliente",
+     "msg": "Doctor, le consigno mañana sin falta.",
+     "time": "14/03/23"
+    },
+    {
+     "name": "Cliente",
+     "msg": "Doctor, el lunes seguro.",
+     "time": "20/08/24"
+    },
+    {
+     "name": "Cliente",
+     "msg": "Doctor, ya casi.",
+     "time": "02/06/25"
+    },
+    {
+     "name": "Cliente",
+     "msg": "Doctor, ¿me ayuda con otro caso?",
+     "time": "11:31 a.m."
+    }
+   ]
+  },
+  {
+   "slug": "audios",
+   "estado": "pendiente",
+   "notifications": [
+    {
+     "name": "Cliente",
+     "msg": "Doctor, le cuento rapidito",
+     "time": "10:14 a.m."
+    },
+    {
+     "name": "Cliente",
+     "type": "audio",
+     "duration": "14:52",
+     "time": "10:15 a.m."
+    },
+    {
+     "name": "Cliente",
+     "type": "audio",
+     "duration": "9:03",
+     "time": "10:31 a.m."
+    },
+    {
+     "name": "Cliente",
+     "msg": "¿Me escuchó?",
+     "time": "10:32 a.m."
+    }
+   ]
+  },
+  {
+   "slug": "madrugada",
+   "estado": "pendiente",
+   "notifications": [
+    {
+     "name": "Cliente",
+     "msg": "Doctor, me cogieron.",
+     "time": "2:13 a.m."
+    },
+    {
+     "name": "Cliente",
+     "msg": "Otra vez.",
+     "time": "2:13 a.m."
+    },
+    {
+     "name": "Patrullero Gómez",
+     "msg": "Doctor, ya sabe dónde estamos 🙂",
+     "time": "2:14 a.m."
+    },
+    {
+     "name": "Mamá",
+     "msg": "Mijo, ¿sigue despierto? ¿Ya comió?",
+     "time": "2:15 a.m."
+    }
+   ]
+  },
+  {
+   "slug": "suegra",
+   "estado": "pendiente",
+   "notifications": [
+    {
+     "name": "Suegra",
+     "msg": "Ya le dije a todo el mundo que usted es doctor.",
+     "time": "7:40 p.m."
+    },
+    {
+     "name": "Suegra",
+     "msg": "De medicina.",
+     "time": "7:40 p.m."
+    },
+    {
+     "name": "Tía Nelly",
+     "type": "photo",
+     "msg": "Doctor, mire esta mancha.",
+     "time": "7:52 p.m."
+    },
+    {
+     "name": "Amorcito 💗",
+     "msg": "Mi mamá dice que usted me va a operar la rodilla.",
+     "time": "8:05 p.m."
+    }
+   ]
+  },
+  {
+   "slug": "gym-vecino",
+   "estado": "pendiente",
+   "notifications": [
+    {
+     "name": "Gimnasio",
+     "msg": "Lo extrañamos. Van 212 días.",
+     "time": "6:00 a.m.",
+     "initials": "G",
+     "color": "#111111"
+    },
+    {
+     "name": "Vecino 4B",
+     "msg": "Su carro está bloqueando MI vida.",
+     "time": "6:21 a.m."
+    },
+    {
+     "name": "Domicilio",
+     "msg": "Su pedido fue entregado… a alguien.",
+     "time": "6:40 a.m.",
+     "initials": "D",
+     "color": "#e67e22"
+    },
+    {
+     "name": "Cliente",
+     "msg": "Doctor, ¿y si mejor no pagamos nada?",
+     "time": "6:41 a.m."
+    }
+   ]
+  },
+  {
+   "slug": "contrato-final",
+   "estado": "pendiente",
+   "notifications": [
+    {
+     "name": "Cliente",
+     "type": "doc",
+     "msg": "contrato FINAL ahora si (3).pdf",
+     "time": "4:02 p.m."
+    },
+    {
+     "name": "Cliente",
+     "type": "doc",
+     "msg": "contrato FINAL ahora si (4).pdf",
+     "time": "4:03 p.m."
+    },
+    {
+     "name": "Cliente",
+     "msg": "Ese no, el otro.",
+     "time": "4:03 p.m."
+    },
+    {
+     "name": "Cliente",
+     "msg": "Bueno, el de la (3) pero con lo de la (4).",
+     "time": "4:05 p.m."
+    }
+   ]
+  },
+  {
+   "slug": "viaje-peligroso",
+   "estado": "pendiente",
+   "notifications": [
+    {
+     "name": "Mamá",
+     "msg": "¿Dónde está?",
+     "time": "9:10 p.m."
+    },
+    {
+     "name": "Hostal",
+     "msg": "Señor, el toque de queda empieza a las 9.",
+     "time": "9:11 p.m.",
+     "initials": "H",
+     "color": "#16a085"
+    },
+    {
+     "name": "Embajada",
+     "msg": "Le recomendamos no estar donde está.",
+     "time": "9:12 p.m.",
+     "initials": "E",
+     "color": "#2c3e50"
+    },
+    {
+     "name": "Amorcito 💗",
+     "msg": "¿Tu ubicación dice «zona de conflicto»???",
+     "time": "9:13 p.m."
+    }
+   ]
+  },
+  {
+   "slug": "aeropuerto",
+   "estado": "pendiente",
+   "notifications": [
+    {
+     "name": "Aerolínea",
+     "msg": "Su vuelo salió hace 20 minutos. Gracias por volar con nosotros.",
+     "time": "5:50 a.m.",
+     "initials": "A",
+     "color": "#8e44ad"
+    },
+    {
+     "name": "Mamá",
+     "msg": "¿Ya llegó? Responda.",
+     "time": "5:51 a.m."
+    },
+    {
+     "name": "Cliente",
+     "msg": "Doctor, ¿la audiencia es hoy o yo escuché mal?",
+     "time": "5:55 a.m."
+    },
+    {
+     "name": "Juzgado 14 Penal",
+     "msg": "Lo estamos esperando 🙂",
+     "time": "5:56 a.m.",
+     "initials": "J",
+     "color": "#5b6b7a"
+    }
+   ]
+  },
+  {
+   "slug": "ex-demanda",
+   "estado": "pendiente",
+   "notifications": [
+    {
+     "name": "Ex",
+     "msg": "Necesito un abogado.",
+     "time": "11:40 p.m."
+    },
+    {
+     "name": "Ex",
+     "msg": "Para demandarte.",
+     "time": "11:40 p.m."
+    },
+    {
+     "name": "Ex",
+     "msg": "¿Me recomiendas uno?",
+     "time": "11:41 p.m."
+    },
+    {
+     "name": "Mamá",
+     "msg": "Mijo, su ex me pidió el número de la oficina.",
+     "time": "11:45 p.m."
+    }
+   ]
+  },
+  {
+   "slug": "tenemos-que-hablar",
+   "estado": "pendiente",
+   "notifications": [
+    {
+     "name": "Amorcito 💗",
+     "msg": "Tenemos que hablar.",
+     "time": "8:00 p.m."
+    },
+    {
+     "name": "Mamá",
+     "msg": "Tenemos que hablar.",
+     "time": "8:01 p.m."
+    },
+    {
+     "name": "Cliente",
+     "msg": "Doctor, tenemos que hablar.",
+     "time": "8:02 p.m."
+    },
+    {
+     "name": "Banco",
+     "msg": "Tenemos que hablar.",
+     "time": "8:03 p.m.",
+     "initials": "B",
+     "color": "#c0392b"
+    }
+   ]
+  }
+ ]
+}
