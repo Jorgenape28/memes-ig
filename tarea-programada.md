@@ -1,5 +1,11 @@
 # Tarea programada · Reels IG (martes y viernes, 8:52 a. m. Bogotá)
 
+**Vigente (17-oct 17:55):** trig_01L3wVHazGj8sPDnPKpsfqF5, atada al Mac de Jorge. Jorge publica; la tarea promociona cada reel nuevo «como con el botón Promocionar» (anuncio con el reel del perfil), rota a 14 días e informa los martes. La tarea anterior (trig_01RF6ScAX2cKeJoq6EepN13c) quedó deshabilitada. La instrucción completa está en el trigger; el procedimiento técnico en estado.json → acuerdo.
+
+---
+
+# Tarea programada · Reels IG (martes y viernes, 8:52 a. m. Bogotá)
+
 **Cambio del 17-oct (16:56):** Jorge publica los reels; la tarea solo los PROMOCIONA (anuncios en video fuera de la cuadrícula) y rota. Ya no propone ni genera memes. Instrucción vigente: la del trigger trig_01RF6ScAX2cKeJoq6EepN13c (ver estado.json → acuerdo).
 
 Creada el 16-oct-2026 a las 20:22 (id trig_01RF6ScAX2cKeJoq6EepN13c) con el «listo» de Jorge. Primera corrida: martes 20 de octubre, 8:52 a. m.

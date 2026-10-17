@@ -46,7 +46,8 @@
    "video_id": "1444624741148815",
    "cover": "out/2026-10-16_prestamista_reel_cover.jpg",
    "caption": "Un viernes cualquiera 📱",
-   "autor": "Jorge"
+   "autor": "Jorge",
+   "estado": "PAUSADO 17-oct 17:55 (reemplazado por el anuncio del reel del perfil)"
   },
   {
    "id": "120252918071330220",
@@ -58,7 +59,8 @@
    "video_id": "1444624741148815",
    "cover": "out/2026-10-16_prestamista_reel_cover.jpg",
    "caption": "Un viernes cualquiera 📱",
-   "autor": "Jorge"
+   "autor": "Jorge",
+   "estado": "PAUSADO 17-oct 17:55 (reemplazado por el anuncio del reel del perfil)"
   }
  ],
  "rotacion": {
@@ -103,11 +105,11 @@
   ]
  },
  "tarea_programada": {
-  "id": "trig_01RF6ScAX2cKeJoq6EepN13c",
-  "nombre": "Memes IG · proponer meme (martes y viernes)",
+  "id": "trig_01L3wVHazGj8sPDnPKpsfqF5",
+  "nombre": "Reels IG · promocionar los reels de Jorge (martes y viernes, con el Mac)",
   "cron": "CRON_TZ=America/Bogota 52 8 * * 2,5",
-  "modo": "propone; publica solo con «publica» de Jorge",
-  "actualizada": "2026-10-16 22:05 — solo reels (reelgen.py + create_ad_video + video_data)"
+  "requiere_mac": true,
+  "reemplaza": "trig_01RF6ScAX2cKeJoq6EepN13c (deshabilitada)"
  },
  "perfil": {
   "fijar_autorizado": "2026-10-16 20:37 — Jorge autorizó fijar 3 publicaciones (memes o viajes) y no tocar más la cuadrícula",
@@ -178,19 +180,20 @@
   "fecha": "2026-10-17 16:56",
   "texto": "Jorge publica los reels (desde la app, con su música); Claude los promociona como anuncios (dark posts) y rota los viejos. Claude no crea ni publica contenido.",
   "limite_meta": "Un reel existente de Instagram no se puede usar directo como anuncio desde Windsor (error 1815279: hay que importar el video a Facebook). Se promociona subiendo el mismo video como dark post (create_ad_video + video_data). Reels con música con licencia no pueden ir en anuncios: se necesita el video sin música.",
-  "flujo": "Cada martes y viernes: detectar reels nuevos (instagram_public) → conseguir el mp4 (connector instagram si está conectado; si no, pedirlo a Jorge) → dos anuncios (Mujeres/Todos) → rotación 14 días → informe los martes."
+  "flujo": "Cada martes y viernes: detectar reels nuevos (instagram_public) → conseguir el mp4 (connector instagram si está conectado; si no, pedirlo a Jorge) → dos anuncios (Mujeres/Todos) → rotación 14 días → informe los martes.",
+  "modo": "«Botón Promocionar» (17-oct 17:48): el anuncio usa el reel ya publicado (source_instagram_media_id). Requiere importar el video a la cuenta publicitaria con POST act_911008968626641/advideos?source_instagram_media_id desde el Chrome de Jorge (token de Ads Manager); después create_ad con creative {object_id, instagram_user_id, source_instagram_media_id, call_to_action VIEW_INSTAGRAM_PROFILE}."
  },
  "reels_promocionados": [
   {
    "media_id": "17957765988017820",
    "permalink": "https://www.instagram.com/reel/DelEaZBBaEg/",
-   "fecha": "2026-10-16",
-   "video_id": "1444624741148815",
-   "ads": [
-    "120252918071040220",
-    "120252918071330220"
-   ],
-   "nota": "anuncios creados el 16-oct con el mp4 del repo (mismo video)"
+   "fecha": "2026-10-17",
+   "video_importado": "1050539047987726",
+   "ads": {
+    "mujeres": "120252927756460220",
+    "todos": "120252927756810220"
+   },
+   "nota": "anuncios con el reel del perfil (los me gusta y comentarios se acumulan ahí)"
   }
  ]
 }
