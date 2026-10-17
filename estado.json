@@ -58,5 +58,26 @@
  },
  "objetivo": "Aumentar seguidores de @jorgenape28 (proxy: visitas al perfil), con enfoque en mujeres (70 % del presupuesto).",
  "aprobacion": "Todo meme hecho por Claude se publica solo con el OK de Jorge. Los que haga Jorge se publican de inmediato.",
- "estado_campana": "ACTIVA desde 2026-10-16 20:05 (anuncios en revisión de Meta)"
+ "estado_campana": "ACTIVA desde 2026-10-16 20:05 (anuncios en revisión de Meta)",
+ "seguidores": {
+  "fuente": "Windsor instagram_public · cuenta jorgenape28 · profile_followers_count",
+  "meta": {
+   "objetivo": 10000,
+   "fecha_limite": "2026-12-30"
+  },
+  "historico": [
+   {
+    "fecha": "2026-10-17",
+    "seguidores": 622,
+    "siguiendo": 296,
+    "publicaciones": 6
+   }
+  ]
+ },
+ "tarea_programada": {
+  "id": "trig_01RF6ScAX2cKeJoq6EepN13c",
+  "nombre": "Memes IG · proponer meme (martes y viernes)",
+  "cron": "CRON_TZ=America/Bogota 52 8 * * 2,5",
+  "modo": "propone; publica solo con «publica» de Jorge"
+ }
 }
