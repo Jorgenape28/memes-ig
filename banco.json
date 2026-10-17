@@ -44,14 +44,15 @@
   {
    "slug": "convencio",
    "formato": "texto grande (quotegen.py)",
-   "estado": "entregado a Jorge 17-oct 18:12 (sin audio; él publica)",
+   "estado": "entregado a Jorge 17-oct 18:12; re-entregado con traje y corbata 17-oct 18:55 (sin audio; él publica)",
    "archivos": [
     "out/2026-10-17_convencio_moto.mp4",
     "out/2026-10-17_convencio_trotar.mp4",
     "out/2026-10-17_convencio_prediccion.mp4"
    ],
    "caption": "No sé ustedes, pero a mí me convenció.",
-   "referencia": "https://www.instagram.com/reel/Deh3wisSmtx/ (@munozlawgroup)"
+   "referencia": "https://www.instagram.com/reel/Deh3wisSmtx/ (@munozlawgroup)",
+   "foto": "fotos/jorge_traje.jpg"
   },
   {
    "slug": "rusia",

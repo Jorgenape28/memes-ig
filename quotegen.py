@@ -12,7 +12,9 @@ spec.json:
   "label": "Cliente:",
   "quote": "Doctor, yo no me robé la moto. Estaba sola y me dio pesar.",
   "punch": "No sé ustedes, pero a mí me convenció.",
-  "duration": 9.0
+  "duration": 9.0,
+  "anchor": "bottom",      # opcional: center | bottom | top
+  "offset_y": 380          # opcional: baja la foto N px para dejar aire arriba (fotos 9:16 a pantalla completa)
 }
 """
 import html
@@ -62,7 +64,7 @@ def build(spec, out_path, video_path=None):
     top = render_block(f"<div class='label'>{html.escape(spec.get('label', 'Cliente:'))}</div><div class='quote'>{html.escape(spec['quote'])}</div>")
     punch = render_block(f"<div class='punch'>{html.escape(spec['punch'])}</div>")
     t_top, t_punch = 0.5, float(spec.get("punch_at", dur - 2.8))
-    frames = video_frames(video_path, total) if video_path else make_bg_frames_from_photo(spec["photo"], total, zoom=0.08, anchor=spec.get("anchor", "bottom"))
+    frames = video_frames(video_path, total) if video_path else make_bg_frames_from_photo(spec["photo"], total, zoom=0.08, anchor=spec.get("anchor", "bottom"), offset_y=spec.get("offset_y", 0))
     tmpdir = tempfile.mkdtemp(); raw = os.path.join(tmpdir, "frames.rgb")
     with open(raw, "wb") as fh:
         for i, frame in enumerate(frames):

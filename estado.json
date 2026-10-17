@@ -173,6 +173,14 @@
     "rusia (rechazado)"
    ],
    "nota": "No volver a usar esta foto."
+  },
+  {
+   "archivo": "fotos/jorge_traje.jpg",
+   "origen": "Edición IA (ElevenLabs, gpt-image-2.5) de jorge_limpio.jpg: traje azul oscuro, camisa blanca y corbata. 1152x2048 (9:16). Pedido de Jorge 17-oct 18:39: «me puedes poner traje de corbata?»",
+   "usado_en": [
+    "convencio (moto, trotar, prediccion) — versión con traje, 17-oct 18:54"
+   ],
+   "nota": "Para reels quotegen usar offset_y 380 y punch_y 1690 (texto arriba del rostro, remate bajo la corbata)."
   }
  ],
  "material_pendiente": "Jorge debe enviar clips de 10 s con cara seria en sitios distintos (calle de noche, aeropuerto, hotel, juzgado, taxi) y clips de viajes.",
