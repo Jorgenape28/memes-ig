@@ -7,7 +7,23 @@
   "instagram": "@jorgenape28",
   "windsor_connector": "facebook"
  },
- "campaign_id": null,
- "adset_id": null,
- "ads": []
+ "campaign_id": "120252917299480220",
+ "adset_id": "120252917300730220",
+ "ads": [],
+ "adset": {
+  "daily_budget_cop": 20000,
+  "targeting": "Colombia, 18-45, solo Instagram (feed, historias, explorar, reels, feed de perfil)",
+  "optimization": "VISIT_INSTAGRAM_PROFILE",
+  "status": "paused — pendiente de método de pago/fondos en la cuenta publicitaria"
+ },
+ "rotacion": {
+  "dias_activo_por_anuncio": 14,
+  "max_anuncios_activos": 4
+ },
+ "captions": {
+  "lunes-abogado": "Lunes de abogado. Los malos también tienen derechos ⚖️",
+  "rusia": "Viajo a lugares que muchos rehúyen. Mi mamá no está de acuerdo.",
+  "cobros": "Tres años después, sigue siendo mi cliente."
+ },
+ "pendiente": "Meta rechazó create_ad el 16-oct: 'Ningún método de pago' (cuenta 911008968626641 usa saldo prepago, hoy COP 63). Al haber fondos: crear el anuncio lunes-abogado y activar campaña, conjunto y anuncio."
 }
