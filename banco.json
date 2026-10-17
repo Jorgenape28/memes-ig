@@ -5,7 +5,8 @@
   "Nombres genéricos: Mamá, Cliente, Amorcito 💗, Banco, Juzgado 14 Penal, Vecino 4B…",
   "Persona: abogado penalista ('los malos también tienen derechos'), viaja a lugares raros/peligrosos",
   "Horas consecutivas (11:02, 11:03…) o fechas viejas cuando el chiste es el tiempo",
-  "Nada se publica sin el OK de Jorge (salvo los memes que él mismo hace)"
+  "Nada se publica sin el OK de Jorge (salvo los memes que él mismo hace)",
+  "Tono (16-oct): cool, seguro y algo rebelde — viajes raros, exnovias, clientes del bajo mundo, la mamá como remate; nunca lastimero"
  ],
  "escenarios": [
   {
@@ -39,6 +40,154 @@
    ]
   },
   {
+   "slug": "rusia",
+   "estado": "publicado en cuadrícula (no como anuncio)",
+   "archivo": "out/2026-10-16_rusia.jpg",
+   "notifications": [
+    {
+     "name": "Ex",
+     "msg": "Vi que estás en Rusia. ¿Cuándo vuelves?",
+     "time": "3:12 a.m."
+    },
+    {
+     "name": "Mamá",
+     "msg": "Mijo, en las noticias dicen que allá hay guerra.",
+     "time": "3:13 a.m."
+    },
+    {
+     "name": "Taxi Moscú",
+     "msg": "Ваш водитель прибыл 🚕",
+     "time": "3:14 a.m.",
+     "initials": "T",
+     "color": "#f1c40f"
+    },
+    {
+     "name": "Amorcito 💗",
+     "msg": "¿Quién es Svetlana?",
+     "time": "3:15 a.m."
+    }
+   ],
+   "fecha": "2026-10-16"
+  },
+  {
+   "slug": "cual-es-la-buena",
+   "estado": "pendiente",
+   "tono": "cool",
+   "caption": "Mi mamá, siempre al grano.",
+   "notifications": [
+    {
+     "name": "Ex",
+     "msg": "¿Estás vivo?",
+     "time": "9:40 p.m."
+    },
+    {
+     "name": "Ex 2",
+     "msg": "Vi tu historia.",
+     "time": "9:41 p.m."
+    },
+    {
+     "name": "Ex 3",
+     "msg": "¿Sigues en Rusia?",
+     "time": "9:42 p.m."
+    },
+    {
+     "name": "Mamá",
+     "msg": "Mijo, ¿cuál de todas es la buena?",
+     "time": "9:43 p.m."
+    }
+   ]
+  },
+  {
+   "slug": "ubicacion",
+   "estado": "pendiente",
+   "tono": "cool",
+   "caption": "La ubicación nunca miente. La historia tampoco.",
+   "notifications": [
+    {
+     "name": "Amorcito 💗",
+     "msg": "¿Dónde estás?",
+     "time": "11:02 p.m."
+    },
+    {
+     "name": "Amorcito 💗",
+     "msg": "Tu ubicación dice Bogotá.",
+     "time": "11:03 p.m."
+    },
+    {
+     "name": "Amorcito 💗",
+     "msg": "Tu historia dice Dubái.",
+     "time": "11:03 p.m."
+    },
+    {
+     "name": "Recepción hotel",
+     "msg": "Señor, su visita lo espera en el lobby 🙂",
+     "time": "11:05 p.m.",
+     "initials": "H",
+     "color": "#2c3e50"
+    }
+   ]
+  },
+  {
+   "slug": "fiscal",
+   "estado": "pendiente",
+   "tono": "cool",
+   "caption": "Todo en orden.",
+   "notifications": [
+    {
+     "name": "Fiscal Rodríguez",
+     "msg": "Doctor, lo espero en la audiencia.",
+     "time": "7:50 a.m."
+    },
+    {
+     "name": "Fiscal Rodríguez",
+     "msg": "Y después, en el bar.",
+     "time": "7:51 a.m."
+    },
+    {
+     "name": "Cliente",
+     "msg": "Doctor, ¿usted es amigo de la fiscal?",
+     "time": "7:55 a.m."
+    },
+    {
+     "name": "Mamá",
+     "msg": "¿Esa fiscal es soltera?",
+     "time": "7:58 a.m."
+    }
+   ]
+  },
+  {
+   "slug": "cumpleanos",
+   "estado": "pendiente",
+   "tono": "cool",
+   "caption": "Gracias a todos.",
+   "notifications": [
+    {
+     "name": "Mamá",
+     "msg": "Feliz cumpleaños, mijo.",
+     "time": "6:00 a.m."
+    },
+    {
+     "name": "Juzgado 14 Penal",
+     "msg": "Audiencia hoy, 8:00 a.m.",
+     "time": "6:01 a.m.",
+     "initials": "J",
+     "color": "#5b6b7a"
+    },
+    {
+     "name": "Ex",
+     "msg": "Feliz cumpleaños. Igual sigues bloqueado.",
+     "time": "6:02 a.m."
+    },
+    {
+     "name": "Banco",
+     "msg": "Feliz cumpleaños. Su cuota venció ayer.",
+     "time": "6:03 a.m.",
+     "initials": "B",
+     "color": "#c0392b"
+    }
+   ]
+  },
+  {
    "slug": "lunes-abogado",
    "estado": "pendiente de aprobación",
    "archivo": "out/2026-10-16_lunes-abogado.jpg",
@@ -66,35 +215,6 @@
      "time": "11:05 a.m.",
      "initials": "B",
      "color": "#c0392b"
-    }
-   ]
-  },
-  {
-   "slug": "rusia",
-   "estado": "pendiente de aprobación",
-   "archivo": "out/2026-10-16_rusia.jpg",
-   "notifications": [
-    {
-     "name": "Ex",
-     "msg": "Vi que estás en Rusia. ¿Cuándo vuelves?",
-     "time": "3:12 a.m."
-    },
-    {
-     "name": "Mamá",
-     "msg": "Mijo, en las noticias dicen que allá hay guerra.",
-     "time": "3:13 a.m."
-    },
-    {
-     "name": "Taxi Moscú",
-     "msg": "Ваш водитель прибыл 🚕",
-     "time": "3:14 a.m.",
-     "initials": "T",
-     "color": "#f1c40f"
-    },
-    {
-     "name": "Amorcito 💗",
-     "msg": "¿Quién es Svetlana?",
-     "time": "3:15 a.m."
     }
    ]
   },

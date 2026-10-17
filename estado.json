@@ -82,12 +82,6 @@
  },
  "perfil": {
   "fijar_autorizado": "2026-10-16 20:37 — Jorge autorizó fijar 3 publicaciones (memes o viajes) y no tocar más la cuadrícula",
-  "plan_fijados": [
-   "NUEVO: out/2026-10-16_prestamista.jpg (meme de Jorge)",
-   "NUEVO: out/2026-10-16_lunes-abogado.jpg",
-   "EXISTENTE: https://www.instagram.com/p/Dedr1JHh9bA/ («Una mitad me conoce; la otra habla mal de mí.»)"
-  ],
-  "bloqueo": "La sesión de Instagram en Chrome se cerró el 16-oct (OAuth de Windsor con force_authentication); publicar y fijar requiere que Jorge inicie sesión en instagram.com en Chrome (2FA).",
   "publicaciones_existentes": [
    {
     "fecha": "2026-10-14",
@@ -110,6 +104,24 @@
     "caption": "Con las máquinas",
     "likes": 21
    }
-  ]
+  ],
+  "publicadas_en_cuadricula": [
+   {
+    "fecha": "2026-10-16",
+    "permalink": "https://www.instagram.com/p/Dek-vxDFSQe/",
+    "archivo": "out/2026-10-16_prestamista.jpg",
+    "caption": "Un viernes cualquiera.",
+    "autor": "Jorge"
+   },
+   {
+    "fecha": "2026-10-16",
+    "permalink": "https://www.instagram.com/p/Dek-4GrFcam/",
+    "archivo": "out/2026-10-16_rusia.jpg",
+    "caption": "Moscú, 3:15 a. m.",
+    "autor": "Claude (autorizado 16-oct 20:37)"
+   }
+  ],
+  "fijar_pendiente": "Instagram web no ofrece «Fijar en tu perfil» (solo la app). Jorge debe fijar desde el teléfono: Dek-vxDFSQe, Dek-4GrFcam y Dedr1JHh9bA.",
+  "direccion": "Cambios muy graduales. Persona: tipo cool, seguro, algo rebelde (público femenino). No cambiar nombre ni biografía por ahora."
  }
 }
