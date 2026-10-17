@@ -1,4 +1,6 @@
-# Tarea programada · Memes IG (martes y viernes, 8:52 a. m. Bogotá)
+# Tarea programada · Reels IG (martes y viernes, 8:52 a. m. Bogotá)
+
+**Cambio del 17-oct (16:56):** Jorge publica los reels; la tarea solo los PROMOCIONA (anuncios en video fuera de la cuadrícula) y rota. Ya no propone ni genera memes. Instrucción vigente: la del trigger trig_01RF6ScAX2cKeJoq6EepN13c (ver estado.json → acuerdo).
 
 Creada el 16-oct-2026 a las 20:22 (id trig_01RF6ScAX2cKeJoq6EepN13c) con el «listo» de Jorge. Primera corrida: martes 20 de octubre, 8:52 a. m.
 **Cambio del 16-oct (20:00):** Jorge quiere aprobar cada meme. La tarea solo PROPONE: genera el siguiente meme, lo sube al repo y se lo manda a Jorge; se publica (un anuncio en cada conjunto: Mujeres 120252917300730220 y Todos 120252917534040220) únicamente cuando Jorge responde «publica».

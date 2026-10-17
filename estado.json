@@ -173,5 +173,24 @@
    "nota": "No volver a usar esta foto."
   }
  ],
- "material_pendiente": "Jorge debe enviar clips de 10 s con cara seria en sitios distintos (calle de noche, aeropuerto, hotel, juzgado, taxi) y clips de viajes."
+ "material_pendiente": "Jorge debe enviar clips de 10 s con cara seria en sitios distintos (calle de noche, aeropuerto, hotel, juzgado, taxi) y clips de viajes.",
+ "acuerdo": {
+  "fecha": "2026-10-17 16:56",
+  "texto": "Jorge publica los reels (desde la app, con su música); Claude los promociona como anuncios (dark posts) y rota los viejos. Claude no crea ni publica contenido.",
+  "limite_meta": "Un reel existente de Instagram no se puede usar directo como anuncio desde Windsor (error 1815279: hay que importar el video a Facebook). Se promociona subiendo el mismo video como dark post (create_ad_video + video_data). Reels con música con licencia no pueden ir en anuncios: se necesita el video sin música.",
+  "flujo": "Cada martes y viernes: detectar reels nuevos (instagram_public) → conseguir el mp4 (connector instagram si está conectado; si no, pedirlo a Jorge) → dos anuncios (Mujeres/Todos) → rotación 14 días → informe los martes."
+ },
+ "reels_promocionados": [
+  {
+   "media_id": "17957765988017820",
+   "permalink": "https://www.instagram.com/reel/DelEaZBBaEg/",
+   "fecha": "2026-10-16",
+   "video_id": "1444624741148815",
+   "ads": [
+    "120252918071040220",
+    "120252918071330220"
+   ],
+   "nota": "anuncios creados el 16-oct con el mp4 del repo (mismo video)"
+  }
+ ]
 }
