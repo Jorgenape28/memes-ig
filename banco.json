@@ -6,7 +6,9 @@
   "Persona: abogado penalista ('los malos también tienen derechos'), viaja a lugares raros/peligrosos",
   "Horas consecutivas (11:02, 11:03…) o fechas viejas cuando el chiste es el tiempo",
   "Nada se publica sin el OK de Jorge (salvo los memes que él mismo hace)",
-  "Tono (16-oct): cool, seguro y algo rebelde — viajes raros, exnovias, clientes del bajo mundo, la mamá como remate; nunca lastimero"
+  "Tono (16-oct): cool, seguro y algo rebelde — viajes raros, exnovias, clientes del bajo mundo, la mamá como remate; nunca lastimero",
+  "REGLA DE ORO (16-oct): cada reel con material visual distinto; el contexto (dónde está Jorge) es parte del chiste. Sin material nuevo, no se genera.",
+  "Música viral: solo desde la app de Instagram (Jorge) y nunca en anuncios (Meta no lo permite). Los reels generados llevan solo los «ding»."
  ],
  "escenarios": [
   {
@@ -41,7 +43,7 @@
   },
   {
    "slug": "rusia",
-   "estado": "pendiente de aprobación",
+   "estado": "rechazado",
    "archivo": "out/2026-10-16_rusia_reel.mp4",
    "notifications": [
     {
@@ -71,7 +73,8 @@
    "fecha": "2026-10-16",
    "nota": "Se publicó en la cuadrícula el 16-oct y se archivó (misma selfie que el prestamista). Sirve como anuncio o con otra selfie.",
    "cover": "out/2026-10-16_rusia_reel_cover.jpg",
-   "caption": "Moscú, 3:15 a. m."
+   "caption": "Moscú, 3:15 a. m.",
+   "motivo": "16-oct 22:14: «no tiene gracia porque es lo mismo» (misma selfie y mismo formato que el prestamista). Rehacer solo con un clip distinto (p. ej. Jorge de noche en una calle extranjera)."
   },
   {
    "slug": "cual-es-la-buena",

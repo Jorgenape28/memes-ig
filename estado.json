@@ -162,5 +162,16 @@
  "formato": "SOLO REELS (Jorge, 16-oct 22:04): nada de imagen fija, ni en anuncios ni en el perfil.",
  "windsor": {
   "nota": "El 16-oct a las 21:49 se desactivó por error 'Enable write actions' (ajuste global de Windsor, no por conector) y se volvió a activar en Settings > API Access. No tocar ese interruptor."
- }
+ },
+ "material_usado": [
+  {
+   "archivo": "fotos/jorge_limpio.jpg",
+   "usado_en": [
+    "prestamista (reel y anuncio)",
+    "rusia (rechazado)"
+   ],
+   "nota": "No volver a usar esta foto."
+  }
+ ],
+ "material_pendiente": "Jorge debe enviar clips de 10 s con cara seria en sitios distintos (calle de noche, aeropuerto, hotel, juzgado, taxi) y clips de viajes."
 }
