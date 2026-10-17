@@ -3,6 +3,7 @@
 Creada el 16-oct-2026 a las 20:22 (id trig_01RF6ScAX2cKeJoq6EepN13c) con el «listo» de Jorge. Primera corrida: martes 20 de octubre, 8:52 a. m.
 **Cambio del 16-oct (20:00):** Jorge quiere aprobar cada meme. La tarea solo PROPONE: genera el siguiente meme, lo sube al repo y se lo manda a Jorge; se publica (un anuncio en cada conjunto: Mujeres 120252917300730220 y Todos 120252917534040220) únicamente cuando Jorge responde «publica».
 Cron: `CRON_TZ=America/Bogota 52 8 * * 2,5` · notificación push · no requiere el Mac.
+**Cambio del 16-oct (21:50), pendiente de aplicar en la tarea (requiere OK de Jorge):** el formato oficial es REEL (reelgen.py → mp4 9:16 + portada) y el anuncio se crea con `create_ad_video` + `create_ad` con `video_data` (ver README). Las fotos fijas quedan solo como portada.
 
 ## Instrucción de cada corrida
 

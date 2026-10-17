@@ -20,7 +20,8 @@
    "autor": "Jorge",
    "preview": "https://fb.me/2uGkhbMAPtzfAjb",
    "ig_permalink": "https://www.instagram.com/p/Dek4dkIgWLw/",
-   "formato": "imagen"
+   "formato": "imagen",
+   "estado": "PAUSADO 16-oct 21:52 (Jorge: «quita las fotos»; solo corren los de video)"
   },
   {
    "id": "120252917535440220",
@@ -32,7 +33,8 @@
    "autor": "Jorge",
    "preview": "https://fb.me/23iAfTIw1K6IkyT",
    "ig_permalink": "https://www.instagram.com/p/Dek4dkIgWLw/",
-   "formato": "imagen"
+   "formato": "imagen",
+   "estado": "PAUSADO 16-oct 21:52 (Jorge: «quita las fotos»; solo corren los de video)"
   },
   {
    "id": "120252918071040220",
@@ -104,7 +106,8 @@
   "id": "trig_01RF6ScAX2cKeJoq6EepN13c",
   "nombre": "Memes IG · proponer meme (martes y viernes)",
   "cron": "CRON_TZ=America/Bogota 52 8 * * 2,5",
-  "modo": "propone; publica solo con «publica» de Jorge"
+  "modo": "propone; publica solo con «publica» de Jorge",
+  "pendiente": "Actualizar la instrucción al formato reel (reelgen.py + create_ad_video + video_data). El sistema pidió confirmación de Jorge para editar la tarea; la versión nueva está en tarea-programada.md."
  },
  "perfil": {
   "fijar_autorizado": "2026-10-16 20:37 — Jorge autorizó fijar 3 publicaciones (memes o viajes) y no tocar más la cuadrícula",
@@ -153,7 +156,8 @@
   ],
   "fijar_pendiente": "Fijar desde la app: el reel DelEaZBBaEg y la publicación Dedr1JHh9bA («Una mitad me conoce»).",
   "direccion": "Cambios muy graduales. Persona: tipo cool, seguro, algo rebelde (público femenino). No cambiar nombre ni biografía por ahora.",
-  "nota": "Dos memes con la misma selfie se ven repetidos en la cuadrícula: usar selfies distintas para cada meme."
+  "nota": "Dos memes con la misma selfie se ven repetidos en la cuadrícula: usar selfies distintas para cada meme.",
+  "fotos_fijas": "Ninguna: la foto del prestamista se eliminó (reemplazada por el reel DelEaZBBaEg) y la de Moscú está archivada."
  },
  "formato": "REEL: video vertical 1080x1920, ~7 s, notificaciones entrando una por una con «ding» (reelgen.py). La imagen fija (memegen.py) solo sirve de portada/miniatura.",
  "windsor": {
