@@ -202,6 +202,35 @@
     "todos": "120252927756810220"
    },
    "nota": "anuncios con el reel del perfil (los me gusta y comentarios se acumulan ahí)"
+  },
+  {
+   "media_id": "18081157391447610",
+   "tipo": "HISTORIA (no reel): Jorge publicó el video «cuentas de penalista» como historia el 17-oct ~21:17 y la promocionó él mismo desde la app",
+   "permalink": "(historia; copia del anuncio: https://www.instagram.com/p/DennF3_AYVQ/)",
+   "fecha": "2026-10-17",
+   "video_importado": "1837599260565499 (creado por Meta al crear el anuncio; no hizo falta importar)",
+   "ads": {
+    "mujeres": "120252928449270220",
+    "todos": "120252928449850220"
+   },
+   "boost_de_jorge": {
+    "campana": "120252928443210220",
+    "conjunto": "120252928443320220",
+    "anuncio": "120252928443630220",
+    "presupuesto_total_cop": 25466,
+    "inicio": "2026-10-17T21:28-05:00",
+    "fin": "2026-10-18T21:28-05:00",
+    "segmentacion": "Colombia 18-65 todos; FB feed/story/reels + IG story/reels; VISIT_INSTAGRAM_PROFILE",
+    "nota": "Campaña «Publicación de Instagram» creada por el botón Promocionar. No tocarla."
+   },
+   "estado_inicial": "ACTIVE / IN_PROCESS (revisión de Meta) a las 21:40 del 17-oct",
+   "nota": "Reel «cuentas» (out/2026-10-17_cuentas_penalista.mp4, con la canción que Jorge le puso). Verificar el martes que los dos anuncios no quedaran rechazados por ser media de historia o por la música."
+  }
+ ],
+ "historial": [
+  {
+   "fecha": "2026-10-17 21:40",
+   "evento": "Jorge publicó «cuentas de penalista» como historia y la promocionó desde la app (COP 25.466, 1 día). Claude la puso además en los conjuntos Mujeres y Todos (sin gasto extra: el presupuesto es por conjunto)."
   }
  ]
 }
