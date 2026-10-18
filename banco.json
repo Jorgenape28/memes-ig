@@ -14,13 +14,14 @@
   {
    "slug": "cuentas-penalista",
    "formato": "lista estilo IG (listgen.py): texto blanco redondeado con borde negro, centrado, línea por línea sobre fondo desenfocado",
-   "estado": "enviado a Jorge para aprobación 17-oct 19:20 (sin audio; él publica)",
+   "estado": "v2 con el texto de Jorge (DIAN, esposa, novia, arriendo irrisorio, cafés) enviada para aprobación 17-oct 20:35 (sin audio; él publica)",
    "archivos": [
     "out/2026-10-17_cuentas_penalista.mp4"
    ],
    "spec": "specs/2026-10-17_cuentas_penalista.json",
    "caption_sugerido": "Los cafés por fuera me van a acabar ☕",
-   "referencia": "reel de @tomasrestrepog_ («La gente jura que ganar 100 palos al mes es haberla coronado»), 4.254 likes / 2.743 compartidos — Jorge: «Está mejor este texto» (17-oct 19:12)"
+   "referencia": "reel de @tomasrestrepog_ («La gente jura que ganar 100 palos al mes es haberla coronado»), 4.254 likes / 2.743 compartidos — Jorge: «Está mejor este texto» (17-oct 19:12)",
+   "texto": "La gente cree que un abogado que factura 100 palos al mes ya la hizo; pero: $34.300.000 DIAN · $15.000.000 Plata para la esposa · $20.000.000 Plata para la novia · $680.000 Arriendo y servicios · $30.000.000 Cafés por fuera ☕❤️ · Felicitaciones, ahorraste $20.000 · 100 palos al mes no es libertad, es apenas sobrevivir"
   },
   {
    "slug": "prestamista",
