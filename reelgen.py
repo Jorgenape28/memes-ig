@@ -199,13 +199,13 @@ def build(spec, out_path, video_path=None, t0=0.9, gap=1.25, hold=2.6, bg_second
     return out_path, duration
 
 
-def video_frames(video_path, total):
-    """Frames 9:16 de un clip (escala y recorta al centro), en bucle si es más corto."""
+def video_frames(video_path, total, start=0.0):
+    """Frames 9:16 de un clip (escala y recorta al centro), en bucle si es más corto. start = segundo inicial."""
     probe = subprocess.run(["ffprobe", "-v", "error", "-select_streams", "v:0", "-show_entries", "stream=width,height", "-of", "csv=p=0", video_path], capture_output=True, text=True).stdout.strip().split(",")
     vw, vh = int(probe[0]), int(probe[1])
     scale = max(W / vw, H / vh)
     sw, sh = int(vw * scale + 1), int(vh * scale + 1)
-    cmd = ["ffmpeg", "-loglevel", "error", "-stream_loop", "-1", "-i", video_path, "-vf", f"scale={sw}:{sh},crop={W}:{H}", "-r", str(FPS), "-frames:v", str(total), "-f", "rawvideo", "-pix_fmt", "rgb24", "-"]
+    cmd = ["ffmpeg", "-loglevel", "error", "-stream_loop", "-1", "-ss", str(start), "-i", video_path, "-vf", f"scale={sw}:{sh},crop={W}:{H}", "-r", str(FPS), "-frames:v", str(total), "-f", "rawvideo", "-pix_fmt", "rgb24", "-"]
     proc = subprocess.Popen(cmd, stdout=subprocess.PIPE)
     size = W * H * 3
     while True:

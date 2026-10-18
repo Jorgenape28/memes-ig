@@ -12,6 +12,17 @@
  ],
  "escenarios": [
   {
+   "slug": "asesorias",
+   "formato": "lista estilo IG (listgen.py) sobre clip de Jorge manejando (IMG_7094.mov, desde el s 1,6)",
+   "estado": "entregado a Jorge 18-oct 17:35 (sin audio; él pone la música y publica)",
+   "archivos": [
+    "out/2026-10-18_asesorias.mp4"
+   ],
+   "spec": "specs/2026-10-18_asesorias.json",
+   "texto": "Asesorías ⚖️ · Solo escuchar: $50 · Escuchar y abrazar: $150 · Ya con beso: $250",
+   "autor_texto": "Jorge"
+  },
+  {
    "slug": "cuentas-penalista",
    "formato": "lista estilo IG (listgen.py): texto blanco redondeado con borde negro, centrado, línea por línea sobre fondo desenfocado",
    "estado": "v2 con el texto de Jorge (DIAN, esposa, novia, arriendo irrisorio, cafés) enviada para aprobación 17-oct 20:35 (sin audio; él publica)",

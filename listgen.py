@@ -109,9 +109,9 @@ def build(spec, out_path, video_path=None):
     x0 = (W - width) // 2
 
     if video_path:
-        src = video_frames(video_path, total)
+        src = video_frames(video_path, total, float(spec.get("video_start", 0)))
         blur = int(spec.get("blur", 12)); dark = float(spec.get("dark", 0.6))
-        frames = (Image.eval(f.filter(ImageFilter.GaussianBlur(blur)), lambda v: int(v * dark)) for f in src)
+        frames = (Image.eval(f.filter(ImageFilter.GaussianBlur(blur)) if blur > 0 else f, lambda v: int(v * dark)) for f in src)
     else:
         big = bg_from_photo(spec["photo"], int(spec.get("blur", 12)), float(spec.get("dark", 0.6)))
         def _frames():

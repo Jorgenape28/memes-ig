@@ -1,0 +1,14 @@
+{
+ "video_start": 1.6,
+ "blur": 0,
+ "dark": 0.78,
+ "width": 1000,
+ "duration": 11.0,
+ "top": 640,
+ "blocks": [
+  {"text": "Asesorías ⚖️", "size": 86, "t": 0.5, "gap": 50},
+  {"text": "Solo escuchar: $50", "size": 70, "t": 2.2, "gap": 22},
+  {"text": "Escuchar y abrazar: $150", "size": 70, "t": 4.2, "gap": 22},
+  {"text": "Ya con beso: $250", "size": 70, "t": 6.6, "gap": 0}
+ ]
+}
