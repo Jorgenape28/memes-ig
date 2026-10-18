@@ -75,15 +75,17 @@
  "adsets": {
   "mujeres": {
    "id": "120252917300730220",
-   "nombre": "Memes · Mujeres 24-40 · Colombia · Solo Instagram",
-   "daily_budget_cop": 14000,
-   "targeting": "Colombia, mujeres 24-40, solo Instagram"
+   "nombre": "Memes · Mujeres 18-35 · Bogotá e Ibagué · Solo Instagram",
+   "daily_budget_cop": 16000,
+   "targeting": "Mujeres 18-35; Bogotá (radio 22 km desde 4.6533,-74.0836) e Ibagué (radio 12 km desde 4.4389,-75.2322); solo Instagram (stream, story, explore, reels, explore_home, profile_feed); Advantage audience off",
+   "cambio": "18-oct 11:40 por orden de Jorge: «segmentar 18-35 en Ibagué y Bogotá y darle preponderancia presupuestaria» (antes: Colombia, mujeres 24-40, COP 14.000/día)"
   },
   "todos": {
    "id": "120252917534040220",
    "nombre": "Memes · Todos 20-45 · Colombia · Solo Instagram",
-   "daily_budget_cop": 6000,
-   "targeting": "Colombia, todos 20-45, solo Instagram"
+   "daily_budget_cop": 4000,
+   "targeting": "Colombia, todos 20-45, solo Instagram",
+   "cambio": "18-oct 11:40: de COP 6.000 a 4.000/día para dar preponderancia al conjunto de mujeres (total sigue en COP 20.000/día)"
   }
  },
  "objetivo": "Aumentar seguidores de @jorgenape28 (proxy: visitas al perfil), con enfoque en mujeres (70 % del presupuesto).",
@@ -159,7 +161,8 @@
   "fijar_pendiente": "Fijar desde la app: el reel DelEaZBBaEg y la publicación Dedr1JHh9bA («Una mitad me conoce»).",
   "direccion": "Cambios muy graduales. Persona: tipo cool, seguro, algo rebelde (público femenino). No cambiar nombre ni biografía por ahora.",
   "nota": "Dos memes con la misma selfie se ven repetidos en la cuadrícula: usar selfies distintas para cada meme.",
-  "fotos_fijas": "Ninguna: la foto del prestamista se eliminó (reemplazada por el reel DelEaZBBaEg) y la de Moscú está archivada."
+  "fotos_fijas": "Ninguna: la foto del prestamista se eliminó (reemplazada por el reel DelEaZBBaEg) y la de Moscú está archivada.",
+  "retroalimentacion": "18-oct (Jorge): el reel/historia «cuentas de penalista» (esposa, novia, cafés) generó respuestas emocionales en mujeres y un mensaje directo indignado. Ese sentimiento (provocación, badboy con humor) es el que Jorge busca en las mujeres: repetir ese tipo de contenido."
  },
  "formato": "SOLO REELS (Jorge, 16-oct 22:04): nada de imagen fija, ni en anuncios ni en el perfil.",
  "windsor": {
@@ -231,6 +234,10 @@
   {
    "fecha": "2026-10-17 21:40",
    "evento": "Jorge publicó «cuentas de penalista» como historia y la promocionó desde la app (COP 25.466, 1 día). Claude la puso además en los conjuntos Mujeres y Todos (sin gasto extra: el presupuesto es por conjunto)."
+  },
+  {
+   "fecha": "2026-10-18 11:40",
+   "evento": "Conjunto Mujeres → 18-35, Bogotá e Ibagué (radios), COP 16.000/día; Todos → COP 4.000/día. Tarea programada actualizada. Retroalimentación de Jorge: el contenido provocador funciona con mujeres."
   }
  ]
 }
