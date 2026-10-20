@@ -90,7 +90,7 @@
  },
  "objetivo": "Aumentar seguidores de @jorgenape28 (proxy: visitas al perfil), con enfoque en mujeres (70 % del presupuesto).",
  "aprobacion": "Todo meme hecho por Claude se publica solo con el OK de Jorge. Los que haga Jorge se publican de inmediato.",
- "estado_campana": "ACTIVA. Activos (20-oct 14:40): DepTcxBO1wa, cuentas y DelEaZBBaEg en Mujeres y Todos (3 por conjunto). Pausados: Der5WAchoPb (ambos).",
+ "estado_campana": "ACTIVA. Activos (20-oct 14:58): DepTcxBO1wa, cuentas, DelEaZBBaEg y Des7GQ9BPF_ (corriendo) en Mujeres y Todos (4 por conjunto, el máximo). Pausados: Der5WAchoPb (ambos).",
  "seguidores": {
   "fuente": "Windsor instagram_public · cuenta jorgenape28 · profile_followers_count",
   "meta": {
@@ -265,13 +265,13 @@
    "media_id": "18147906133603996",
    "permalink": "https://www.instagram.com/reel/Des7GQ9BPF_/",
    "fecha": "2026-10-20",
-   "descripcion": "«#abogadas #abogados» (publicado 19-oct 23:01 Bogotá)",
+   "descripcion": "«#abogadas #abogados» (publicado 19-oct 23:01 Bogotá) | reel «corriendo» (#abogadas #abogados); anuncios creados el 20-oct 14:58 a pedido de Jorge («tiene un gran rendimiento»)",
    "video_importado": "3300483006804951",
    "ads": {
-    "mujeres": null,
-    "todos": null
+    "mujeres": "120252975326520220",
+    "todos": "120252975328640220"
    },
-   "estado_inicial": "PENDIENTE 20-oct 14:15 Bogotá: video importado desde el Chrome de Jorge, pero create_ad fue bloqueado por el clasificador de permisos de la tarea programada (categoría «transacciones del mundo real»). Crear los dos anuncios con el OK de Jorge en una sesión interactiva o en la próxima corrida."
+   "estado_inicial": "ACTIVE / en revisión 20-oct 14:58"
   }
  ],
  "historial": [
@@ -298,6 +298,10 @@
   {
    "fecha": "2026-10-20 14:40",
    "evento": "Orden de Jorge: usar los 3 reels de mayor rendimiento y enfocarse en seguidores. Reactivados 120252928449270220, 120252928449850220 (cuentas) y 120252927756460220, 120252927756810220 (DelEaZBBaEg); pausados 120252959244540220 y 120252959245030220 (Der5WAchoPb). DepTcxBO1wa sigue activo."
+  },
+  {
+   "fecha": "2026-10-20 14:58",
+   "evento": "Jorge: «¿el reel en el que estoy corriendo está promocionado? tiene gran rendimiento» → anuncios 120252975326520220 (Mujeres) y 120252975328640220 (Todos) con el reel Des7GQ9BPF_ (video ya importado 3300483006804951 por la corrida de la mañana)."
   }
  ],
  "pausados_por_jorge": [
