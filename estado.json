@@ -90,7 +90,7 @@
  },
  "objetivo": "Aumentar seguidores de @jorgenape28 (proxy: visitas al perfil), con enfoque en mujeres (70 % del presupuesto).",
  "aprobacion": "Todo meme hecho por Claude se publica solo con el OK de Jorge. Los que haga Jorge se publican de inmediato.",
- "estado_campana": "ACTIVA desde el 19-oct 19:40 (Jorge la había pausado el 19-oct a las 09:09 desde la app; Claude la reactivó para los anuncios de los videos del carro, con los anuncios anteriores en pausa). Activos: solo los 4 anuncios de Der5WAchoPb y DepTcxBO1wa.",
+ "estado_campana": "ACTIVA. Activos (20-oct 14:40): DepTcxBO1wa, cuentas y DelEaZBBaEg en Mujeres y Todos (3 por conjunto). Pausados: Der5WAchoPb (ambos).",
  "seguidores": {
   "fuente": "Windsor instagram_public · cuenta jorgenape28 · profile_followers_count",
   "meta": {
@@ -209,7 +209,8 @@
     "mujeres": "120252927756460220",
     "todos": "120252927756810220"
    },
-   "nota": "anuncios con el reel del perfil (los me gusta y comentarios se acumulan ahí)"
+   "nota": "anuncios con el reel del perfil (los me gusta y comentarios se acumulan ahí)",
+   "estado": "REACTIVADO 20-oct 14:40 por orden de Jorge (top 3 por costo por visita)"
   },
   {
    "media_id": "18081157391447610",
@@ -232,7 +233,8 @@
     "nota": "Campaña «Publicación de Instagram» creada por el botón Promocionar. No tocarla."
    },
    "estado_inicial": "ACTIVE / IN_PROCESS (revisión de Meta) a las 21:40 del 17-oct",
-   "nota": "Reel «cuentas» (out/2026-10-17_cuentas_penalista.mp4, con la canción que Jorge le puso). Verificar el martes que los dos anuncios no quedaran rechazados por ser media de historia o por la música."
+   "nota": "Reel «cuentas» (out/2026-10-17_cuentas_penalista.mp4, con la canción que Jorge le puso). Verificar el martes que los dos anuncios no quedaran rechazados por ser media de historia o por la música.",
+   "estado": "REACTIVADO 20-oct 14:40 por orden de Jorge (top 3 por costo por visita)"
   },
   {
    "media_id": "18019082462743271",
@@ -244,7 +246,8 @@
     "mujeres": "120252959244540220",
     "todos": "120252959245030220"
    },
-   "estado_inicial": "ACTIVE / IN_PROCESS 19-oct 19:40"
+   "estado_inicial": "ACTIVE / IN_PROCESS 19-oct 19:40",
+   "estado": "PAUSADO 20-oct 14:40 (fuera del top 3: COP 192/visita con poco gasto)"
   },
   {
    "media_id": "18014065625983538",
@@ -291,6 +294,10 @@
   {
    "fecha": "2026-10-20 14:15",
    "evento": "Corrida del martes: reel nuevo Des7GQ9BPF_ (media 18147906133603996) importado como video 3300483006804951; create_ad bloqueado por permisos de la tarea programada (sin anuncios creados). Activos y aprobados los 4 anuncios del carro; nada que pausar (ninguno supera 14 días). Informe 13-19 oct: Mujeres COP 27.434 / 200 visitas (CPV 137); Todos COP 17.155 / 180 visitas (CPV 95); boost de Jorge COP 25.170 / 146 visitas (CPV 172). Seguidores 642 (+20 desde el 17-oct)."
+  },
+  {
+   "fecha": "2026-10-20 14:40",
+   "evento": "Orden de Jorge: usar los 3 reels de mayor rendimiento y enfocarse en seguidores. Reactivados 120252928449270220, 120252928449850220 (cuentas) y 120252927756460220, 120252927756810220 (DelEaZBBaEg); pausados 120252959244540220 y 120252959245030220 (Der5WAchoPb). DepTcxBO1wa sigue activo."
   }
  ],
  "pausados_por_jorge": [
@@ -304,7 +311,7 @@
     "120252928449850220"
    ],
    "campana_pausada": "120252928443210220 (boost de Jorge, ya vencida)",
-   "nota": "No reactivar sin OK de Jorge."
+   "nota": "Anulado el 20-oct 14:40: Jorge ordenó usar los 3 reels de mayor rendimiento; los anuncios de DelEaZBBaEg y «cuentas» se reactivaron."
   }
  ],
  "informes": [
@@ -362,5 +369,19 @@
    "ganados_desde_17oct": 20,
    "ritmo_necesario_dia": 132
   }
- ]
+ ],
+ "estrategia": {
+  "fecha": "2026-10-20 14:40",
+  "orden": "Jorge: «Usa todos los reels escogiendo los 3 con mayor rendimiento y enfócate en crecimiento de seguidores»",
+  "regla": "Mantener activos en cada conjunto los 3 reels con menor costo por visita al perfil (y, cuando haya datos, más seguidores ganados por semana). Cada martes se recalcula con los datos de la semana: entra el que mejore a alguno de los 3 y sale el peor. Un reel nuevo entra a prueba solo si desplaza al peor o si hay cupo (máx. 4 activos por conjunto).",
+  "activos_20oct": [
+   "DepTcxBO1wa (COP 79/visita)",
+   "cuentas 18081157391447610 (COP 98/visita)",
+   "DelEaZBBaEg (COP 144/visita)"
+  ],
+  "fuera": [
+   "Der5WAchoPb (COP 192/visita, pausado 20-oct)",
+   "Des7GQ9BPF_ (sin datos; video importado, sin anuncios)"
+  ]
+ }
 }
