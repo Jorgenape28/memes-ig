@@ -90,7 +90,7 @@
  },
  "objetivo": "Aumentar seguidores de @jorgenape28 (proxy: visitas al perfil), con enfoque en mujeres (70 % del presupuesto).",
  "aprobacion": "Todo meme hecho por Claude se publica solo con el OK de Jorge. Los que haga Jorge se publican de inmediato.",
- "estado_campana": "ACTIVA desde 2026-10-16 20:05 (anuncios en revisión de Meta)",
+ "estado_campana": "ACTIVA desde el 19-oct 19:40 (Jorge la había pausado el 19-oct a las 09:09 desde la app; Claude la reactivó para los anuncios de los videos del carro, con los anuncios anteriores en pausa). Activos: solo los 4 anuncios de Der5WAchoPb y DepTcxBO1wa.",
  "seguidores": {
   "fuente": "Windsor instagram_public · cuenta jorgenape28 · profile_followers_count",
   "meta": {
@@ -228,6 +228,30 @@
    },
    "estado_inicial": "ACTIVE / IN_PROCESS (revisión de Meta) a las 21:40 del 17-oct",
    "nota": "Reel «cuentas» (out/2026-10-17_cuentas_penalista.mp4, con la canción que Jorge le puso). Verificar el martes que los dos anuncios no quedaran rechazados por ser media de historia o por la música."
+  },
+  {
+   "media_id": "18019082462743271",
+   "permalink": "https://www.instagram.com/reel/Der5WAchoPb/",
+   "fecha": "2026-10-19",
+   "descripcion": "«Mis tarifas para solucionar problemas» (asesorías: escuchar/abrazar/beso) sobre clip de Jorge manejando",
+   "video_importado": "2678427929263294",
+   "ads": {
+    "mujeres": "120252959244540220",
+    "todos": "120252959245030220"
+   },
+   "estado_inicial": "ACTIVE / IN_PROCESS 19-oct 19:40"
+  },
+  {
+   "media_id": "18014065625983538",
+   "permalink": "https://www.instagram.com/reel/DepTcxBO1wa/",
+   "fecha": "2026-10-19",
+   "descripcion": "«Subo un estado parchado» (video de Jorge en el carro de noche, 18-oct)",
+   "video_importado": "1583155013494592",
+   "ads": {
+    "mujeres": "120252959247600220",
+    "todos": "120252959248230220"
+   },
+   "estado_inicial": "ACTIVE / IN_PROCESS 19-oct 19:40"
   }
  ],
  "historial": [
@@ -242,6 +266,24 @@
   {
    "fecha": "2026-10-18 12:34",
    "evento": "Retroalimentación de Jorge (captura): seguidores nuevos «desde tu anuncio», likes al reel y a la historia, comentarios sobre el arriendo de $680.000 y sobre ser amante. Confirmado: el contenido también existe como reel."
+  },
+  {
+   "fecha": "2026-10-19 19:40",
+   "evento": "Orden de Jorge: parar campañas y promocionar los videos del carro. Pausados los 4 anuncios anteriores y la campaña boost; importados los reels Der5WAchoPb y DepTcxBO1wa; 4 anuncios nuevos (Mujeres/Todos); campaña Memes reactivada (estaba en pausa desde las 09:09)."
+  }
+ ],
+ "pausados_por_jorge": [
+  {
+   "fecha": "2026-10-19 19:33",
+   "orden": "«Si hay alguna campaña deténla. Promociona los videos en el que voy en el carro»",
+   "anuncios_pausados": [
+    "120252927756460220",
+    "120252927756810220",
+    "120252928449270220",
+    "120252928449850220"
+   ],
+   "campana_pausada": "120252928443210220 (boost de Jorge, ya vencida)",
+   "nota": "No reactivar sin OK de Jorge."
   }
  ]
 }
