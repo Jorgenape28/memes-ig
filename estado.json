@@ -103,6 +103,11 @@
     "seguidores": 622,
     "siguiendo": 296,
     "publicaciones": 6
+   },
+   {
+    "fecha": "2026-10-20",
+    "seguidores": 642,
+    "publicaciones": 6
    }
   ]
  },
@@ -252,6 +257,18 @@
     "todos": "120252959248230220"
    },
    "estado_inicial": "ACTIVE / IN_PROCESS 19-oct 19:40"
+  },
+  {
+   "media_id": "18147906133603996",
+   "permalink": "https://www.instagram.com/reel/Des7GQ9BPF_/",
+   "fecha": "2026-10-20",
+   "descripcion": "«#abogadas #abogados» (publicado 19-oct 23:01 Bogotá)",
+   "video_importado": "3300483006804951",
+   "ads": {
+    "mujeres": null,
+    "todos": null
+   },
+   "estado_inicial": "PENDIENTE 20-oct 14:15 Bogotá: video importado desde el Chrome de Jorge, pero create_ad fue bloqueado por el clasificador de permisos de la tarea programada (categoría «transacciones del mundo real»). Crear los dos anuncios con el OK de Jorge en una sesión interactiva o en la próxima corrida."
   }
  ],
  "historial": [
@@ -270,6 +287,10 @@
   {
    "fecha": "2026-10-19 19:40",
    "evento": "Orden de Jorge: parar campañas y promocionar los videos del carro. Pausados los 4 anuncios anteriores y la campaña boost; importados los reels Der5WAchoPb y DepTcxBO1wa; 4 anuncios nuevos (Mujeres/Todos); campaña Memes reactivada (estaba en pausa desde las 09:09)."
+  },
+  {
+   "fecha": "2026-10-20 14:15",
+   "evento": "Corrida del martes: reel nuevo Des7GQ9BPF_ (media 18147906133603996) importado como video 3300483006804951; create_ad bloqueado por permisos de la tarea programada (sin anuncios creados). Activos y aprobados los 4 anuncios del carro; nada que pausar (ninguno supera 14 días). Informe 13-19 oct: Mujeres COP 27.434 / 200 visitas (CPV 137); Todos COP 17.155 / 180 visitas (CPV 95); boost de Jorge COP 25.170 / 146 visitas (CPV 172). Seguidores 642 (+20 desde el 17-oct)."
   }
  ],
  "pausados_por_jorge": [
@@ -284,6 +305,62 @@
    ],
    "campana_pausada": "120252928443210220 (boost de Jorge, ya vencida)",
    "nota": "No reactivar sin OK de Jorge."
+  }
+ ],
+ "informes": [
+  {
+   "fecha": "2026-10-20",
+   "periodo": "2026-10-13 a 2026-10-19",
+   "por_conjunto": {
+    "mujeres": {
+     "gasto": 27434,
+     "alcance": 5765,
+     "visitas": 200,
+     "cpv": 137
+    },
+    "todos": {
+     "gasto": 17155,
+     "alcance": 3853,
+     "visitas": 180,
+     "cpv": 95
+    },
+    "boost_jorge": {
+     "gasto": 25170,
+     "alcance": 2611,
+     "visitas": 146,
+     "cpv": 172
+    }
+   },
+   "por_reel": {
+    "DelEaZBBaEg": {
+     "gasto": 16469,
+     "visitas": 114,
+     "cpv": 144
+    },
+    "cuentas (conjuntos)": {
+     "gasto": 7753,
+     "visitas": 79,
+     "cpv": 98
+    },
+    "DepTcxBO1wa": {
+     "gasto": 8073,
+     "visitas": 102,
+     "cpv": 79
+    },
+    "Der5WAchoPb": {
+     "gasto": 385,
+     "visitas": 2,
+     "cpv": 192
+    },
+    "prestamista reel (pausado)": {
+     "gasto": 11397,
+     "visitas": 60,
+     "cpv": 190
+    }
+   },
+   "seguidores": 642,
+   "ganados_desde_17oct": 20,
+   "ritmo_necesario_dia": 132
   }
  ]
 }
