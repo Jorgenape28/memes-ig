@@ -90,7 +90,7 @@
  },
  "objetivo": "Aumentar seguidores de @jorgenape28 (proxy: visitas al perfil), con enfoque en mujeres (70 % del presupuesto).",
  "aprobacion": "Todo meme hecho por Claude se publica solo con el OK de Jorge. Los que haga Jorge se publican de inmediato.",
- "estado_campana": "ACTIVA. Activos (20-oct 14:58): DepTcxBO1wa, cuentas, DelEaZBBaEg y Des7GQ9BPF_ (corriendo) en Mujeres y Todos (4 por conjunto, el máximo). Pausados: Der5WAchoPb (ambos).",
+ "estado_campana": "PAUSADA POR JORGE desde el 20-oct 22:57 (Bogotá; no fue Claude). No reactivar sin su OK. Anuncios con status ACTIVE dentro de la campaña (quedan en CAMPAIGN_PAUSED): DepTcxBO1wa, cuentas, DelEaZBBaEg, Des7GQ9BPF_ y Dew9WhxByAo (5 por conjunto; al reactivar aplicar el máximo de 4: candidato a salir DelEaZBBaEg, el de mayor costo por visita). Pausados a nivel anuncio: Der5WAchoPb (ambos) y los 4 de prestamista.",
  "seguidores": {
   "fuente": "Windsor instagram_public · cuenta jorgenape28 · profile_followers_count",
   "meta": {
@@ -108,6 +108,12 @@
     "fecha": "2026-10-20",
     "seguidores": 642,
     "publicaciones": 6
+   },
+   {
+    "fecha": "2026-10-23",
+    "seguidores": 642,
+    "publicaciones": 6,
+    "nota": "caché de Windsor (puede ir con un día de atraso)"
    }
   ]
  },
@@ -272,6 +278,18 @@
     "todos": "120252975328640220"
    },
    "estado_inicial": "ACTIVE / en revisión 20-oct 14:58"
+  },
+  {
+   "media_id": "17931688410419366",
+   "permalink": "https://www.instagram.com/reel/Dew9WhxByAo/",
+   "fecha": "2026-10-23",
+   "descripcion": "«#abogados cuando el juez revisa los escritos del judicante 🥺🥺» (publicado 21-oct 12:36 Bogotá)",
+   "video_importado": "1872722224090219",
+   "ads": {
+    "mujeres": "120253036317030220",
+    "todos": "120253036323540220"
+   },
+   "estado_inicial": "ACTIVE / IN_PROCESS (revisión de Meta) 23-oct 10:05; la campaña Memes está PAUSADA por Jorge desde el 20-oct 22:57, así que no corre hasta que él la reactive"
   }
  ],
  "historial": [
@@ -302,6 +320,10 @@
   {
    "fecha": "2026-10-20 14:58",
    "evento": "Jorge: «¿el reel en el que estoy corriendo está promocionado? tiene gran rendimiento» → anuncios 120252975326520220 (Mujeres) y 120252975328640220 (Todos) con el reel Des7GQ9BPF_ (video ya importado 3300483006804951 por la corrida de la mañana)."
+  },
+  {
+   "fecha": "2026-10-23 10:05",
+   "evento": "Corrida del viernes: reel nuevo Dew9WhxByAo (media 17931688410419366) importado como video 1872722224090219; anuncios 120253036317030220 (Mujeres) y 120253036323540220 (Todos), en revisión. Hallazgo: la campaña Memes está pausada desde el 20-oct 22:57 (Jorge), nada corre desde entonces; no se reactivó (sin su OK). Ningún anuncio rechazado (los WITH_ISSUES son los de prestamista, ya pausados, error de formato 2446429). Nada supera 14 días. Gasto 16-22 oct por anuncio: DepTcxBO1wa M 24.370/283 visitas (86), T 5.531/106 (52); DelEaZBBaEg M 10.686/63 (170), T 5.805/51 (114); cuentas M 2.571/18 (143), T 5.672/65 (87); Des7GQ9BPF_ M 544/9 (60), T 32/1. Seguidores 642 (caché)."
   }
  ],
  "pausados_por_jorge": [
@@ -385,7 +407,9 @@
   ],
   "fuera": [
    "Der5WAchoPb (COP 192/visita, pausado 20-oct)",
-   "Des7GQ9BPF_ (sin datos; video importado, sin anuncios)"
-  ]
+   "Des7GQ9BPF_ (sin datos; video importado, sin anuncios)",
+   "Dew9WhxByAo (nuevo 23-oct, anuncios creados, sin datos)"
+  ],
+  "nota_23oct": "Campaña pausada por Jorge el 20-oct 22:57. Cuando la reactive: dejar 4 por conjunto pausando el de mayor costo por visita (DelEaZBBaEg, 170/114) salvo que Jorge diga otra cosa."
  }
 }
