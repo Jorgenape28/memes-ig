@@ -90,7 +90,7 @@
  },
  "objetivo": "Aumentar seguidores de @jorgenape28 (proxy: visitas al perfil), con enfoque en mujeres (70 % del presupuesto).",
  "aprobacion": "Todo meme hecho por Claude se publica solo con el OK de Jorge. Los que haga Jorge se publican de inmediato.",
- "estado_campana": "PAUSADA POR JORGE desde el 20-oct 22:57 (Bogotá; no fue Claude). No reactivar sin su OK. Anuncios con status ACTIVE dentro de la campaña (quedan en CAMPAIGN_PAUSED): DepTcxBO1wa, cuentas, DelEaZBBaEg, Des7GQ9BPF_ y Dew9WhxByAo (5 por conjunto; al reactivar aplicar el máximo de 4: candidato a salir DelEaZBBaEg, el de mayor costo por visita). Pausados a nivel anuncio: Der5WAchoPb (ambos) y los 4 de prestamista.",
+ "estado_campana": "ACTIVA desde el 23-oct 23:25 (orden de Jorge: «promociona mis dos últimos reels»). Activos: Dew9WhxByAo (juez) y Des7GQ9BPF_ (corriendo) en Mujeres y Todos. Pausados a nivel anuncio: DepTcxBO1wa, cuentas, DelEaZBBaEg, Der5WAchoPb y los 4 de prestamista. De3PqsqBXfA no se puede promocionar (música con derechos).",
  "seguidores": {
   "fuente": "Windsor instagram_public · cuenta jorgenape28 · profile_followers_count",
   "meta": {
@@ -290,6 +290,19 @@
     "todos": "120253036323540220"
    },
    "estado_inicial": "ACTIVE / IN_PROCESS (revisión de Meta) 23-oct 10:05; la campaña Memes está PAUSADA por Jorge desde el 20-oct 22:57, así que no corre hasta que él la reactive"
+  },
+  {
+   "media_id": "18105302426376923",
+   "permalink": "https://www.instagram.com/reel/De3PqsqBXfA/",
+   "fecha": "2026-10-23",
+   "descripcion": "«Será que pronto nos reemplazan?» (#abogados #abogada), publicado 23-oct 23:12",
+   "video_importado": "1749443082804441",
+   "ads": {
+    "mujeres": null,
+    "todos": null
+   },
+   "bloqueado_por_musica": true,
+   "nota": "Meta rechazó create_ad (subcódigo 2875030): «Los reels que usan música protegida por derechos de autor no se pueden promocionar como anuncios». No reintentar salvo que Jorge lo vuelva a publicar con audio original o de la biblioteca apta para anuncios (sería un media_id nuevo)."
   }
  ],
  "historial": [
@@ -324,6 +337,10 @@
   {
    "fecha": "2026-10-23 10:05",
    "evento": "Corrida del viernes: reel nuevo Dew9WhxByAo (media 17931688410419366) importado como video 1872722224090219; anuncios 120253036317030220 (Mujeres) y 120253036323540220 (Todos), en revisión. Hallazgo: la campaña Memes está pausada desde el 20-oct 22:57 (Jorge), nada corre desde entonces; no se reactivó (sin su OK). Ningún anuncio rechazado (los WITH_ISSUES son los de prestamista, ya pausados, error de formato 2446429). Nada supera 14 días. Gasto 16-22 oct por anuncio: DepTcxBO1wa M 24.370/283 visitas (86), T 5.531/106 (52); DelEaZBBaEg M 10.686/63 (170), T 5.805/51 (114); cuentas M 2.571/18 (143), T 5.672/65 (87); Des7GQ9BPF_ M 544/9 (60), T 32/1. Seguidores 642 (caché)."
+  },
+  {
+   "fecha": "2026-10-23 23:25",
+   "evento": "Orden «promociona mis dos últimos reels»: De3PqsqBXfA importado pero Meta lo rechaza por música con derechos (2875030); corren Dew9WhxByAo (anuncios de la mañana) y Des7GQ9BPF_ como sustituto; pausados DepTcxBO1wa, cuentas y DelEaZBBaEg; campaña reactivada (estaba en pausa desde el 20-oct 22:57)."
   }
  ],
  "pausados_por_jorge": [
