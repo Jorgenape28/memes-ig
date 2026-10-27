@@ -90,7 +90,7 @@
  },
  "objetivo": "Aumentar seguidores de @jorgenape28 (proxy: visitas al perfil), con enfoque en mujeres (70 % del presupuesto).",
  "aprobacion": "Todo meme hecho por Claude se publica solo con el OK de Jorge. Los que haga Jorge se publican de inmediato.",
- "estado_campana": "PAUSADA POR ORDEN DE JORGE el 24-oct 22:45 («apaga cualquier campaña encendida»). No reactivar sin su OK. Los anuncios de De3RxDMBMAv y Dew9WhxByAo siguen con status ACTIVE dentro de la campaña (quedan en CAMPAIGN_PAUSED); los demás, pausados a nivel anuncio.",
+ "estado_campana": "PAUSADA POR ORDEN DE JORGE (24-oct 22:45 y de nuevo 26-oct 22:35: «detén cualquier campaña encendida»). No reactivar sin su OK. También pausada la promoción que Jorge hizo desde la app el 25/26-oct: campaña «Publicación de Instagram: El pelito parado es por...» 120253082207740220 (no reactivar).",
  "seguidores": {
   "fuente": "Windsor instagram_public · cuenta jorgenape28 · profile_followers_count",
   "meta": {
@@ -361,6 +361,10 @@
   {
    "fecha": "2026-10-24 22:45",
    "evento": "Orden de Jorge: apagar cualquier campaña encendida. Pausada la campaña Memes 120252917299480220 (única activa en la cuenta 911008968626641; los dos boosts «Publicación de Instagram» ya estaban en pausa)."
+  },
+  {
+   "fecha": "2026-10-26 22:35",
+   "evento": "Orden de Jorge: detener cualquier campaña encendida. Única activa: su boost desde la app «El pelito parado es por...» (120253082207740220) → pausado. La campaña Memes seguía en pausa (se reconfirmó la pausa)."
   }
  ],
  "pausados_por_jorge": [
