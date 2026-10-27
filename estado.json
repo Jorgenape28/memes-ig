@@ -114,6 +114,12 @@
     "seguidores": 642,
     "publicaciones": 6,
     "nota": "caché de Windsor (puede ir con un día de atraso)"
+   },
+   {
+    "fecha": "2026-10-27",
+    "seguidores": 643,
+    "publicaciones": 6,
+    "nota": "caché de Windsor"
    }
   ]
  },
@@ -365,6 +371,10 @@
   {
    "fecha": "2026-10-26 22:35",
    "evento": "Orden de Jorge: detener cualquier campaña encendida. Única activa: su boost desde la app «El pelito parado es por...» (120253082207740220) → pausado. La campaña Memes seguía en pausa (se reconfirmó la pausa)."
+  },
+  {
+   "fecha": "2026-10-27 09:30",
+   "evento": "Corrida del martes: sin reels nuevos (los 7 REELS del perfil ya están en reels_promocionados). Campaña Memes sigue PAUSADA por orden de Jorge (24 y 26-oct); todos los anuncios en PAUSED o CAMPAIGN_PAUSED, ninguno rechazado (WITH_ISSUES solo los de prestamista, ya pausados). Nada supera 14 días activo. El Mac no respondió (no hizo falta: no había reels que importar). Informe 20-26 oct: Mujeres COP 47.840 / 546 visitas (CPV 88); Todos COP 10.524 / 207 (CPV 51); boost «pelito parado» COP 4.193 / 102 (CPV 41). Seguidores 643 (+1 en la semana, +21 desde el 17-oct) → faltan 9.357 en 64 días (146/día)."
   }
  ],
  "pausados_por_jorge": [
@@ -435,6 +445,72 @@
    "seguidores": 642,
    "ganados_desde_17oct": 20,
    "ritmo_necesario_dia": 132
+  },
+  {
+   "fecha": "2026-10-27",
+   "periodo": "2026-10-20 a 2026-10-26",
+   "nota": "Campaña Memes pausada por Jorge desde el 24-oct 22:45 (gasto solo del 20, 23 y 24-oct). Boost de Jorge «El pelito parado» corrió el 26-oct y se pausó por su orden.",
+   "por_conjunto": {
+    "mujeres": {
+     "gasto": 47840,
+     "alcance": 10423,
+     "visitas": 546,
+     "cpv": 88
+    },
+    "todos": {
+     "gasto": 10524,
+     "alcance": 3072,
+     "visitas": 207,
+     "cpv": 51
+    },
+    "boost_jorge_pelito": {
+     "gasto": 4193,
+     "alcance": 934,
+     "visitas": 102,
+     "cpv": 41
+    }
+   },
+   "por_reel": {
+    "Dew9WhxByAo": {
+     "gasto": 34757,
+     "visitas": 447,
+     "cpv": 78
+    },
+    "DepTcxBO1wa": {
+     "gasto": 21828,
+     "visitas": 287,
+     "cpv": 76
+    },
+    "Des7GQ9BPF_": {
+     "gasto": 883,
+     "visitas": 12,
+     "cpv": 74
+    },
+    "cuentas": {
+     "gasto": 490,
+     "visitas": 4,
+     "cpv": 123
+    },
+    "De3RxDMBMAv": {
+     "gasto": 326,
+     "visitas": 2,
+     "cpv": 163
+    },
+    "DelEaZBBaEg": {
+     "gasto": 22,
+     "visitas": 0
+    },
+    "Der5WAchoPb": {
+     "gasto": 58,
+     "visitas": 1
+    }
+   },
+   "seguidores": 643,
+   "ganados_semana": 1,
+   "ganados_desde_17oct": 21,
+   "faltan": 9357,
+   "dias_restantes": 64,
+   "ritmo_necesario_dia": 146
   }
  ],
  "estrategia": {
