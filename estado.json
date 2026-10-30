@@ -375,6 +375,10 @@
   {
    "fecha": "2026-10-27 09:30",
    "evento": "Corrida del martes: sin reels nuevos (los 7 REELS del perfil ya están en reels_promocionados). Campaña Memes sigue PAUSADA por orden de Jorge (24 y 26-oct); todos los anuncios en PAUSED o CAMPAIGN_PAUSED, ninguno rechazado (WITH_ISSUES solo los de prestamista, ya pausados). Nada supera 14 días activo. El Mac no respondió (no hizo falta: no había reels que importar). Informe 20-26 oct: Mujeres COP 47.840 / 546 visitas (CPV 88); Todos COP 10.524 / 207 (CPV 51); boost «pelito parado» COP 4.193 / 102 (CPV 41). Seguidores 643 (+1 en la semana, +21 desde el 17-oct) → faltan 9.357 en 64 días (146/día)."
+  },
+  {
+   "fecha": "2026-10-30 11:20",
+   "evento": "Orden de Jorge: «No debe haber ningún anuncio publicado en ninguna de mis cuentas». Revisión de todas las cuentas en Windsor. Pausadas: LexaNova Meta «Personas · Mi proceso» 52618314797264 (cuenta 27001708296091101) y Defensoría Meta «Portal DEFUP · tráfico · $10.000/día» 120250600877170549 (cuenta 2756708634378348). Ya en pausa: todo lo de la cuenta personal 911008968626641, Klidio 249009231154035 (3 campañas), Defensoría (las demás) y Google Ads (LexaNova Búsqueda y Gmail; Defensoría-Web Búsqueda). Sin permiso de escritura: Klidio (Read-Only) 1094283896358794 con «Traffic Campaign» y «MM_LITE_DEFAULT_AD_CAMPAIGN_GROUP» activas pero con gasto $0 en los últimos 7 días."
   }
  ],
  "pausados_por_jorge": [
@@ -528,5 +532,6 @@
    "Dew9WhxByAo (nuevo 23-oct, anuncios creados, sin datos)"
   ],
   "nota_23oct": "Campaña pausada por Jorge el 20-oct 22:57. Cuando la reactive: dejar 4 por conjunto pausando el de mayor costo por visita (DelEaZBBaEg, 170/114) salvo que Jorge diga otra cosa."
- }
+ },
+ "orden_global": "30-oct: cero anuncios en todas las cuentas de Jorge hasta nueva orden. No encender ninguna campaña (incluida la ráfaga 2 de Defensoría del 1-nov) sin un OK explícito y posterior a esta fecha."
 }
