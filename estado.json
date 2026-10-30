@@ -120,6 +120,12 @@
     "seguidores": 643,
     "publicaciones": 6,
     "nota": "caché de Windsor"
+   },
+   {
+    "fecha": "2026-10-30",
+    "seguidores": 641,
+    "publicaciones": 6,
+    "nota": "caché de Windsor"
    }
   ]
  },
@@ -379,6 +385,10 @@
   {
    "fecha": "2026-10-30 11:20",
    "evento": "Orden de Jorge: «No debe haber ningún anuncio publicado en ninguna de mis cuentas». Revisión de todas las cuentas en Windsor. Pausadas: LexaNova Meta «Personas · Mi proceso» 52618314797264 (cuenta 27001708296091101) y Defensoría Meta «Portal DEFUP · tráfico · $10.000/día» 120250600877170549 (cuenta 2756708634378348). Ya en pausa: todo lo de la cuenta personal 911008968626641, Klidio 249009231154035 (3 campañas), Defensoría (las demás) y Google Ads (LexaNova Búsqueda y Gmail; Defensoría-Web Búsqueda). Sin permiso de escritura: Klidio (Read-Only) 1094283896358794 con «Traffic Campaign» y «MM_LITE_DEFAULT_AD_CAMPAIGN_GROUP» activas pero con gasto $0 en los últimos 7 días."
+  },
+  {
+   "fecha": "2026-10-30 14:05",
+   "evento": "Corrida del viernes: sin reels nuevos (6 REELS del perfil, todos ya en reels_promocionados; De3PqsqBXfA borrado por Jorge). Rige la orden global del 30-oct (cero anuncios): campaña Memes PAUSED, los 4 anuncios de Dew9WhxByAo y De3RxDMBMAv y el boost «pelito parado» en CAMPAIGN_PAUSED, ninguno rechazado; nada que pausar ni promocionar; el Mac no se tocó. Seguidores 641 (−2 respecto al 27-oct; +19 desde el 17-oct) → faltan 9.359 en 61 días (153/día)."
   }
  ],
  "pausados_por_jorge": [
