@@ -126,6 +126,12 @@
     "seguidores": 641,
     "publicaciones": 6,
     "nota": "caché de Windsor"
+   },
+   {
+    "fecha": "2026-11-10",
+    "seguidores": 640,
+    "publicaciones": 6,
+    "nota": "caché de Windsor"
    }
   ]
  },
@@ -389,6 +395,10 @@
   {
    "fecha": "2026-10-30 14:05",
    "evento": "Corrida del viernes: sin reels nuevos (6 REELS del perfil, todos ya en reels_promocionados; De3PqsqBXfA borrado por Jorge). Rige la orden global del 30-oct (cero anuncios): campaña Memes PAUSED, los 4 anuncios de Dew9WhxByAo y De3RxDMBMAv y el boost «pelito parado» en CAMPAIGN_PAUSED, ninguno rechazado; nada que pausar ni promocionar; el Mac no se tocó. Seguidores 641 (−2 respecto al 27-oct; +19 desde el 17-oct) → faltan 9.359 en 61 días (153/día)."
+  },
+  {
+   "fecha": "2026-11-10 08:55",
+   "evento": "Corrida del martes: 1 reel nuevo, DfL4-7GBm0Q «Vamos con toda» (media 18083819480404053, publicado 31-oct 23:37). No se promocionó: rige la orden global del 30-oct (cero anuncios); queda en reels_pendientes a la espera del OK de Jorge; el Mac no se tocó. Meta: campaña Memes y los dos boosts en PAUSED, 0 gasto en los últimos 7 días, ningún anuncio rechazado nuevo (WITH_ISSUES solo prestamista, ya pausados). Seguidores 640 (−1 vs 30-oct; +18 desde el 17-oct) → faltan 9.360 en 50 días (187/día). Sin registro de las corridas del 3 y 6-nov."
   }
  ],
  "pausados_por_jorge": [
@@ -525,6 +535,27 @@
    "faltan": 9357,
    "dias_restantes": 64,
    "ritmo_necesario_dia": 146
+  },
+  {
+   "fecha": "2026-11-10",
+   "periodo": "2026-11-03 a 2026-11-09",
+   "nota": "Sin gasto: todas las campañas de la cuenta 911008968626641 en PAUSED por la orden global del 30-oct.",
+   "por_conjunto": {
+    "mujeres": {
+     "gasto": 0,
+     "visitas": 0
+    },
+    "todos": {
+     "gasto": 0,
+     "visitas": 0
+    }
+   },
+   "seguidores": 640,
+   "ganados_semana": -1,
+   "ganados_desde_17oct": 18,
+   "faltan": 9360,
+   "dias_restantes": 50,
+   "ritmo_necesario_dia": 187
   }
  ],
  "estrategia": {
@@ -543,5 +574,15 @@
   ],
   "nota_23oct": "Campaña pausada por Jorge el 20-oct 22:57. Cuando la reactive: dejar 4 por conjunto pausando el de mayor costo por visita (DelEaZBBaEg, 170/114) salvo que Jorge diga otra cosa."
  },
- "orden_global": "30-oct: cero anuncios en todas las cuentas de Jorge hasta nueva orden. No encender ninguna campaña (incluida la ráfaga 2 de Defensoría del 1-nov) sin un OK explícito y posterior a esta fecha."
+ "orden_global": "30-oct: cero anuncios en todas las cuentas de Jorge hasta nueva orden. No encender ninguna campaña (incluida la ráfaga 2 de Defensoría del 1-nov) sin un OK explícito y posterior a esta fecha.",
+ "reels_pendientes": [
+  {
+   "media_id": "18083819480404053",
+   "permalink": "https://www.instagram.com/reel/DfL4-7GBm0Q/",
+   "publicado": "2026-10-31T23:37-05:00",
+   "caption": "Vamos con toda",
+   "detectado": "2026-11-10",
+   "estado": "NO PROMOCIONADO: rige la orden global del 30-oct (cero anuncios). Promocionar en Mujeres y Todos solo con un OK explícito de Jorge posterior al 30-oct."
+  }
+ ]
 }
