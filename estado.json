@@ -399,6 +399,10 @@
   {
    "fecha": "2026-11-10 08:55",
    "evento": "Corrida del martes: 1 reel nuevo, DfL4-7GBm0Q «Vamos con toda» (media 18083819480404053, publicado 31-oct 23:37). No se promocionó: rige la orden global del 30-oct (cero anuncios); queda en reels_pendientes a la espera del OK de Jorge; el Mac no se tocó. Meta: campaña Memes y los dos boosts en PAUSED, 0 gasto en los últimos 7 días, ningún anuncio rechazado nuevo (WITH_ISSUES solo prestamista, ya pausados). Seguidores 640 (−1 vs 30-oct; +18 desde el 17-oct) → faltan 9.360 en 50 días (187/día). Sin registro de las corridas del 3 y 6-nov."
+  },
+  {
+   "fecha": "2026-11-13 08:55",
+   "evento": "Corrida del viernes: NO EJECUTADA. El conector Windsor.ai no conectó (error 502 al iniciar la sesión) y la corrida salió sin acceso al Mac/Chrome, así que no se pudieron leer los reels del perfil ni los seguidores. Sin impacto operativo: rige la orden global del 30-oct (cero anuncios), la campaña Memes sigue en pausa y DfL4-7GBm0Q sigue en reels_pendientes a la espera del OK de Jorge. No se tocó nada en Meta. Se reintenta el martes 17-nov."
   }
  ],
  "pausados_por_jorge": [
