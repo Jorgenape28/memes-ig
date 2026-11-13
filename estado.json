@@ -402,7 +402,8 @@
   },
   {
    "fecha": "2026-11-13 08:55",
-   "evento": "Corrida del viernes: NO EJECUTADA. El conector Windsor.ai no conectó (error 502 al iniciar la sesión) y la corrida salió sin acceso al Mac/Chrome, así que no se pudieron leer los reels del perfil ni los seguidores. Sin impacto operativo: rige la orden global del 30-oct (cero anuncios), la campaña Memes sigue en pausa y DfL4-7GBm0Q sigue en reels_pendientes a la espera del OK de Jorge. No se tocó nada en Meta. Se reintenta el martes 17-nov."
+   "evento": "Corrida del viernes: NO EJECUTADA. El conector Windsor.ai no conectó (error 502 al iniciar la sesión) y la corrida salió sin acceso al Mac/Chrome, así que no se pudieron leer los reels del perfil ni los seguidores. Sin impacto operativo: rige la orden global del 30-oct (cero anuncios), la campaña Memes sigue en pausa y DfL4-7GBm0Q sigue en reels_pendientes a la espera del OK de Jorge. No se tocó nada en Meta. Se reintenta el martes 17-nov.",
+   "reintento": "2026-11-13 ~09:20 (orden de Jorge): mismo resultado, Windsor.ai y remote-devices siguen sin conectar (502) en esta sesión; nada tocado. Próxima corrida: martes 17-nov."
   }
  ],
  "pausados_por_jorge": [
