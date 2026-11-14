@@ -90,7 +90,7 @@
  },
  "objetivo": "Aumentar seguidores de @jorgenape28 (proxy: visitas al perfil), con enfoque en mujeres (70 % del presupuesto).",
  "aprobacion": "Todo meme hecho por Claude se publica solo con el OK de Jorge. Los que haga Jorge se publican de inmediato.",
- "estado_campana": "ACTIVA SOLO 24 H (13-nov 10:20 → 14-nov 10:30, end_time en los dos conjuntos) para el reel Dfqs7H-BJgE «Ya casi». Activos: 120253399591360220 (Mujeres) y 120253399598580220 (Todos). Todo lo demás pausado a nivel anuncio. Al cierre (tarea del 14-nov 10:40) se pausa la campaña y vuelve a regir la orden global de cero anuncios del 30-oct.",
+ "estado_campana": "PAUSADA (14-nov 10:41) al cerrar la promoción de 24 h del reel Dfqs7H-BJgE. Vuelve a regir la orden global de cero anuncios del 30-oct. Los conjuntos quedaron con end_time 14-nov 10:30 (hay que actualizarlo antes de volver a usarlos).",
  "seguidores": {
   "fuente": "Windsor instagram_public · cuenta jorgenape28 · profile_followers_count",
   "meta": {
@@ -421,6 +421,10 @@
   {
    "fecha": "2026-11-13 10:20",
    "evento": "Orden de Jorge (08:06): «Promociona por 24 horas el Reel publicado en mi perfil personal». A las 08:10 y 10:05 Windsor y el Mac no conectaron; a las 10:16 («estoy en el compu») sí. Reel Dfqs7H-BJgE importado (video 1473972887998797); anuncios 120253399591360220 y 120253399598580220; pausados a nivel anuncio De3RxDMBMAv y Dew9WhxByAo; end_time 14-nov 10:30 en ambos conjuntos; campaña reactivada. Windsor ahora pide confirmation_token para acciones que inician gasto (se usa la orden de Jorge como aprobación). Recordatorio de cierre programado para el 14-nov 10:40."
+  },
+  {
+   "fecha": "2026-11-14 10:41",
+   "evento": "Cierre de la promoción de 24 h del reel «Ya casi» (Dfqs7H-BJgE): campaña pausada. Resultado (caché de Windsor, 13 y 14-nov): Mujeres COP 39.417, alcance 8.092, 401 visitas al perfil (CPV 98); Todos COP 9.675, alcance 2.672, 146 visitas (CPV 66). Total COP 49.092 / 547 visitas (CPV 90). Gastó más de los 20.000 estimados porque Meta puede superar el presupuesto diario hasta un 75 % en días fuertes y la promoción abarcó dos días calendario."
   }
  ],
  "pausados_por_jorge": [
