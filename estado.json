@@ -425,6 +425,10 @@
   {
    "fecha": "2026-11-14 10:41",
    "evento": "Cierre de la promoción de 24 h del reel «Ya casi» (Dfqs7H-BJgE): campaña pausada. Resultado (caché de Windsor, 13 y 14-nov): Mujeres COP 39.417, alcance 8.092, 401 visitas al perfil (CPV 98); Todos COP 9.675, alcance 2.672, 146 visitas (CPV 66). Total COP 49.092 / 547 visitas (CPV 90). Gastó más de los 20.000 estimados porque Meta puede superar el presupuesto diario hasta un 75 % en días fuertes y la promoción abarcó dos días calendario."
+  },
+  {
+   "fecha": "2026-11-16 20:35",
+   "evento": "Orden: enfocar las siguientes campañas en seguidores. Dato clave: la promoción de 24 h (13-14 nov) dio 547 visitas al perfil y los seguidores siguen en 641 (643 el 27-oct): las visitas no se convierten en seguidores. Creada campaña Seguidores (OUTCOME_ENGAGEMENT, PROFILE_AND_PAGE_ENGAGEMENT) con los mismos dos públicos y presupuestos, en pausa; anuncios del reel «Ya casi» listos en pausa. Pendiente de Jorge: encender cuando ordene promocionar; recomendaciones de perfil/caption enviadas."
   }
  ],
  "pausados_por_jorge": [
@@ -609,6 +613,42 @@
    "caption": "Vamos con toda",
    "detectado": "2026-11-10",
    "estado": "NO PROMOCIONADO: rige la orden global del 30-oct (cero anuncios). Promocionar en Mujeres y Todos solo con un OK explícito de Jorge posterior al 30-oct."
+  }
+ ],
+ "campana_seguidores": {
+  "campana": "120253446247610220",
+  "nombre": "Seguidores · @jorgenape28 · Interacción con el perfil",
+  "objetivo": "OUTCOME_ENGAGEMENT",
+  "estado": "PAUSADA (creada 16-nov 20:35; lista para la próxima orden de promocionar)",
+  "adsets": {
+   "mujeres": {
+    "id": "120253446258170220",
+    "daily_budget_cop": 16000,
+    "targeting": "Mujeres 18-35; Bogotá (22 km) e Ibagué (12 km); solo Instagram; Advantage audience off",
+    "optimization_goal": "PROFILE_AND_PAGE_ENGAGEMENT",
+    "destination_type": "INSTAGRAM_PROFILE"
+   },
+   "todos": {
+    "id": "120253446261440220",
+    "daily_budget_cop": 4000,
+    "targeting": "Todos 20-45, Colombia; solo Instagram",
+    "optimization_goal": "PROFILE_AND_PAGE_ENGAGEMENT",
+    "destination_type": "INSTAGRAM_PROFILE"
+   }
+  },
+  "ads_listos_en_pausa": {
+   "Dfqs7H-BJgE": {
+    "mujeres": "120253446266450220",
+    "todos": "120253446273510220"
+   }
+  },
+  "nota": "Orden de Jorge 16-nov 20:18: «enfocar las siguientes campañas en conseguir seguidores». Meta no vende un objetivo «seguidores»; el más cercano es Interacción → destino perfil de Instagram → meta de rendimiento «visitas e interacción con el perfil» (PROFILE_AND_PAGE_ENGAGEMENT). La campaña Memes (tráfico, VISIT_INSTAGRAM_PROFILE, 120252917299480220) queda retirada; sus conjuntos tienen end_time 14-nov."
+ },
+ "followers_history": [
+  {
+   "fecha": "2026-11-17",
+   "seguidores": 641,
+   "fuente": "instagram_public (caché)"
   }
  ]
 }
