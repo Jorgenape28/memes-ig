@@ -429,6 +429,10 @@
   {
    "fecha": "2026-11-16 20:35",
    "evento": "Orden: enfocar las siguientes campañas en seguidores. Dato clave: la promoción de 24 h (13-14 nov) dio 547 visitas al perfil y los seguidores siguen en 641 (643 el 27-oct): las visitas no se convierten en seguidores. Creada campaña Seguidores (OUTCOME_ENGAGEMENT, PROFILE_AND_PAGE_ENGAGEMENT) con los mismos dos públicos y presupuestos, en pausa; anuncios del reel «Ya casi» listos en pausa. Pendiente de Jorge: encender cuando ordene promocionar; recomendaciones de perfil/caption enviadas."
+  },
+  {
+   "fecha": "2026-11-16 20:30",
+   "evento": "Orden de Jorge: sexo mixto. Conjunto 120253446258170220 pasa de mujeres 18-35 a hombres y mujeres 18-35 (Bogotá e Ibagué); renombrado «Seguidores · Mixto 18-35». Presupuestos sin cambio (16.000 / 4.000)."
   }
  ],
  "pausados_por_jorge": [
@@ -621,19 +625,21 @@
   "objetivo": "OUTCOME_ENGAGEMENT",
   "estado": "PAUSADA (creada 16-nov 20:35; lista para la próxima orden de promocionar)",
   "adsets": {
-   "mujeres": {
-    "id": "120253446258170220",
-    "daily_budget_cop": 16000,
-    "targeting": "Mujeres 18-35; Bogotá (22 km) e Ibagué (12 km); solo Instagram; Advantage audience off",
-    "optimization_goal": "PROFILE_AND_PAGE_ENGAGEMENT",
-    "destination_type": "INSTAGRAM_PROFILE"
-   },
    "todos": {
     "id": "120253446261440220",
     "daily_budget_cop": 4000,
     "targeting": "Todos 20-45, Colombia; solo Instagram",
     "optimization_goal": "PROFILE_AND_PAGE_ENGAGEMENT",
     "destination_type": "INSTAGRAM_PROFILE"
+   },
+   "mixto": {
+    "id": "120253446258170220",
+    "daily_budget_cop": 16000,
+    "targeting": "Hombres y mujeres 18-35; Bogotá (22 km) e Ibagué (12 km); solo Instagram; Advantage audience off",
+    "optimization_goal": "PROFILE_AND_PAGE_ENGAGEMENT",
+    "destination_type": "INSTAGRAM_PROFILE",
+    "nombre": "Seguidores · Mixto 18-35 · Bogotá e Ibagué · Solo Instagram",
+    "cambio": "16-nov 20:30 por orden de Jorge («Pon sexo mixto, hombres y mujeres»); antes solo mujeres"
    }
   },
   "ads_listos_en_pausa": {
