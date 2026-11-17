@@ -90,7 +90,7 @@
  },
  "objetivo": "Aumentar seguidores de @jorgenape28 (proxy: visitas al perfil), con enfoque en mujeres (70 % del presupuesto).",
  "aprobacion": "Todo meme hecho por Claude se publica solo con el OK de Jorge. Los que haga Jorge se publican de inmediato.",
- "estado_campana": "PAUSADA (14-nov 10:41) al cerrar la promoción de 24 h del reel Dfqs7H-BJgE. Vuelve a regir la orden global de cero anuncios del 30-oct. Los conjuntos quedaron con end_time 14-nov 10:30 (hay que actualizarlo antes de volver a usarlos).",
+ "estado_campana": "Campaña Memes PAUSADA (14-nov). Campaña Seguidores 120253446247610220 PAUSADA desde su creación (16-nov); anuncios listos solo para Dfqs7H-BJgE. 17-nov: los reels DftHoA3Byzb y Df02zhJhlJE no se pueden promocionar (música con derechos).",
  "seguidores": {
   "fuente": "Windsor instagram_public · cuenta jorgenape28 · profile_followers_count",
   "meta": {
@@ -132,6 +132,12 @@
     "seguidores": 640,
     "publicaciones": 6,
     "nota": "caché de Windsor"
+   },
+   {
+    "fecha": "2026-11-17",
+    "seguidores": 640,
+    "publicaciones": 6,
+    "nota": "caché de Windsor (la conversación principal leyó 641 el 16/17-nov)"
    }
   ]
  },
@@ -346,6 +352,32 @@
    },
    "estado_inicial": "ACTIVE / IN_PROCESS 13-nov 10:20",
    "fin_programado": "2026-11-14T10:30-0500 (end_time en los dos conjuntos)"
+  },
+  {
+   "media_id": "18130630165905768",
+   "permalink": "https://www.instagram.com/reel/DftHoA3Byzb/",
+   "fecha": "2026-11-17",
+   "descripcion": "«Con este si gano el caso #abogados» (publicado 13-nov 21:20 Bogotá)",
+   "video_importado": "5077673785794691",
+   "ads": {
+    "mixto": null,
+    "todos": null
+   },
+   "bloqueado_por_musica": true,
+   "nota": "17-nov 08:5x: video importado a la cuenta publicitaria, pero Meta rechazó create_ad en el conjunto Mixto (subcódigo 2875030: música protegida por derechos de autor). No reintentar salvo republicación con audio original o de la biblioteca apta para anuncios (sería un media_id nuevo)."
+  },
+  {
+   "media_id": "18121803938092004",
+   "permalink": "https://www.instagram.com/reel/Df02zhJhlJE/",
+   "fecha": "2026-11-17",
+   "descripcion": "«Emprendiendo #abogados #emprendimiento» (publicado 16-nov 21:27 Bogotá)",
+   "video_importado": "1437328341362766",
+   "ads": {
+    "mixto": null,
+    "todos": null
+   },
+   "bloqueado_por_musica": true,
+   "nota": "17-nov 08:5x: video importado a la cuenta publicitaria, pero Meta rechazó create_ad en el conjunto Mixto (subcódigo 2875030: música protegida por derechos de autor). No reintentar salvo republicación con audio apto (media_id nuevo)."
   }
  ],
  "historial": [
@@ -590,6 +622,39 @@
    "faltan": 9360,
    "dias_restantes": 50,
    "ritmo_necesario_dia": 187
+  },
+  {
+   "fecha": "2026-11-17",
+   "periodo": "2026-11-10 a 2026-11-16",
+   "nota": "Único gasto: promoción de 24 h del reel Dfqs7H-BJgE («Ya casi») el 13 y 14-nov por orden de Jorge, en los conjuntos de la campaña Memes. Campaña Seguidores creada el 16-nov, en pausa, sin gasto.",
+   "por_conjunto": {
+    "mujeres": {
+     "gasto": 39514,
+     "alcance": 8129,
+     "visitas": 402,
+     "cpv": 98
+    },
+    "todos": {
+     "gasto": 9690,
+     "alcance": 2676,
+     "visitas": 148,
+     "cpv": 65
+    }
+   },
+   "por_reel": {
+    "Dfqs7H-BJgE": {
+     "gasto": 49204,
+     "alcance": 10805,
+     "visitas": 550,
+     "cpv": 89
+    }
+   },
+   "seguidores": 640,
+   "ganados_semana": 0,
+   "faltan": 9360,
+   "dias_restantes": 43,
+   "ritmo_necesario_dia": 218,
+   "reels_nuevos": "DftHoA3Byzb y Df02zhJhlJE importados pero bloqueados por música con derechos (2875030); sin anuncios."
   }
  ],
  "estrategia": {
