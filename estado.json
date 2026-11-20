@@ -1,725 +1,748 @@
 {
- "meta": {
-  "ad_account": "911008968626641",
-  "page_id": "279376278597962",
-  "instagram_user_id": "17841400796794613",
-  "instagram_actor_id": "859981590713489",
-  "instagram": "@jorgenape28",
-  "windsor_connector": "facebook"
- },
- "campaign_id": "120252917299480220",
- "adset_id": null,
- "ads": [
-  {
-   "id": "120252917535000220",
-   "adset": "mujeres",
-   "fecha": "2026-10-16",
-   "slug": "prestamista",
-   "archivo": "out/2026-10-16_prestamista.jpg",
-   "caption": "Un viernes cualquiera 📱",
-   "autor": "Jorge",
-   "preview": "https://fb.me/2uGkhbMAPtzfAjb",
-   "ig_permalink": "https://www.instagram.com/p/Dek4dkIgWLw/",
-   "formato": "imagen",
-   "estado": "PAUSADO 16-oct 21:52 (Jorge: «quita las fotos»; solo corren los de video)"
-  },
-  {
-   "id": "120252917535440220",
-   "adset": "todos",
-   "fecha": "2026-10-16",
-   "slug": "prestamista",
-   "archivo": "out/2026-10-16_prestamista.jpg",
-   "caption": "Un viernes cualquiera 📱",
-   "autor": "Jorge",
-   "preview": "https://fb.me/23iAfTIw1K6IkyT",
-   "ig_permalink": "https://www.instagram.com/p/Dek4dkIgWLw/",
-   "formato": "imagen",
-   "estado": "PAUSADO 16-oct 21:52 (Jorge: «quita las fotos»; solo corren los de video)"
-  },
-  {
-   "id": "120252918071040220",
-   "adset": "mujeres",
-   "fecha": "2026-10-16",
-   "slug": "prestamista",
-   "formato": "video",
-   "archivo": "out/2026-10-16_prestamista_reel.mp4",
-   "video_id": "1444624741148815",
-   "cover": "out/2026-10-16_prestamista_reel_cover.jpg",
-   "caption": "Un viernes cualquiera 📱",
-   "autor": "Jorge",
-   "estado": "PAUSADO 17-oct 17:55 (reemplazado por el anuncio del reel del perfil)"
-  },
-  {
-   "id": "120252918071330220",
-   "adset": "todos",
-   "fecha": "2026-10-16",
-   "slug": "prestamista",
-   "formato": "video",
-   "archivo": "out/2026-10-16_prestamista_reel.mp4",
-   "video_id": "1444624741148815",
-   "cover": "out/2026-10-16_prestamista_reel_cover.jpg",
-   "caption": "Un viernes cualquiera 📱",
-   "autor": "Jorge",
-   "estado": "PAUSADO 17-oct 17:55 (reemplazado por el anuncio del reel del perfil)"
-  }
- ],
- "rotacion": {
-  "dias_activo_por_anuncio": 14,
-  "max_anuncios_activos": 4
- },
- "captions": {
-  "lunes-abogado": "Lunes de abogado. Los malos también tienen derechos ⚖️",
-  "rusia": "Viajo a lugares que muchos rehúyen. Mi mamá no está de acuerdo.",
-  "cobros": "Tres años después, sigue siendo mi cliente."
- },
- "adsets": {
-  "mujeres": {
-   "id": "120252917300730220",
-   "nombre": "Memes · Mujeres 18-35 · Bogotá e Ibagué · Solo Instagram",
-   "daily_budget_cop": 16000,
-   "targeting": "Mujeres 18-35; Bogotá (radio 22 km desde 4.6533,-74.0836) e Ibagué (radio 12 km desde 4.4389,-75.2322); solo Instagram (stream, story, explore, reels, explore_home, profile_feed); Advantage audience off",
-   "cambio": "18-oct 11:40 por orden de Jorge: «segmentar 18-35 en Ibagué y Bogotá y darle preponderancia presupuestaria» (antes: Colombia, mujeres 24-40, COP 14.000/día)"
-  },
-  "todos": {
-   "id": "120252917534040220",
-   "nombre": "Memes · Todos 20-45 · Colombia · Solo Instagram",
-   "daily_budget_cop": 4000,
-   "targeting": "Colombia, todos 20-45, solo Instagram",
-   "cambio": "18-oct 11:40: de COP 6.000 a 4.000/día para dar preponderancia al conjunto de mujeres (total sigue en COP 20.000/día)"
-  }
- },
- "objetivo": "Aumentar seguidores de @jorgenape28 (proxy: visitas al perfil), con enfoque en mujeres (70 % del presupuesto).",
- "aprobacion": "Todo meme hecho por Claude se publica solo con el OK de Jorge. Los que haga Jorge se publican de inmediato.",
- "estado_campana": "Campaña Memes PAUSADA (14-nov). Campaña Seguidores 120253446247610220 PAUSADA desde su creación (16-nov); anuncios listos solo para Dfqs7H-BJgE. 17-nov: los reels DftHoA3Byzb y Df02zhJhlJE no se pueden promocionar (música con derechos).",
- "seguidores": {
-  "fuente": "Windsor instagram_public · cuenta jorgenape28 · profile_followers_count",
   "meta": {
-   "objetivo": 10000,
-   "fecha_limite": "2026-12-30"
+    "ad_account": "911008968626641",
+    "page_id": "279376278597962",
+    "instagram_user_id": "17841400796794613",
+    "instagram_actor_id": "859981590713489",
+    "instagram": "@jorgenape28",
+    "windsor_connector": "facebook"
   },
-  "historico": [
-   {
-    "fecha": "2026-10-17",
-    "seguidores": 622,
-    "siguiendo": 296,
-    "publicaciones": 6
-   },
-   {
-    "fecha": "2026-10-20",
-    "seguidores": 642,
-    "publicaciones": 6
-   },
-   {
-    "fecha": "2026-10-23",
-    "seguidores": 642,
-    "publicaciones": 6,
-    "nota": "caché de Windsor (puede ir con un día de atraso)"
-   },
-   {
-    "fecha": "2026-10-27",
-    "seguidores": 643,
-    "publicaciones": 6,
-    "nota": "caché de Windsor"
-   },
-   {
-    "fecha": "2026-10-30",
-    "seguidores": 641,
-    "publicaciones": 6,
-    "nota": "caché de Windsor"
-   },
-   {
-    "fecha": "2026-11-10",
-    "seguidores": 640,
-    "publicaciones": 6,
-    "nota": "caché de Windsor"
-   },
-   {
-    "fecha": "2026-11-17",
-    "seguidores": 640,
-    "publicaciones": 6,
-    "nota": "caché de Windsor (la conversación principal leyó 641 el 16/17-nov)"
-   }
-  ]
- },
- "tarea_programada": {
-  "id": "trig_01L3wVHazGj8sPDnPKpsfqF5",
-  "nombre": "Reels IG · promocionar los reels de Jorge (martes y viernes, con el Mac)",
-  "cron": "CRON_TZ=America/Bogota 52 8 * * 2,5",
-  "requiere_mac": true,
-  "reemplaza": "trig_01RF6ScAX2cKeJoq6EepN13c (deshabilitada)"
- },
- "perfil": {
-  "fijar_autorizado": "2026-10-16 20:37 — Jorge autorizó fijar 3 publicaciones (memes o viajes) y no tocar más la cuadrícula",
-  "publicaciones_existentes": [
-   {
-    "fecha": "2026-10-14",
-    "permalink": "https://www.instagram.com/p/Dedr1JHh9bA/",
-    "caption": "Una mitad me conoce; la otra habla mal de mí."
-   },
-   {
-    "fecha": "2026-04-25",
-    "permalink": "https://www.instagram.com/p/DXjzsRIjIQ7/",
-    "caption": "Recuerdo de mi visita a Noruega."
-   },
-   {
-    "fecha": "2026-03-23",
-    "permalink": "https://www.instagram.com/p/DWOL_MUjCS-/",
-    "caption": "El pelito parado es por la estática…"
-   },
-   {
-    "fecha": "2024-04-21",
-    "permalink": "https://www.instagram.com/p/C6AkcUJNVRI/",
-    "caption": "Con las máquinas",
-    "likes": 21
-   }
+  "campaign_id": "120252917299480220",
+  "adset_id": null,
+  "ads": [
+    {
+      "id": "120252917535000220",
+      "adset": "mujeres",
+      "fecha": "2026-10-16",
+      "slug": "prestamista",
+      "archivo": "out/2026-10-16_prestamista.jpg",
+      "caption": "Un viernes cualquiera 📱",
+      "autor": "Jorge",
+      "preview": "https://fb.me/2uGkhbMAPtzfAjb",
+      "ig_permalink": "https://www.instagram.com/p/Dek4dkIgWLw/",
+      "formato": "imagen",
+      "estado": "PAUSADO 16-oct 21:52 (Jorge: «quita las fotos»; solo corren los de video)"
+    },
+    {
+      "id": "120252917535440220",
+      "adset": "todos",
+      "fecha": "2026-10-16",
+      "slug": "prestamista",
+      "archivo": "out/2026-10-16_prestamista.jpg",
+      "caption": "Un viernes cualquiera 📱",
+      "autor": "Jorge",
+      "preview": "https://fb.me/23iAfTIw1K6IkyT",
+      "ig_permalink": "https://www.instagram.com/p/Dek4dkIgWLw/",
+      "formato": "imagen",
+      "estado": "PAUSADO 16-oct 21:52 (Jorge: «quita las fotos»; solo corren los de video)"
+    },
+    {
+      "id": "120252918071040220",
+      "adset": "mujeres",
+      "fecha": "2026-10-16",
+      "slug": "prestamista",
+      "formato": "video",
+      "archivo": "out/2026-10-16_prestamista_reel.mp4",
+      "video_id": "1444624741148815",
+      "cover": "out/2026-10-16_prestamista_reel_cover.jpg",
+      "caption": "Un viernes cualquiera 📱",
+      "autor": "Jorge",
+      "estado": "PAUSADO 17-oct 17:55 (reemplazado por el anuncio del reel del perfil)"
+    },
+    {
+      "id": "120252918071330220",
+      "adset": "todos",
+      "fecha": "2026-10-16",
+      "slug": "prestamista",
+      "formato": "video",
+      "archivo": "out/2026-10-16_prestamista_reel.mp4",
+      "video_id": "1444624741148815",
+      "cover": "out/2026-10-16_prestamista_reel_cover.jpg",
+      "caption": "Un viernes cualquiera 📱",
+      "autor": "Jorge",
+      "estado": "PAUSADO 17-oct 17:55 (reemplazado por el anuncio del reel del perfil)"
+    }
   ],
-  "publicadas_en_cuadricula": [
-   {
-    "fecha": "2026-10-16",
-    "permalink": "https://www.instagram.com/reel/DelEaZBBaEg/",
-    "archivo": "out/2026-10-16_prestamista_reel.mp4",
-    "caption": "Un viernes cualquiera.",
-    "autor": "Jorge",
-    "tipo": "reel"
-   },
-   {
-    "fecha": "2026-10-16",
-    "permalink": "https://www.instagram.com/p/Dek-vxDFSQe/",
-    "estado": "ELIMINADA 21:47 (era foto fija; reemplazada por el reel)"
-   },
-   {
-    "fecha": "2026-10-16",
-    "permalink": "https://www.instagram.com/p/Dek-4GrFcam/",
-    "estado": "archivada por Jorge (misma selfie)"
-   }
-  ],
-  "fijar_pendiente": "Fijar desde la app: el reel DelEaZBBaEg y la publicación Dedr1JHh9bA («Una mitad me conoce»).",
-  "direccion": "Cambios muy graduales. Persona: tipo cool, seguro, algo rebelde (público femenino). No cambiar nombre ni biografía por ahora.",
-  "nota": "Dos memes con la misma selfie se ven repetidos en la cuadrícula: usar selfies distintas para cada meme.",
-  "fotos_fijas": "Ninguna: la foto del prestamista se eliminó (reemplazada por el reel DelEaZBBaEg) y la de Moscú está archivada.",
-  "retroalimentacion": "18-oct (Jorge): el reel/historia «cuentas de penalista» (esposa, novia, cafés) generó respuestas emocionales en mujeres y un mensaje directo indignado. Ese sentimiento (provocación, badboy con humor) es el que Jorge busca en las mujeres: repetir ese tipo de contenido."
- },
- "formato": "SOLO REELS (Jorge, 16-oct 22:04): nada de imagen fija, ni en anuncios ni en el perfil.",
- "windsor": {
-  "nota": "El 16-oct a las 21:49 se desactivó por error 'Enable write actions' (ajuste global de Windsor, no por conector) y se volvió a activar en Settings > API Access. No tocar ese interruptor."
- },
- "material_usado": [
-  {
-   "archivo": "fotos/jorge_limpio.jpg",
-   "usado_en": [
-    "prestamista (reel y anuncio)",
-    "rusia (rechazado)"
-   ],
-   "nota": "No volver a usar esta foto."
+  "rotacion": {
+    "dias_activo_por_anuncio": 14,
+    "max_anuncios_activos": 4
   },
-  {
-   "archivo": "fotos/jorge_traje.jpg",
-   "origen": "Edición IA (ElevenLabs, gpt-image-2.5) de jorge_limpio.jpg: traje azul oscuro, camisa blanca y corbata. 1152x2048 (9:16). Pedido de Jorge 17-oct 18:39: «me puedes poner traje de corbata?»",
-   "usado_en": [
-    "convencio (moto, trotar, prediccion) — versión con traje, 17-oct 18:54"
-   ],
-   "nota": "Para reels quotegen usar offset_y 380 y punch_y 1690 (texto arriba del rostro, remate bajo la corbata)."
-  }
- ],
- "material_pendiente": "Jorge debe enviar clips de 10 s con cara seria en sitios distintos (calle de noche, aeropuerto, hotel, juzgado, taxi) y clips de viajes.",
- "acuerdo": {
-  "fecha": "2026-10-17 16:56",
-  "texto": "Jorge publica los reels (desde la app, con su música); Claude los promociona como anuncios (dark posts) y rota los viejos. Claude no crea ni publica contenido.",
-  "limite_meta": "Un reel existente de Instagram no se puede usar directo como anuncio desde Windsor (error 1815279: hay que importar el video a Facebook). Se promociona subiendo el mismo video como dark post (create_ad_video + video_data). Reels con música con licencia no pueden ir en anuncios: se necesita el video sin música.",
-  "flujo": "Cada martes y viernes: detectar reels nuevos (instagram_public) → conseguir el mp4 (connector instagram si está conectado; si no, pedirlo a Jorge) → dos anuncios (Mujeres/Todos) → rotación 14 días → informe los martes.",
-  "modo": "«Botón Promocionar» (17-oct 17:48): el anuncio usa el reel ya publicado (source_instagram_media_id). Requiere importar el video a la cuenta publicitaria con POST act_911008968626641/advideos?source_instagram_media_id desde el Chrome de Jorge (token de Ads Manager); después create_ad con creative {object_id, instagram_user_id, source_instagram_media_id, call_to_action VIEW_INSTAGRAM_PROFILE}."
- },
- "reels_promocionados": [
-  {
-   "media_id": "17957765988017820",
-   "permalink": "https://www.instagram.com/reel/DelEaZBBaEg/",
-   "fecha": "2026-10-17",
-   "video_importado": "1050539047987726",
-   "ads": {
-    "mujeres": "120252927756460220",
-    "todos": "120252927756810220"
-   },
-   "nota": "anuncios con el reel del perfil (los me gusta y comentarios se acumulan ahí)",
-   "estado": "REACTIVADO 20-oct 14:40 por orden de Jorge (top 3 por costo por visita)"
+  "captions": {
+    "lunes-abogado": "Lunes de abogado. Los malos también tienen derechos ⚖️",
+    "rusia": "Viajo a lugares que muchos rehúyen. Mi mamá no está de acuerdo.",
+    "cobros": "Tres años después, sigue siendo mi cliente."
   },
-  {
-   "media_id": "18081157391447610",
-   "tipo": "HISTORIA (no reel): Jorge publicó el video «cuentas de penalista» como historia el 17-oct ~21:17 y la promocionó él mismo desde la app",
-   "permalink": "(historia; copia del anuncio: https://www.instagram.com/p/DennF3_AYVQ/)",
-   "fecha": "2026-10-17",
-   "video_importado": "1837599260565499 (creado por Meta al crear el anuncio; no hizo falta importar)",
-   "ads": {
-    "mujeres": "120252928449270220",
-    "todos": "120252928449850220"
-   },
-   "boost_de_jorge": {
-    "campana": "120252928443210220",
-    "conjunto": "120252928443320220",
-    "anuncio": "120252928443630220",
-    "presupuesto_total_cop": 25466,
-    "inicio": "2026-10-17T21:28-05:00",
-    "fin": "2026-10-18T21:28-05:00",
-    "segmentacion": "Colombia 18-65 todos; FB feed/story/reels + IG story/reels; VISIT_INSTAGRAM_PROFILE",
-    "nota": "Campaña «Publicación de Instagram» creada por el botón Promocionar. No tocarla."
-   },
-   "estado_inicial": "ACTIVE / IN_PROCESS (revisión de Meta) a las 21:40 del 17-oct",
-   "nota": "Reel «cuentas» (out/2026-10-17_cuentas_penalista.mp4, con la canción que Jorge le puso). Verificar el martes que los dos anuncios no quedaran rechazados por ser media de historia o por la música.",
-   "estado": "REACTIVADO 20-oct 14:40 por orden de Jorge (top 3 por costo por visita)"
-  },
-  {
-   "media_id": "18019082462743271",
-   "permalink": "https://www.instagram.com/reel/Der5WAchoPb/",
-   "fecha": "2026-10-19",
-   "descripcion": "«Mis tarifas para solucionar problemas» (asesorías: escuchar/abrazar/beso) sobre clip de Jorge manejando",
-   "video_importado": "2678427929263294",
-   "ads": {
-    "mujeres": "120252959244540220",
-    "todos": "120252959245030220"
-   },
-   "estado_inicial": "ACTIVE / IN_PROCESS 19-oct 19:40",
-   "estado": "PAUSADO 20-oct 14:40 (fuera del top 3: COP 192/visita con poco gasto)"
-  },
-  {
-   "media_id": "18014065625983538",
-   "permalink": "https://www.instagram.com/reel/DepTcxBO1wa/",
-   "fecha": "2026-10-19",
-   "descripcion": "«Subo un estado parchado» (video de Jorge en el carro de noche, 18-oct)",
-   "video_importado": "1583155013494592",
-   "ads": {
-    "mujeres": "120252959247600220",
-    "todos": "120252959248230220"
-   },
-   "estado_inicial": "ACTIVE / IN_PROCESS 19-oct 19:40"
-  },
-  {
-   "media_id": "18147906133603996",
-   "permalink": "https://www.instagram.com/reel/Des7GQ9BPF_/",
-   "fecha": "2026-10-20",
-   "descripcion": "«#abogadas #abogados» (publicado 19-oct 23:01 Bogotá) | reel «corriendo» (#abogadas #abogados); anuncios creados el 20-oct 14:58 a pedido de Jorge («tiene un gran rendimiento»)",
-   "video_importado": "3300483006804951",
-   "ads": {
-    "mujeres": "120252975326520220",
-    "todos": "120252975328640220"
-   },
-   "estado_inicial": "ACTIVE / en revisión 20-oct 14:58"
-  },
-  {
-   "media_id": "17931688410419366",
-   "permalink": "https://www.instagram.com/reel/Dew9WhxByAo/",
-   "fecha": "2026-10-23",
-   "descripcion": "«#abogados cuando el juez revisa los escritos del judicante 🥺🥺» (publicado 21-oct 12:36 Bogotá)",
-   "video_importado": "1872722224090219",
-   "ads": {
-    "mujeres": "120253036317030220",
-    "todos": "120253036323540220"
-   },
-   "estado_inicial": "ACTIVE / IN_PROCESS (revisión de Meta) 23-oct 10:05; la campaña Memes está PAUSADA por Jorge desde el 20-oct 22:57, así que no corre hasta que él la reactive"
-  },
-  {
-   "media_id": "18105302426376923",
-   "permalink": "https://www.instagram.com/reel/De3PqsqBXfA/",
-   "fecha": "2026-10-23",
-   "descripcion": "«Será que pronto nos reemplazan?» (#abogados #abogada), publicado 23-oct 23:12",
-   "video_importado": "1749443082804441",
-   "ads": {
-    "mujeres": null,
-    "todos": null
-   },
-   "bloqueado_por_musica": true,
-   "nota": "Meta rechazó create_ad (subcódigo 2875030): «Los reels que usan música protegida por derechos de autor no se pueden promocionar como anuncios». No reintentar salvo que Jorge lo vuelva a publicar con audio original o de la biblioteca apta para anuncios (sería un media_id nuevo). Jorge lo borró y lo volvió a publicar sin esa música como De3RxDMBMAv (23-oct 23:30)."
-  },
-  {
-   "media_id": "18106435796369831",
-   "permalink": "https://www.instagram.com/reel/De3RxDMBMAv/",
-   "fecha": "2026-10-23",
-   "descripcion": "«Será que nos reemplaza la IA?» (#abogados #abogada), republicado 23-oct 23:30 con audio promocionable",
-   "video_importado": "1500635465448737",
-   "ads": {
-    "mujeres": "120253045470420220",
-    "todos": "120253045470770220"
-   },
-   "estado_inicial": "ACTIVE / IN_PROCESS 23-oct 23:38"
-  },
-  {
-   "media_id": "18392501794229541",
-   "permalink": "https://www.instagram.com/reel/Dfqs7H-BJgE/",
-   "fecha": "2026-11-13",
-   "descripcion": "«Ya casi» (publicado 12-nov 22:48), promoción de 24 h por orden de Jorge (13-nov 08:06)",
-   "video_importado": "1473972887998797",
-   "ads": {
-    "mujeres": "120253399591360220",
-    "todos": "120253399598580220"
-   },
-   "estado_inicial": "ACTIVE / IN_PROCESS 13-nov 10:20",
-   "fin_programado": "2026-11-14T10:30-0500 (end_time en los dos conjuntos)"
-  },
-  {
-   "media_id": "18130630165905768",
-   "permalink": "https://www.instagram.com/reel/DftHoA3Byzb/",
-   "fecha": "2026-11-17",
-   "descripcion": "«Con este si gano el caso #abogados» (publicado 13-nov 21:20 Bogotá)",
-   "video_importado": "5077673785794691",
-   "ads": {
-    "mixto": null,
-    "todos": null
-   },
-   "bloqueado_por_musica": true,
-   "nota": "17-nov 08:5x: video importado a la cuenta publicitaria, pero Meta rechazó create_ad en el conjunto Mixto (subcódigo 2875030: música protegida por derechos de autor). No reintentar salvo republicación con audio original o de la biblioteca apta para anuncios (sería un media_id nuevo)."
-  },
-  {
-   "media_id": "18121803938092004",
-   "permalink": "https://www.instagram.com/reel/Df02zhJhlJE/",
-   "fecha": "2026-11-17",
-   "descripcion": "«Emprendiendo #abogados #emprendimiento» (publicado 16-nov 21:27 Bogotá)",
-   "video_importado": "1437328341362766",
-   "ads": {
-    "mixto": null,
-    "todos": null
-   },
-   "bloqueado_por_musica": true,
-   "nota": "17-nov 08:5x: video importado a la cuenta publicitaria, pero Meta rechazó create_ad en el conjunto Mixto (subcódigo 2875030: música protegida por derechos de autor). No reintentar salvo republicación con audio apto (media_id nuevo)."
-  }
- ],
- "historial": [
-  {
-   "fecha": "2026-10-17 21:40",
-   "evento": "Jorge publicó «cuentas de penalista» como historia y la promocionó desde la app (COP 25.466, 1 día). Claude la puso además en los conjuntos Mujeres y Todos (sin gasto extra: el presupuesto es por conjunto)."
-  },
-  {
-   "fecha": "2026-10-18 11:40",
-   "evento": "Conjunto Mujeres → 18-35, Bogotá e Ibagué (radios), COP 16.000/día; Todos → COP 4.000/día. Tarea programada actualizada. Retroalimentación de Jorge: el contenido provocador funciona con mujeres."
-  },
-  {
-   "fecha": "2026-10-18 12:34",
-   "evento": "Retroalimentación de Jorge (captura): seguidores nuevos «desde tu anuncio», likes al reel y a la historia, comentarios sobre el arriendo de $680.000 y sobre ser amante. Confirmado: el contenido también existe como reel."
-  },
-  {
-   "fecha": "2026-10-19 19:40",
-   "evento": "Orden de Jorge: parar campañas y promocionar los videos del carro. Pausados los 4 anuncios anteriores y la campaña boost; importados los reels Der5WAchoPb y DepTcxBO1wa; 4 anuncios nuevos (Mujeres/Todos); campaña Memes reactivada (estaba en pausa desde las 09:09)."
-  },
-  {
-   "fecha": "2026-10-20 14:15",
-   "evento": "Corrida del martes: reel nuevo Des7GQ9BPF_ (media 18147906133603996) importado como video 3300483006804951; create_ad bloqueado por permisos de la tarea programada (sin anuncios creados). Activos y aprobados los 4 anuncios del carro; nada que pausar (ninguno supera 14 días). Informe 13-19 oct: Mujeres COP 27.434 / 200 visitas (CPV 137); Todos COP 17.155 / 180 visitas (CPV 95); boost de Jorge COP 25.170 / 146 visitas (CPV 172). Seguidores 642 (+20 desde el 17-oct)."
-  },
-  {
-   "fecha": "2026-10-20 14:40",
-   "evento": "Orden de Jorge: usar los 3 reels de mayor rendimiento y enfocarse en seguidores. Reactivados 120252928449270220, 120252928449850220 (cuentas) y 120252927756460220, 120252927756810220 (DelEaZBBaEg); pausados 120252959244540220 y 120252959245030220 (Der5WAchoPb). DepTcxBO1wa sigue activo."
-  },
-  {
-   "fecha": "2026-10-20 14:58",
-   "evento": "Jorge: «¿el reel en el que estoy corriendo está promocionado? tiene gran rendimiento» → anuncios 120252975326520220 (Mujeres) y 120252975328640220 (Todos) con el reel Des7GQ9BPF_ (video ya importado 3300483006804951 por la corrida de la mañana)."
-  },
-  {
-   "fecha": "2026-10-23 10:05",
-   "evento": "Corrida del viernes: reel nuevo Dew9WhxByAo (media 17931688410419366) importado como video 1872722224090219; anuncios 120253036317030220 (Mujeres) y 120253036323540220 (Todos), en revisión. Hallazgo: la campaña Memes está pausada desde el 20-oct 22:57 (Jorge), nada corre desde entonces; no se reactivó (sin su OK). Ningún anuncio rechazado (los WITH_ISSUES son los de prestamista, ya pausados, error de formato 2446429). Nada supera 14 días. Gasto 16-22 oct por anuncio: DepTcxBO1wa M 24.370/283 visitas (86), T 5.531/106 (52); DelEaZBBaEg M 10.686/63 (170), T 5.805/51 (114); cuentas M 2.571/18 (143), T 5.672/65 (87); Des7GQ9BPF_ M 544/9 (60), T 32/1. Seguidores 642 (caché)."
-  },
-  {
-   "fecha": "2026-10-23 23:25",
-   "evento": "Orden «promociona mis dos últimos reels»: De3PqsqBXfA importado pero Meta lo rechaza por música con derechos (2875030); corren Dew9WhxByAo (anuncios de la mañana) y Des7GQ9BPF_ como sustituto; pausados DepTcxBO1wa, cuentas y DelEaZBBaEg; campaña reactivada (estaba en pausa desde el 20-oct 22:57)."
-  },
-  {
-   "fecha": "2026-10-23 23:38",
-   "evento": "Jorge republicó el reel de la IA sin la música con derechos (De3RxDMBMAv, media 18106435796369831): importado como video 1500635465448737; anuncios 120253045470420220 (Mujeres) y 120253045470770220 (Todos). Pausado Des7GQ9BPF_ (era el sustituto) para que corran exactamente los dos últimos."
-  },
-  {
-   "fecha": "2026-10-24 22:45",
-   "evento": "Orden de Jorge: apagar cualquier campaña encendida. Pausada la campaña Memes 120252917299480220 (única activa en la cuenta 911008968626641; los dos boosts «Publicación de Instagram» ya estaban en pausa)."
-  },
-  {
-   "fecha": "2026-10-26 22:35",
-   "evento": "Orden de Jorge: detener cualquier campaña encendida. Única activa: su boost desde la app «El pelito parado es por...» (120253082207740220) → pausado. La campaña Memes seguía en pausa (se reconfirmó la pausa)."
-  },
-  {
-   "fecha": "2026-10-27 09:30",
-   "evento": "Corrida del martes: sin reels nuevos (los 7 REELS del perfil ya están en reels_promocionados). Campaña Memes sigue PAUSADA por orden de Jorge (24 y 26-oct); todos los anuncios en PAUSED o CAMPAIGN_PAUSED, ninguno rechazado (WITH_ISSUES solo los de prestamista, ya pausados). Nada supera 14 días activo. El Mac no respondió (no hizo falta: no había reels que importar). Informe 20-26 oct: Mujeres COP 47.840 / 546 visitas (CPV 88); Todos COP 10.524 / 207 (CPV 51); boost «pelito parado» COP 4.193 / 102 (CPV 41). Seguidores 643 (+1 en la semana, +21 desde el 17-oct) → faltan 9.357 en 64 días (146/día)."
-  },
-  {
-   "fecha": "2026-10-30 11:20",
-   "evento": "Orden de Jorge: «No debe haber ningún anuncio publicado en ninguna de mis cuentas». Revisión de todas las cuentas en Windsor. Pausadas: LexaNova Meta «Personas · Mi proceso» 52618314797264 (cuenta 27001708296091101) y Defensoría Meta «Portal DEFUP · tráfico · $10.000/día» 120250600877170549 (cuenta 2756708634378348). Ya en pausa: todo lo de la cuenta personal 911008968626641, Klidio 249009231154035 (3 campañas), Defensoría (las demás) y Google Ads (LexaNova Búsqueda y Gmail; Defensoría-Web Búsqueda). Sin permiso de escritura: Klidio (Read-Only) 1094283896358794 con «Traffic Campaign» y «MM_LITE_DEFAULT_AD_CAMPAIGN_GROUP» activas pero con gasto $0 en los últimos 7 días."
-  },
-  {
-   "fecha": "2026-10-30 14:05",
-   "evento": "Corrida del viernes: sin reels nuevos (6 REELS del perfil, todos ya en reels_promocionados; De3PqsqBXfA borrado por Jorge). Rige la orden global del 30-oct (cero anuncios): campaña Memes PAUSED, los 4 anuncios de Dew9WhxByAo y De3RxDMBMAv y el boost «pelito parado» en CAMPAIGN_PAUSED, ninguno rechazado; nada que pausar ni promocionar; el Mac no se tocó. Seguidores 641 (−2 respecto al 27-oct; +19 desde el 17-oct) → faltan 9.359 en 61 días (153/día)."
-  },
-  {
-   "fecha": "2026-11-10 08:55",
-   "evento": "Corrida del martes: 1 reel nuevo, DfL4-7GBm0Q «Vamos con toda» (media 18083819480404053, publicado 31-oct 23:37). No se promocionó: rige la orden global del 30-oct (cero anuncios); queda en reels_pendientes a la espera del OK de Jorge; el Mac no se tocó. Meta: campaña Memes y los dos boosts en PAUSED, 0 gasto en los últimos 7 días, ningún anuncio rechazado nuevo (WITH_ISSUES solo prestamista, ya pausados). Seguidores 640 (−1 vs 30-oct; +18 desde el 17-oct) → faltan 9.360 en 50 días (187/día). Sin registro de las corridas del 3 y 6-nov."
-  },
-  {
-   "fecha": "2026-11-13 08:55",
-   "evento": "Corrida del viernes: NO EJECUTADA. El conector Windsor.ai no conectó (error 502 al iniciar la sesión) y la corrida salió sin acceso al Mac/Chrome, así que no se pudieron leer los reels del perfil ni los seguidores. Sin impacto operativo: rige la orden global del 30-oct (cero anuncios), la campaña Memes sigue en pausa y DfL4-7GBm0Q sigue en reels_pendientes a la espera del OK de Jorge. No se tocó nada en Meta. Se reintenta el martes 17-nov.",
-   "reintento": "2026-11-13 ~09:20 (orden de Jorge): mismo resultado, Windsor.ai y remote-devices siguen sin conectar (502) en esta sesión; nada tocado. Próxima corrida: martes 17-nov."
-  },
-  {
-   "fecha": "2026-11-13 10:20",
-   "evento": "Orden de Jorge (08:06): «Promociona por 24 horas el Reel publicado en mi perfil personal». A las 08:10 y 10:05 Windsor y el Mac no conectaron; a las 10:16 («estoy en el compu») sí. Reel Dfqs7H-BJgE importado (video 1473972887998797); anuncios 120253399591360220 y 120253399598580220; pausados a nivel anuncio De3RxDMBMAv y Dew9WhxByAo; end_time 14-nov 10:30 en ambos conjuntos; campaña reactivada. Windsor ahora pide confirmation_token para acciones que inician gasto (se usa la orden de Jorge como aprobación). Recordatorio de cierre programado para el 14-nov 10:40."
-  },
-  {
-   "fecha": "2026-11-14 10:41",
-   "evento": "Cierre de la promoción de 24 h del reel «Ya casi» (Dfqs7H-BJgE): campaña pausada. Resultado (caché de Windsor, 13 y 14-nov): Mujeres COP 39.417, alcance 8.092, 401 visitas al perfil (CPV 98); Todos COP 9.675, alcance 2.672, 146 visitas (CPV 66). Total COP 49.092 / 547 visitas (CPV 90). Gastó más de los 20.000 estimados porque Meta puede superar el presupuesto diario hasta un 75 % en días fuertes y la promoción abarcó dos días calendario."
-  },
-  {
-   "fecha": "2026-11-16 20:35",
-   "evento": "Orden: enfocar las siguientes campañas en seguidores. Dato clave: la promoción de 24 h (13-14 nov) dio 547 visitas al perfil y los seguidores siguen en 641 (643 el 27-oct): las visitas no se convierten en seguidores. Creada campaña Seguidores (OUTCOME_ENGAGEMENT, PROFILE_AND_PAGE_ENGAGEMENT) con los mismos dos públicos y presupuestos, en pausa; anuncios del reel «Ya casi» listos en pausa. Pendiente de Jorge: encender cuando ordene promocionar; recomendaciones de perfil/caption enviadas."
-  },
-  {
-   "fecha": "2026-11-16 20:30",
-   "evento": "Orden de Jorge: sexo mixto. Conjunto 120253446258170220 pasa de mujeres 18-35 a hombres y mujeres 18-35 (Bogotá e Ibagué); renombrado «Seguidores · Mixto 18-35». Presupuestos sin cambio (16.000 / 4.000)."
-  }
- ],
- "pausados_por_jorge": [
-  {
-   "fecha": "2026-10-19 19:33",
-   "orden": "«Si hay alguna campaña deténla. Promociona los videos en el que voy en el carro»",
-   "anuncios_pausados": [
-    "120252927756460220",
-    "120252927756810220",
-    "120252928449270220",
-    "120252928449850220"
-   ],
-   "campana_pausada": "120252928443210220 (boost de Jorge, ya vencida)",
-   "nota": "Anulado el 20-oct 14:40: Jorge ordenó usar los 3 reels de mayor rendimiento; los anuncios de DelEaZBBaEg y «cuentas» se reactivaron."
-  }
- ],
- "informes": [
-  {
-   "fecha": "2026-10-20",
-   "periodo": "2026-10-13 a 2026-10-19",
-   "por_conjunto": {
-    "mujeres": {
-     "gasto": 27434,
-     "alcance": 5765,
-     "visitas": 200,
-     "cpv": 137
-    },
-    "todos": {
-     "gasto": 17155,
-     "alcance": 3853,
-     "visitas": 180,
-     "cpv": 95
-    },
-    "boost_jorge": {
-     "gasto": 25170,
-     "alcance": 2611,
-     "visitas": 146,
-     "cpv": 172
-    }
-   },
-   "por_reel": {
-    "DelEaZBBaEg": {
-     "gasto": 16469,
-     "visitas": 114,
-     "cpv": 144
-    },
-    "cuentas (conjuntos)": {
-     "gasto": 7753,
-     "visitas": 79,
-     "cpv": 98
-    },
-    "DepTcxBO1wa": {
-     "gasto": 8073,
-     "visitas": 102,
-     "cpv": 79
-    },
-    "Der5WAchoPb": {
-     "gasto": 385,
-     "visitas": 2,
-     "cpv": 192
-    },
-    "prestamista reel (pausado)": {
-     "gasto": 11397,
-     "visitas": 60,
-     "cpv": 190
-    }
-   },
-   "seguidores": 642,
-   "ganados_desde_17oct": 20,
-   "ritmo_necesario_dia": 132
-  },
-  {
-   "fecha": "2026-10-27",
-   "periodo": "2026-10-20 a 2026-10-26",
-   "nota": "Campaña Memes pausada por Jorge desde el 24-oct 22:45 (gasto solo del 20, 23 y 24-oct). Boost de Jorge «El pelito parado» corrió el 26-oct y se pausó por su orden.",
-   "por_conjunto": {
-    "mujeres": {
-     "gasto": 47840,
-     "alcance": 10423,
-     "visitas": 546,
-     "cpv": 88
-    },
-    "todos": {
-     "gasto": 10524,
-     "alcance": 3072,
-     "visitas": 207,
-     "cpv": 51
-    },
-    "boost_jorge_pelito": {
-     "gasto": 4193,
-     "alcance": 934,
-     "visitas": 102,
-     "cpv": 41
-    }
-   },
-   "por_reel": {
-    "Dew9WhxByAo": {
-     "gasto": 34757,
-     "visitas": 447,
-     "cpv": 78
-    },
-    "DepTcxBO1wa": {
-     "gasto": 21828,
-     "visitas": 287,
-     "cpv": 76
-    },
-    "Des7GQ9BPF_": {
-     "gasto": 883,
-     "visitas": 12,
-     "cpv": 74
-    },
-    "cuentas": {
-     "gasto": 490,
-     "visitas": 4,
-     "cpv": 123
-    },
-    "De3RxDMBMAv": {
-     "gasto": 326,
-     "visitas": 2,
-     "cpv": 163
-    },
-    "DelEaZBBaEg": {
-     "gasto": 22,
-     "visitas": 0
-    },
-    "Der5WAchoPb": {
-     "gasto": 58,
-     "visitas": 1
-    }
-   },
-   "seguidores": 643,
-   "ganados_semana": 1,
-   "ganados_desde_17oct": 21,
-   "faltan": 9357,
-   "dias_restantes": 64,
-   "ritmo_necesario_dia": 146
-  },
-  {
-   "fecha": "2026-11-10",
-   "periodo": "2026-11-03 a 2026-11-09",
-   "nota": "Sin gasto: todas las campañas de la cuenta 911008968626641 en PAUSED por la orden global del 30-oct.",
-   "por_conjunto": {
-    "mujeres": {
-     "gasto": 0,
-     "visitas": 0
-    },
-    "todos": {
-     "gasto": 0,
-     "visitas": 0
-    }
-   },
-   "seguidores": 640,
-   "ganados_semana": -1,
-   "ganados_desde_17oct": 18,
-   "faltan": 9360,
-   "dias_restantes": 50,
-   "ritmo_necesario_dia": 187
-  },
-  {
-   "fecha": "2026-11-17",
-   "periodo": "2026-11-10 a 2026-11-16",
-   "nota": "Único gasto: promoción de 24 h del reel Dfqs7H-BJgE («Ya casi») el 13 y 14-nov por orden de Jorge, en los conjuntos de la campaña Memes. Campaña Seguidores creada el 16-nov, en pausa, sin gasto.",
-   "por_conjunto": {
-    "mujeres": {
-     "gasto": 39514,
-     "alcance": 8129,
-     "visitas": 402,
-     "cpv": 98
-    },
-    "todos": {
-     "gasto": 9690,
-     "alcance": 2676,
-     "visitas": 148,
-     "cpv": 65
-    }
-   },
-   "por_reel": {
-    "Dfqs7H-BJgE": {
-     "gasto": 49204,
-     "alcance": 10805,
-     "visitas": 550,
-     "cpv": 89
-    }
-   },
-   "seguidores": 640,
-   "ganados_semana": 0,
-   "faltan": 9360,
-   "dias_restantes": 43,
-   "ritmo_necesario_dia": 218,
-   "reels_nuevos": "DftHoA3Byzb y Df02zhJhlJE importados pero bloqueados por música con derechos (2875030); sin anuncios."
-  }
- ],
- "estrategia": {
-  "fecha": "2026-10-20 14:40",
-  "orden": "Jorge: «Usa todos los reels escogiendo los 3 con mayor rendimiento y enfócate en crecimiento de seguidores»",
-  "regla": "Mantener activos en cada conjunto los 3 reels con menor costo por visita al perfil (y, cuando haya datos, más seguidores ganados por semana). Cada martes se recalcula con los datos de la semana: entra el que mejore a alguno de los 3 y sale el peor. Un reel nuevo entra a prueba solo si desplaza al peor o si hay cupo (máx. 4 activos por conjunto).",
-  "activos_20oct": [
-   "DepTcxBO1wa (COP 79/visita)",
-   "cuentas 18081157391447610 (COP 98/visita)",
-   "DelEaZBBaEg (COP 144/visita)"
-  ],
-  "fuera": [
-   "Der5WAchoPb (COP 192/visita, pausado 20-oct)",
-   "Des7GQ9BPF_ (sin datos; video importado, sin anuncios)",
-   "Dew9WhxByAo (nuevo 23-oct, anuncios creados, sin datos)"
-  ],
-  "nota_23oct": "Campaña pausada por Jorge el 20-oct 22:57. Cuando la reactive: dejar 4 por conjunto pausando el de mayor costo por visita (DelEaZBBaEg, 170/114) salvo que Jorge diga otra cosa."
- },
- "orden_global": "30-oct: cero anuncios en todas las cuentas de Jorge hasta nueva orden. No encender ninguna campaña (incluida la ráfaga 2 de Defensoría del 1-nov) sin un OK explícito y posterior a esta fecha.",
- "reels_pendientes": [
-  {
-   "media_id": "18083819480404053",
-   "permalink": "https://www.instagram.com/reel/DfL4-7GBm0Q/",
-   "publicado": "2026-10-31T23:37-05:00",
-   "caption": "Vamos con toda",
-   "detectado": "2026-11-10",
-   "estado": "NO PROMOCIONADO: rige la orden global del 30-oct (cero anuncios). Promocionar en Mujeres y Todos solo con un OK explícito de Jorge posterior al 30-oct."
-  }
- ],
- "campana_seguidores": {
-  "campana": "120253446247610220",
-  "nombre": "Seguidores · @jorgenape28 · Interacción con el perfil",
-  "objetivo": "OUTCOME_ENGAGEMENT",
-  "estado": "PAUSADA (creada 16-nov 20:35; lista para la próxima orden de promocionar)",
   "adsets": {
-   "todos": {
-    "id": "120253446261440220",
-    "daily_budget_cop": 4000,
-    "targeting": "Todos 20-45, Colombia; solo Instagram",
-    "optimization_goal": "PROFILE_AND_PAGE_ENGAGEMENT",
-    "destination_type": "INSTAGRAM_PROFILE"
-   },
-   "mixto": {
-    "id": "120253446258170220",
-    "daily_budget_cop": 16000,
-    "targeting": "Hombres y mujeres 18-35; Bogotá (22 km) e Ibagué (12 km); solo Instagram; Advantage audience off",
-    "optimization_goal": "PROFILE_AND_PAGE_ENGAGEMENT",
-    "destination_type": "INSTAGRAM_PROFILE",
-    "nombre": "Seguidores · Mixto 18-35 · Bogotá e Ibagué · Solo Instagram",
-    "cambio": "16-nov 20:30 por orden de Jorge («Pon sexo mixto, hombres y mujeres»); antes solo mujeres"
-   }
+    "mujeres": {
+      "id": "120252917300730220",
+      "nombre": "Memes · Mujeres 18-35 · Bogotá e Ibagué · Solo Instagram",
+      "daily_budget_cop": 16000,
+      "targeting": "Mujeres 18-35; Bogotá (radio 22 km desde 4.6533,-74.0836) e Ibagué (radio 12 km desde 4.4389,-75.2322); solo Instagram (stream, story, explore, reels, explore_home, profile_feed); Advantage audience off",
+      "cambio": "18-oct 11:40 por orden de Jorge: «segmentar 18-35 en Ibagué y Bogotá y darle preponderancia presupuestaria» (antes: Colombia, mujeres 24-40, COP 14.000/día)"
+    },
+    "todos": {
+      "id": "120252917534040220",
+      "nombre": "Memes · Todos 20-45 · Colombia · Solo Instagram",
+      "daily_budget_cop": 4000,
+      "targeting": "Colombia, todos 20-45, solo Instagram",
+      "cambio": "18-oct 11:40: de COP 6.000 a 4.000/día para dar preponderancia al conjunto de mujeres (total sigue en COP 20.000/día)"
+    }
   },
-  "ads_listos_en_pausa": {
-   "Dfqs7H-BJgE": {
-    "mujeres": "120253446266450220",
-    "todos": "120253446273510220"
-   }
+  "objetivo": "Aumentar seguidores de @jorgenape28 (proxy: visitas al perfil), con enfoque en mujeres (70 % del presupuesto).",
+  "aprobacion": "Todo meme hecho por Claude se publica solo con el OK de Jorge. Los que haga Jorge se publican de inmediato.",
+  "estado_campana": "Campaña Memes PAUSADA (14-nov). Campaña Seguidores 120253446247610220 PAUSADA desde su creación (16-nov); anuncios listos solo para Dfqs7H-BJgE. 17-nov: DftHoA3Byzb y Df02zhJhlJE bloqueados por música. 20-nov: Df5ydbYhv-w pendiente de importar (sin acceso a la cuenta publicitaria desde Chrome).",
+  "seguidores": {
+    "fuente": "Windsor instagram_public · cuenta jorgenape28 · profile_followers_count",
+    "meta": {
+      "objetivo": 10000,
+      "fecha_limite": "2026-12-30"
+    },
+    "historico": [
+      {
+        "fecha": "2026-10-17",
+        "seguidores": 622,
+        "siguiendo": 296,
+        "publicaciones": 6
+      },
+      {
+        "fecha": "2026-10-20",
+        "seguidores": 642,
+        "publicaciones": 6
+      },
+      {
+        "fecha": "2026-10-23",
+        "seguidores": 642,
+        "publicaciones": 6,
+        "nota": "caché de Windsor (puede ir con un día de atraso)"
+      },
+      {
+        "fecha": "2026-10-27",
+        "seguidores": 643,
+        "publicaciones": 6,
+        "nota": "caché de Windsor"
+      },
+      {
+        "fecha": "2026-10-30",
+        "seguidores": 641,
+        "publicaciones": 6,
+        "nota": "caché de Windsor"
+      },
+      {
+        "fecha": "2026-11-10",
+        "seguidores": 640,
+        "publicaciones": 6,
+        "nota": "caché de Windsor"
+      },
+      {
+        "fecha": "2026-11-17",
+        "seguidores": 640,
+        "publicaciones": 6,
+        "nota": "caché de Windsor (la conversación principal leyó 641 el 16/17-nov)"
+      },
+      {
+        "fecha": "2026-11-20",
+        "seguidores": 638,
+        "publicaciones": 6,
+        "nota": "caché de Windsor"
+      }
+    ]
   },
-  "nota": "Orden de Jorge 16-nov 20:18: «enfocar las siguientes campañas en conseguir seguidores». Meta no vende un objetivo «seguidores»; el más cercano es Interacción → destino perfil de Instagram → meta de rendimiento «visitas e interacción con el perfil» (PROFILE_AND_PAGE_ENGAGEMENT). La campaña Memes (tráfico, VISIT_INSTAGRAM_PROFILE, 120252917299480220) queda retirada; sus conjuntos tienen end_time 14-nov."
- },
- "followers_history": [
-  {
-   "fecha": "2026-11-17",
-   "seguidores": 641,
-   "fuente": "instagram_public (caché)"
-  }
- ]
+  "tarea_programada": {
+    "id": "trig_01L3wVHazGj8sPDnPKpsfqF5",
+    "nombre": "Reels IG · promocionar los reels de Jorge (martes y viernes, con el Mac)",
+    "cron": "CRON_TZ=America/Bogota 52 8 * * 2,5",
+    "requiere_mac": true,
+    "reemplaza": "trig_01RF6ScAX2cKeJoq6EepN13c (deshabilitada)"
+  },
+  "perfil": {
+    "fijar_autorizado": "2026-10-16 20:37 — Jorge autorizó fijar 3 publicaciones (memes o viajes) y no tocar más la cuadrícula",
+    "publicaciones_existentes": [
+      {
+        "fecha": "2026-10-14",
+        "permalink": "https://www.instagram.com/p/Dedr1JHh9bA/",
+        "caption": "Una mitad me conoce; la otra habla mal de mí."
+      },
+      {
+        "fecha": "2026-04-25",
+        "permalink": "https://www.instagram.com/p/DXjzsRIjIQ7/",
+        "caption": "Recuerdo de mi visita a Noruega."
+      },
+      {
+        "fecha": "2026-03-23",
+        "permalink": "https://www.instagram.com/p/DWOL_MUjCS-/",
+        "caption": "El pelito parado es por la estática…"
+      },
+      {
+        "fecha": "2024-04-21",
+        "permalink": "https://www.instagram.com/p/C6AkcUJNVRI/",
+        "caption": "Con las máquinas",
+        "likes": 21
+      }
+    ],
+    "publicadas_en_cuadricula": [
+      {
+        "fecha": "2026-10-16",
+        "permalink": "https://www.instagram.com/reel/DelEaZBBaEg/",
+        "archivo": "out/2026-10-16_prestamista_reel.mp4",
+        "caption": "Un viernes cualquiera.",
+        "autor": "Jorge",
+        "tipo": "reel"
+      },
+      {
+        "fecha": "2026-10-16",
+        "permalink": "https://www.instagram.com/p/Dek-vxDFSQe/",
+        "estado": "ELIMINADA 21:47 (era foto fija; reemplazada por el reel)"
+      },
+      {
+        "fecha": "2026-10-16",
+        "permalink": "https://www.instagram.com/p/Dek-4GrFcam/",
+        "estado": "archivada por Jorge (misma selfie)"
+      }
+    ],
+    "fijar_pendiente": "Fijar desde la app: el reel DelEaZBBaEg y la publicación Dedr1JHh9bA («Una mitad me conoce»).",
+    "direccion": "Cambios muy graduales. Persona: tipo cool, seguro, algo rebelde (público femenino). No cambiar nombre ni biografía por ahora.",
+    "nota": "Dos memes con la misma selfie se ven repetidos en la cuadrícula: usar selfies distintas para cada meme.",
+    "fotos_fijas": "Ninguna: la foto del prestamista se eliminó (reemplazada por el reel DelEaZBBaEg) y la de Moscú está archivada.",
+    "retroalimentacion": "18-oct (Jorge): el reel/historia «cuentas de penalista» (esposa, novia, cafés) generó respuestas emocionales en mujeres y un mensaje directo indignado. Ese sentimiento (provocación, badboy con humor) es el que Jorge busca en las mujeres: repetir ese tipo de contenido."
+  },
+  "formato": "SOLO REELS (Jorge, 16-oct 22:04): nada de imagen fija, ni en anuncios ni en el perfil.",
+  "windsor": {
+    "nota": "El 16-oct a las 21:49 se desactivó por error 'Enable write actions' (ajuste global de Windsor, no por conector) y se volvió a activar en Settings > API Access. No tocar ese interruptor."
+  },
+  "material_usado": [
+    {
+      "archivo": "fotos/jorge_limpio.jpg",
+      "usado_en": [
+        "prestamista (reel y anuncio)",
+        "rusia (rechazado)"
+      ],
+      "nota": "No volver a usar esta foto."
+    },
+    {
+      "archivo": "fotos/jorge_traje.jpg",
+      "origen": "Edición IA (ElevenLabs, gpt-image-2.5) de jorge_limpio.jpg: traje azul oscuro, camisa blanca y corbata. 1152x2048 (9:16). Pedido de Jorge 17-oct 18:39: «me puedes poner traje de corbata?»",
+      "usado_en": [
+        "convencio (moto, trotar, prediccion) — versión con traje, 17-oct 18:54"
+      ],
+      "nota": "Para reels quotegen usar offset_y 380 y punch_y 1690 (texto arriba del rostro, remate bajo la corbata)."
+    }
+  ],
+  "material_pendiente": "Jorge debe enviar clips de 10 s con cara seria en sitios distintos (calle de noche, aeropuerto, hotel, juzgado, taxi) y clips de viajes.",
+  "acuerdo": {
+    "fecha": "2026-10-17 16:56",
+    "texto": "Jorge publica los reels (desde la app, con su música); Claude los promociona como anuncios (dark posts) y rota los viejos. Claude no crea ni publica contenido.",
+    "limite_meta": "Un reel existente de Instagram no se puede usar directo como anuncio desde Windsor (error 1815279: hay que importar el video a Facebook). Se promociona subiendo el mismo video como dark post (create_ad_video + video_data). Reels con música con licencia no pueden ir en anuncios: se necesita el video sin música.",
+    "flujo": "Cada martes y viernes: detectar reels nuevos (instagram_public) → conseguir el mp4 (connector instagram si está conectado; si no, pedirlo a Jorge) → dos anuncios (Mujeres/Todos) → rotación 14 días → informe los martes.",
+    "modo": "«Botón Promocionar» (17-oct 17:48): el anuncio usa el reel ya publicado (source_instagram_media_id). Requiere importar el video a la cuenta publicitaria con POST act_911008968626641/advideos?source_instagram_media_id desde el Chrome de Jorge (token de Ads Manager); después create_ad con creative {object_id, instagram_user_id, source_instagram_media_id, call_to_action VIEW_INSTAGRAM_PROFILE}."
+  },
+  "reels_promocionados": [
+    {
+      "media_id": "17957765988017820",
+      "permalink": "https://www.instagram.com/reel/DelEaZBBaEg/",
+      "fecha": "2026-10-17",
+      "video_importado": "1050539047987726",
+      "ads": {
+        "mujeres": "120252927756460220",
+        "todos": "120252927756810220"
+      },
+      "nota": "anuncios con el reel del perfil (los me gusta y comentarios se acumulan ahí)",
+      "estado": "REACTIVADO 20-oct 14:40 por orden de Jorge (top 3 por costo por visita)"
+    },
+    {
+      "media_id": "18081157391447610",
+      "tipo": "HISTORIA (no reel): Jorge publicó el video «cuentas de penalista» como historia el 17-oct ~21:17 y la promocionó él mismo desde la app",
+      "permalink": "(historia; copia del anuncio: https://www.instagram.com/p/DennF3_AYVQ/)",
+      "fecha": "2026-10-17",
+      "video_importado": "1837599260565499 (creado por Meta al crear el anuncio; no hizo falta importar)",
+      "ads": {
+        "mujeres": "120252928449270220",
+        "todos": "120252928449850220"
+      },
+      "boost_de_jorge": {
+        "campana": "120252928443210220",
+        "conjunto": "120252928443320220",
+        "anuncio": "120252928443630220",
+        "presupuesto_total_cop": 25466,
+        "inicio": "2026-10-17T21:28-05:00",
+        "fin": "2026-10-18T21:28-05:00",
+        "segmentacion": "Colombia 18-65 todos; FB feed/story/reels + IG story/reels; VISIT_INSTAGRAM_PROFILE",
+        "nota": "Campaña «Publicación de Instagram» creada por el botón Promocionar. No tocarla."
+      },
+      "estado_inicial": "ACTIVE / IN_PROCESS (revisión de Meta) a las 21:40 del 17-oct",
+      "nota": "Reel «cuentas» (out/2026-10-17_cuentas_penalista.mp4, con la canción que Jorge le puso). Verificar el martes que los dos anuncios no quedaran rechazados por ser media de historia o por la música.",
+      "estado": "REACTIVADO 20-oct 14:40 por orden de Jorge (top 3 por costo por visita)"
+    },
+    {
+      "media_id": "18019082462743271",
+      "permalink": "https://www.instagram.com/reel/Der5WAchoPb/",
+      "fecha": "2026-10-19",
+      "descripcion": "«Mis tarifas para solucionar problemas» (asesorías: escuchar/abrazar/beso) sobre clip de Jorge manejando",
+      "video_importado": "2678427929263294",
+      "ads": {
+        "mujeres": "120252959244540220",
+        "todos": "120252959245030220"
+      },
+      "estado_inicial": "ACTIVE / IN_PROCESS 19-oct 19:40",
+      "estado": "PAUSADO 20-oct 14:40 (fuera del top 3: COP 192/visita con poco gasto)"
+    },
+    {
+      "media_id": "18014065625983538",
+      "permalink": "https://www.instagram.com/reel/DepTcxBO1wa/",
+      "fecha": "2026-10-19",
+      "descripcion": "«Subo un estado parchado» (video de Jorge en el carro de noche, 18-oct)",
+      "video_importado": "1583155013494592",
+      "ads": {
+        "mujeres": "120252959247600220",
+        "todos": "120252959248230220"
+      },
+      "estado_inicial": "ACTIVE / IN_PROCESS 19-oct 19:40"
+    },
+    {
+      "media_id": "18147906133603996",
+      "permalink": "https://www.instagram.com/reel/Des7GQ9BPF_/",
+      "fecha": "2026-10-20",
+      "descripcion": "«#abogadas #abogados» (publicado 19-oct 23:01 Bogotá) | reel «corriendo» (#abogadas #abogados); anuncios creados el 20-oct 14:58 a pedido de Jorge («tiene un gran rendimiento»)",
+      "video_importado": "3300483006804951",
+      "ads": {
+        "mujeres": "120252975326520220",
+        "todos": "120252975328640220"
+      },
+      "estado_inicial": "ACTIVE / en revisión 20-oct 14:58"
+    },
+    {
+      "media_id": "17931688410419366",
+      "permalink": "https://www.instagram.com/reel/Dew9WhxByAo/",
+      "fecha": "2026-10-23",
+      "descripcion": "«#abogados cuando el juez revisa los escritos del judicante 🥺🥺» (publicado 21-oct 12:36 Bogotá)",
+      "video_importado": "1872722224090219",
+      "ads": {
+        "mujeres": "120253036317030220",
+        "todos": "120253036323540220"
+      },
+      "estado_inicial": "ACTIVE / IN_PROCESS (revisión de Meta) 23-oct 10:05; la campaña Memes está PAUSADA por Jorge desde el 20-oct 22:57, así que no corre hasta que él la reactive"
+    },
+    {
+      "media_id": "18105302426376923",
+      "permalink": "https://www.instagram.com/reel/De3PqsqBXfA/",
+      "fecha": "2026-10-23",
+      "descripcion": "«Será que pronto nos reemplazan?» (#abogados #abogada), publicado 23-oct 23:12",
+      "video_importado": "1749443082804441",
+      "ads": {
+        "mujeres": null,
+        "todos": null
+      },
+      "bloqueado_por_musica": true,
+      "nota": "Meta rechazó create_ad (subcódigo 2875030): «Los reels que usan música protegida por derechos de autor no se pueden promocionar como anuncios». No reintentar salvo que Jorge lo vuelva a publicar con audio original o de la biblioteca apta para anuncios (sería un media_id nuevo). Jorge lo borró y lo volvió a publicar sin esa música como De3RxDMBMAv (23-oct 23:30)."
+    },
+    {
+      "media_id": "18106435796369831",
+      "permalink": "https://www.instagram.com/reel/De3RxDMBMAv/",
+      "fecha": "2026-10-23",
+      "descripcion": "«Será que nos reemplaza la IA?» (#abogados #abogada), republicado 23-oct 23:30 con audio promocionable",
+      "video_importado": "1500635465448737",
+      "ads": {
+        "mujeres": "120253045470420220",
+        "todos": "120253045470770220"
+      },
+      "estado_inicial": "ACTIVE / IN_PROCESS 23-oct 23:38"
+    },
+    {
+      "media_id": "18392501794229541",
+      "permalink": "https://www.instagram.com/reel/Dfqs7H-BJgE/",
+      "fecha": "2026-11-13",
+      "descripcion": "«Ya casi» (publicado 12-nov 22:48), promoción de 24 h por orden de Jorge (13-nov 08:06)",
+      "video_importado": "1473972887998797",
+      "ads": {
+        "mujeres": "120253399591360220",
+        "todos": "120253399598580220"
+      },
+      "estado_inicial": "ACTIVE / IN_PROCESS 13-nov 10:20",
+      "fin_programado": "2026-11-14T10:30-0500 (end_time en los dos conjuntos)"
+    },
+    {
+      "media_id": "18130630165905768",
+      "permalink": "https://www.instagram.com/reel/DftHoA3Byzb/",
+      "fecha": "2026-11-17",
+      "descripcion": "«Con este si gano el caso #abogados» (publicado 13-nov 21:20 Bogotá)",
+      "video_importado": "5077673785794691",
+      "ads": {
+        "mixto": null,
+        "todos": null
+      },
+      "bloqueado_por_musica": true,
+      "nota": "17-nov 08:5x: video importado a la cuenta publicitaria, pero Meta rechazó create_ad en el conjunto Mixto (subcódigo 2875030: música protegida por derechos de autor). No reintentar salvo republicación con audio original o de la biblioteca apta para anuncios (sería un media_id nuevo)."
+    },
+    {
+      "media_id": "18121803938092004",
+      "permalink": "https://www.instagram.com/reel/Df02zhJhlJE/",
+      "fecha": "2026-11-17",
+      "descripcion": "«Emprendiendo #abogados #emprendimiento» (publicado 16-nov 21:27 Bogotá)",
+      "video_importado": "1437328341362766",
+      "ads": {
+        "mixto": null,
+        "todos": null
+      },
+      "bloqueado_por_musica": true,
+      "nota": "17-nov 08:5x: video importado a la cuenta publicitaria, pero Meta rechazó create_ad en el conjunto Mixto (subcódigo 2875030: música protegida por derechos de autor). No reintentar salvo republicación con audio apto (media_id nuevo)."
+    }
+  ],
+  "historial": [
+    {
+      "fecha": "2026-10-17 21:40",
+      "evento": "Jorge publicó «cuentas de penalista» como historia y la promocionó desde la app (COP 25.466, 1 día). Claude la puso además en los conjuntos Mujeres y Todos (sin gasto extra: el presupuesto es por conjunto)."
+    },
+    {
+      "fecha": "2026-10-18 11:40",
+      "evento": "Conjunto Mujeres → 18-35, Bogotá e Ibagué (radios), COP 16.000/día; Todos → COP 4.000/día. Tarea programada actualizada. Retroalimentación de Jorge: el contenido provocador funciona con mujeres."
+    },
+    {
+      "fecha": "2026-10-18 12:34",
+      "evento": "Retroalimentación de Jorge (captura): seguidores nuevos «desde tu anuncio», likes al reel y a la historia, comentarios sobre el arriendo de $680.000 y sobre ser amante. Confirmado: el contenido también existe como reel."
+    },
+    {
+      "fecha": "2026-10-19 19:40",
+      "evento": "Orden de Jorge: parar campañas y promocionar los videos del carro. Pausados los 4 anuncios anteriores y la campaña boost; importados los reels Der5WAchoPb y DepTcxBO1wa; 4 anuncios nuevos (Mujeres/Todos); campaña Memes reactivada (estaba en pausa desde las 09:09)."
+    },
+    {
+      "fecha": "2026-10-20 14:15",
+      "evento": "Corrida del martes: reel nuevo Des7GQ9BPF_ (media 18147906133603996) importado como video 3300483006804951; create_ad bloqueado por permisos de la tarea programada (sin anuncios creados). Activos y aprobados los 4 anuncios del carro; nada que pausar (ninguno supera 14 días). Informe 13-19 oct: Mujeres COP 27.434 / 200 visitas (CPV 137); Todos COP 17.155 / 180 visitas (CPV 95); boost de Jorge COP 25.170 / 146 visitas (CPV 172). Seguidores 642 (+20 desde el 17-oct)."
+    },
+    {
+      "fecha": "2026-10-20 14:40",
+      "evento": "Orden de Jorge: usar los 3 reels de mayor rendimiento y enfocarse en seguidores. Reactivados 120252928449270220, 120252928449850220 (cuentas) y 120252927756460220, 120252927756810220 (DelEaZBBaEg); pausados 120252959244540220 y 120252959245030220 (Der5WAchoPb). DepTcxBO1wa sigue activo."
+    },
+    {
+      "fecha": "2026-10-20 14:58",
+      "evento": "Jorge: «¿el reel en el que estoy corriendo está promocionado? tiene gran rendimiento» → anuncios 120252975326520220 (Mujeres) y 120252975328640220 (Todos) con el reel Des7GQ9BPF_ (video ya importado 3300483006804951 por la corrida de la mañana)."
+    },
+    {
+      "fecha": "2026-10-23 10:05",
+      "evento": "Corrida del viernes: reel nuevo Dew9WhxByAo (media 17931688410419366) importado como video 1872722224090219; anuncios 120253036317030220 (Mujeres) y 120253036323540220 (Todos), en revisión. Hallazgo: la campaña Memes está pausada desde el 20-oct 22:57 (Jorge), nada corre desde entonces; no se reactivó (sin su OK). Ningún anuncio rechazado (los WITH_ISSUES son los de prestamista, ya pausados, error de formato 2446429). Nada supera 14 días. Gasto 16-22 oct por anuncio: DepTcxBO1wa M 24.370/283 visitas (86), T 5.531/106 (52); DelEaZBBaEg M 10.686/63 (170), T 5.805/51 (114); cuentas M 2.571/18 (143), T 5.672/65 (87); Des7GQ9BPF_ M 544/9 (60), T 32/1. Seguidores 642 (caché)."
+    },
+    {
+      "fecha": "2026-10-23 23:25",
+      "evento": "Orden «promociona mis dos últimos reels»: De3PqsqBXfA importado pero Meta lo rechaza por música con derechos (2875030); corren Dew9WhxByAo (anuncios de la mañana) y Des7GQ9BPF_ como sustituto; pausados DepTcxBO1wa, cuentas y DelEaZBBaEg; campaña reactivada (estaba en pausa desde el 20-oct 22:57)."
+    },
+    {
+      "fecha": "2026-10-23 23:38",
+      "evento": "Jorge republicó el reel de la IA sin la música con derechos (De3RxDMBMAv, media 18106435796369831): importado como video 1500635465448737; anuncios 120253045470420220 (Mujeres) y 120253045470770220 (Todos). Pausado Des7GQ9BPF_ (era el sustituto) para que corran exactamente los dos últimos."
+    },
+    {
+      "fecha": "2026-10-24 22:45",
+      "evento": "Orden de Jorge: apagar cualquier campaña encendida. Pausada la campaña Memes 120252917299480220 (única activa en la cuenta 911008968626641; los dos boosts «Publicación de Instagram» ya estaban en pausa)."
+    },
+    {
+      "fecha": "2026-10-26 22:35",
+      "evento": "Orden de Jorge: detener cualquier campaña encendida. Única activa: su boost desde la app «El pelito parado es por...» (120253082207740220) → pausado. La campaña Memes seguía en pausa (se reconfirmó la pausa)."
+    },
+    {
+      "fecha": "2026-10-27 09:30",
+      "evento": "Corrida del martes: sin reels nuevos (los 7 REELS del perfil ya están en reels_promocionados). Campaña Memes sigue PAUSADA por orden de Jorge (24 y 26-oct); todos los anuncios en PAUSED o CAMPAIGN_PAUSED, ninguno rechazado (WITH_ISSUES solo los de prestamista, ya pausados). Nada supera 14 días activo. El Mac no respondió (no hizo falta: no había reels que importar). Informe 20-26 oct: Mujeres COP 47.840 / 546 visitas (CPV 88); Todos COP 10.524 / 207 (CPV 51); boost «pelito parado» COP 4.193 / 102 (CPV 41). Seguidores 643 (+1 en la semana, +21 desde el 17-oct) → faltan 9.357 en 64 días (146/día)."
+    },
+    {
+      "fecha": "2026-10-30 11:20",
+      "evento": "Orden de Jorge: «No debe haber ningún anuncio publicado en ninguna de mis cuentas». Revisión de todas las cuentas en Windsor. Pausadas: LexaNova Meta «Personas · Mi proceso» 52618314797264 (cuenta 27001708296091101) y Defensoría Meta «Portal DEFUP · tráfico · $10.000/día» 120250600877170549 (cuenta 2756708634378348). Ya en pausa: todo lo de la cuenta personal 911008968626641, Klidio 249009231154035 (3 campañas), Defensoría (las demás) y Google Ads (LexaNova Búsqueda y Gmail; Defensoría-Web Búsqueda). Sin permiso de escritura: Klidio (Read-Only) 1094283896358794 con «Traffic Campaign» y «MM_LITE_DEFAULT_AD_CAMPAIGN_GROUP» activas pero con gasto $0 en los últimos 7 días."
+    },
+    {
+      "fecha": "2026-10-30 14:05",
+      "evento": "Corrida del viernes: sin reels nuevos (6 REELS del perfil, todos ya en reels_promocionados; De3PqsqBXfA borrado por Jorge). Rige la orden global del 30-oct (cero anuncios): campaña Memes PAUSED, los 4 anuncios de Dew9WhxByAo y De3RxDMBMAv y el boost «pelito parado» en CAMPAIGN_PAUSED, ninguno rechazado; nada que pausar ni promocionar; el Mac no se tocó. Seguidores 641 (−2 respecto al 27-oct; +19 desde el 17-oct) → faltan 9.359 en 61 días (153/día)."
+    },
+    {
+      "fecha": "2026-11-10 08:55",
+      "evento": "Corrida del martes: 1 reel nuevo, DfL4-7GBm0Q «Vamos con toda» (media 18083819480404053, publicado 31-oct 23:37). No se promocionó: rige la orden global del 30-oct (cero anuncios); queda en reels_pendientes a la espera del OK de Jorge; el Mac no se tocó. Meta: campaña Memes y los dos boosts en PAUSED, 0 gasto en los últimos 7 días, ningún anuncio rechazado nuevo (WITH_ISSUES solo prestamista, ya pausados). Seguidores 640 (−1 vs 30-oct; +18 desde el 17-oct) → faltan 9.360 en 50 días (187/día). Sin registro de las corridas del 3 y 6-nov."
+    },
+    {
+      "fecha": "2026-11-13 08:55",
+      "evento": "Corrida del viernes: NO EJECUTADA. El conector Windsor.ai no conectó (error 502 al iniciar la sesión) y la corrida salió sin acceso al Mac/Chrome, así que no se pudieron leer los reels del perfil ni los seguidores. Sin impacto operativo: rige la orden global del 30-oct (cero anuncios), la campaña Memes sigue en pausa y DfL4-7GBm0Q sigue en reels_pendientes a la espera del OK de Jorge. No se tocó nada en Meta. Se reintenta el martes 17-nov.",
+      "reintento": "2026-11-13 ~09:20 (orden de Jorge): mismo resultado, Windsor.ai y remote-devices siguen sin conectar (502) en esta sesión; nada tocado. Próxima corrida: martes 17-nov."
+    },
+    {
+      "fecha": "2026-11-13 10:20",
+      "evento": "Orden de Jorge (08:06): «Promociona por 24 horas el Reel publicado en mi perfil personal». A las 08:10 y 10:05 Windsor y el Mac no conectaron; a las 10:16 («estoy en el compu») sí. Reel Dfqs7H-BJgE importado (video 1473972887998797); anuncios 120253399591360220 y 120253399598580220; pausados a nivel anuncio De3RxDMBMAv y Dew9WhxByAo; end_time 14-nov 10:30 en ambos conjuntos; campaña reactivada. Windsor ahora pide confirmation_token para acciones que inician gasto (se usa la orden de Jorge como aprobación). Recordatorio de cierre programado para el 14-nov 10:40."
+    },
+    {
+      "fecha": "2026-11-14 10:41",
+      "evento": "Cierre de la promoción de 24 h del reel «Ya casi» (Dfqs7H-BJgE): campaña pausada. Resultado (caché de Windsor, 13 y 14-nov): Mujeres COP 39.417, alcance 8.092, 401 visitas al perfil (CPV 98); Todos COP 9.675, alcance 2.672, 146 visitas (CPV 66). Total COP 49.092 / 547 visitas (CPV 90). Gastó más de los 20.000 estimados porque Meta puede superar el presupuesto diario hasta un 75 % en días fuertes y la promoción abarcó dos días calendario."
+    },
+    {
+      "fecha": "2026-11-16 20:35",
+      "evento": "Orden: enfocar las siguientes campañas en seguidores. Dato clave: la promoción de 24 h (13-14 nov) dio 547 visitas al perfil y los seguidores siguen en 641 (643 el 27-oct): las visitas no se convierten en seguidores. Creada campaña Seguidores (OUTCOME_ENGAGEMENT, PROFILE_AND_PAGE_ENGAGEMENT) con los mismos dos públicos y presupuestos, en pausa; anuncios del reel «Ya casi» listos en pausa. Pendiente de Jorge: encender cuando ordene promocionar; recomendaciones de perfil/caption enviadas."
+    },
+    {
+      "fecha": "2026-11-16 20:30",
+      "evento": "Orden de Jorge: sexo mixto. Conjunto 120253446258170220 pasa de mujeres 18-35 a hombres y mujeres 18-35 (Bogotá e Ibagué); renombrado «Seguidores · Mixto 18-35». Presupuestos sin cambio (16.000 / 4.000)."
+    },
+    {
+      "fecha": "2026-11-20 09:00",
+      "evento": "Corrida del viernes: reel nuevo Df5ydbYhv-w (18118177820041089, publicado 18-nov) detectado pero NO quedó listo: el usuario de Facebook con sesión en Chrome no tiene acceso a la cuenta publicitaria; Windsor create_ad_video (acción nueva) falló con «Video not visible». Nada tocado en Meta; campaña Seguidores sigue en pausa. Seguidores 638 (−3 vs 17-nov). Df02zhJhlJE ya no aparece en el perfil (posiblemente borrado)."
+    }
+  ],
+  "pausados_por_jorge": [
+    {
+      "fecha": "2026-10-19 19:33",
+      "orden": "«Si hay alguna campaña deténla. Promociona los videos en el que voy en el carro»",
+      "anuncios_pausados": [
+        "120252927756460220",
+        "120252927756810220",
+        "120252928449270220",
+        "120252928449850220"
+      ],
+      "campana_pausada": "120252928443210220 (boost de Jorge, ya vencida)",
+      "nota": "Anulado el 20-oct 14:40: Jorge ordenó usar los 3 reels de mayor rendimiento; los anuncios de DelEaZBBaEg y «cuentas» se reactivaron."
+    }
+  ],
+  "informes": [
+    {
+      "fecha": "2026-10-20",
+      "periodo": "2026-10-13 a 2026-10-19",
+      "por_conjunto": {
+        "mujeres": {
+          "gasto": 27434,
+          "alcance": 5765,
+          "visitas": 200,
+          "cpv": 137
+        },
+        "todos": {
+          "gasto": 17155,
+          "alcance": 3853,
+          "visitas": 180,
+          "cpv": 95
+        },
+        "boost_jorge": {
+          "gasto": 25170,
+          "alcance": 2611,
+          "visitas": 146,
+          "cpv": 172
+        }
+      },
+      "por_reel": {
+        "DelEaZBBaEg": {
+          "gasto": 16469,
+          "visitas": 114,
+          "cpv": 144
+        },
+        "cuentas (conjuntos)": {
+          "gasto": 7753,
+          "visitas": 79,
+          "cpv": 98
+        },
+        "DepTcxBO1wa": {
+          "gasto": 8073,
+          "visitas": 102,
+          "cpv": 79
+        },
+        "Der5WAchoPb": {
+          "gasto": 385,
+          "visitas": 2,
+          "cpv": 192
+        },
+        "prestamista reel (pausado)": {
+          "gasto": 11397,
+          "visitas": 60,
+          "cpv": 190
+        }
+      },
+      "seguidores": 642,
+      "ganados_desde_17oct": 20,
+      "ritmo_necesario_dia": 132
+    },
+    {
+      "fecha": "2026-10-27",
+      "periodo": "2026-10-20 a 2026-10-26",
+      "nota": "Campaña Memes pausada por Jorge desde el 24-oct 22:45 (gasto solo del 20, 23 y 24-oct). Boost de Jorge «El pelito parado» corrió el 26-oct y se pausó por su orden.",
+      "por_conjunto": {
+        "mujeres": {
+          "gasto": 47840,
+          "alcance": 10423,
+          "visitas": 546,
+          "cpv": 88
+        },
+        "todos": {
+          "gasto": 10524,
+          "alcance": 3072,
+          "visitas": 207,
+          "cpv": 51
+        },
+        "boost_jorge_pelito": {
+          "gasto": 4193,
+          "alcance": 934,
+          "visitas": 102,
+          "cpv": 41
+        }
+      },
+      "por_reel": {
+        "Dew9WhxByAo": {
+          "gasto": 34757,
+          "visitas": 447,
+          "cpv": 78
+        },
+        "DepTcxBO1wa": {
+          "gasto": 21828,
+          "visitas": 287,
+          "cpv": 76
+        },
+        "Des7GQ9BPF_": {
+          "gasto": 883,
+          "visitas": 12,
+          "cpv": 74
+        },
+        "cuentas": {
+          "gasto": 490,
+          "visitas": 4,
+          "cpv": 123
+        },
+        "De3RxDMBMAv": {
+          "gasto": 326,
+          "visitas": 2,
+          "cpv": 163
+        },
+        "DelEaZBBaEg": {
+          "gasto": 22,
+          "visitas": 0
+        },
+        "Der5WAchoPb": {
+          "gasto": 58,
+          "visitas": 1
+        }
+      },
+      "seguidores": 643,
+      "ganados_semana": 1,
+      "ganados_desde_17oct": 21,
+      "faltan": 9357,
+      "dias_restantes": 64,
+      "ritmo_necesario_dia": 146
+    },
+    {
+      "fecha": "2026-11-10",
+      "periodo": "2026-11-03 a 2026-11-09",
+      "nota": "Sin gasto: todas las campañas de la cuenta 911008968626641 en PAUSED por la orden global del 30-oct.",
+      "por_conjunto": {
+        "mujeres": {
+          "gasto": 0,
+          "visitas": 0
+        },
+        "todos": {
+          "gasto": 0,
+          "visitas": 0
+        }
+      },
+      "seguidores": 640,
+      "ganados_semana": -1,
+      "ganados_desde_17oct": 18,
+      "faltan": 9360,
+      "dias_restantes": 50,
+      "ritmo_necesario_dia": 187
+    },
+    {
+      "fecha": "2026-11-17",
+      "periodo": "2026-11-10 a 2026-11-16",
+      "nota": "Único gasto: promoción de 24 h del reel Dfqs7H-BJgE («Ya casi») el 13 y 14-nov por orden de Jorge, en los conjuntos de la campaña Memes. Campaña Seguidores creada el 16-nov, en pausa, sin gasto.",
+      "por_conjunto": {
+        "mujeres": {
+          "gasto": 39514,
+          "alcance": 8129,
+          "visitas": 402,
+          "cpv": 98
+        },
+        "todos": {
+          "gasto": 9690,
+          "alcance": 2676,
+          "visitas": 148,
+          "cpv": 65
+        }
+      },
+      "por_reel": {
+        "Dfqs7H-BJgE": {
+          "gasto": 49204,
+          "alcance": 10805,
+          "visitas": 550,
+          "cpv": 89
+        }
+      },
+      "seguidores": 640,
+      "ganados_semana": 0,
+      "faltan": 9360,
+      "dias_restantes": 43,
+      "ritmo_necesario_dia": 218,
+      "reels_nuevos": "DftHoA3Byzb y Df02zhJhlJE importados pero bloqueados por música con derechos (2875030); sin anuncios."
+    }
+  ],
+  "estrategia": {
+    "fecha": "2026-10-20 14:40",
+    "orden": "Jorge: «Usa todos los reels escogiendo los 3 con mayor rendimiento y enfócate en crecimiento de seguidores»",
+    "regla": "Mantener activos en cada conjunto los 3 reels con menor costo por visita al perfil (y, cuando haya datos, más seguidores ganados por semana). Cada martes se recalcula con los datos de la semana: entra el que mejore a alguno de los 3 y sale el peor. Un reel nuevo entra a prueba solo si desplaza al peor o si hay cupo (máx. 4 activos por conjunto).",
+    "activos_20oct": [
+      "DepTcxBO1wa (COP 79/visita)",
+      "cuentas 18081157391447610 (COP 98/visita)",
+      "DelEaZBBaEg (COP 144/visita)"
+    ],
+    "fuera": [
+      "Der5WAchoPb (COP 192/visita, pausado 20-oct)",
+      "Des7GQ9BPF_ (sin datos; video importado, sin anuncios)",
+      "Dew9WhxByAo (nuevo 23-oct, anuncios creados, sin datos)"
+    ],
+    "nota_23oct": "Campaña pausada por Jorge el 20-oct 22:57. Cuando la reactive: dejar 4 por conjunto pausando el de mayor costo por visita (DelEaZBBaEg, 170/114) salvo que Jorge diga otra cosa."
+  },
+  "orden_global": "30-oct: cero anuncios en todas las cuentas de Jorge hasta nueva orden. No encender ninguna campaña (incluida la ráfaga 2 de Defensoría del 1-nov) sin un OK explícito y posterior a esta fecha.",
+  "reels_pendientes": [
+    {
+      "media_id": "18083819480404053",
+      "permalink": "https://www.instagram.com/reel/DfL4-7GBm0Q/",
+      "publicado": "2026-10-31T23:37-05:00",
+      "caption": "Vamos con toda",
+      "detectado": "2026-11-10",
+      "estado": "NO PROMOCIONADO: rige la orden global del 30-oct (cero anuncios). Promocionar en Mujeres y Todos solo con un OK explícito de Jorge posterior al 30-oct."
+    },
+    {
+      "media_id": "18118177820041089",
+      "permalink": "https://www.instagram.com/reel/Df5ydbYhv-w/",
+      "publicado": "2026-11-18T19:26-05:00",
+      "caption": "#abogados #emprendimiento Consejo del día",
+      "detectado": "2026-11-20",
+      "estado": "PENDIENTE DE IMPORTAR: la sesión de Facebook abierta en el Chrome del Mac (usuario 100068411679689) no tiene acceso a la cuenta publicitaria 911008968626641 (error 100/33 al importar el video). La vía Windsor create_ad_video respondió «(#222) Video not visible». Se reintenta la próxima corrida; si Jorge inicia sesión en Chrome con la cuenta que administra la cuenta publicitaria, queda listo en pausa."
+    }
+  ],
+  "campana_seguidores": {
+    "campana": "120253446247610220",
+    "nombre": "Seguidores · @jorgenape28 · Interacción con el perfil",
+    "objetivo": "OUTCOME_ENGAGEMENT",
+    "estado": "PAUSADA (creada 16-nov 20:35; lista para la próxima orden de promocionar)",
+    "adsets": {
+      "todos": {
+        "id": "120253446261440220",
+        "daily_budget_cop": 4000,
+        "targeting": "Todos 20-45, Colombia; solo Instagram",
+        "optimization_goal": "PROFILE_AND_PAGE_ENGAGEMENT",
+        "destination_type": "INSTAGRAM_PROFILE"
+      },
+      "mixto": {
+        "id": "120253446258170220",
+        "daily_budget_cop": 16000,
+        "targeting": "Hombres y mujeres 18-35; Bogotá (22 km) e Ibagué (12 km); solo Instagram; Advantage audience off",
+        "optimization_goal": "PROFILE_AND_PAGE_ENGAGEMENT",
+        "destination_type": "INSTAGRAM_PROFILE",
+        "nombre": "Seguidores · Mixto 18-35 · Bogotá e Ibagué · Solo Instagram",
+        "cambio": "16-nov 20:30 por orden de Jorge («Pon sexo mixto, hombres y mujeres»); antes solo mujeres"
+      }
+    },
+    "ads_listos_en_pausa": {
+      "Dfqs7H-BJgE": {
+        "mujeres": "120253446266450220",
+        "todos": "120253446273510220"
+      }
+    },
+    "nota": "Orden de Jorge 16-nov 20:18: «enfocar las siguientes campañas en conseguir seguidores». Meta no vende un objetivo «seguidores»; el más cercano es Interacción → destino perfil de Instagram → meta de rendimiento «visitas e interacción con el perfil» (PROFILE_AND_PAGE_ENGAGEMENT). La campaña Memes (tráfico, VISIT_INSTAGRAM_PROFILE, 120252917299480220) queda retirada; sus conjuntos tienen end_time 14-nov."
+  },
+  "followers_history": [
+    {
+      "fecha": "2026-11-17",
+      "seguidores": 641,
+      "fuente": "instagram_public (caché)"
+    },
+    {
+      "fecha": "2026-11-20",
+      "seguidores": 638,
+      "fuente": "instagram_public (caché)"
+    }
+  ]
 }
