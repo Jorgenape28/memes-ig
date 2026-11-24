@@ -90,7 +90,7 @@
   },
   "objetivo": "Aumentar seguidores de @jorgenape28 (proxy: visitas al perfil), con enfoque en mujeres (70 % del presupuesto).",
   "aprobacion": "Todo meme hecho por Claude se publica solo con el OK de Jorge. Los que haga Jorge se publican de inmediato.",
-  "estado_campana": "Campaña Memes PAUSADA (14-nov). Campaña Seguidores 120253446247610220 PAUSADA desde su creación (16-nov); anuncios listos solo para Dfqs7H-BJgE. 17-nov: DftHoA3Byzb y Df02zhJhlJE bloqueados por música. 20-nov: Df5ydbYhv-w pendiente de importar (sin acceso a la cuenta publicitaria desde Chrome).",
+  "estado_campana": "Campaña Memes PAUSADA (14-nov, retirada). Campaña Seguidores 120253446247610220 PAUSADA desde su creación (16-nov); anuncios listos en pausa solo para Dfqs7H-BJgE (Mixto 120253569763650220 —reemplazo del 24-nov—, Todos 120253446273510220). Reels bloqueados por música: De3PqsqBXfA, DftHoA3Byzb, Df02zhJhlJE. Df5ydbYhv-w ya no está en el perfil (24-nov).",
   "seguidores": {
     "fuente": "Windsor instagram_public · cuenta jorgenape28 · profile_followers_count",
     "meta": {
@@ -144,6 +144,12 @@
         "seguidores": 638,
         "publicaciones": 6,
         "nota": "caché de Windsor"
+      },
+      {
+        "fecha": "2026-11-24",
+        "seguidores": 638,
+        "publicaciones": 6,
+        "nota": "caché de Windsor (sin cambio vs 20-nov)"
       }
     ]
   },
@@ -357,7 +363,12 @@
         "todos": "120253399598580220"
       },
       "estado_inicial": "ACTIVE / IN_PROCESS 13-nov 10:20",
-      "fin_programado": "2026-11-14T10:30-0500 (end_time en los dos conjuntos)"
+      "fin_programado": "2026-11-14T10:30-0500 (end_time en los dos conjuntos)",
+      "ads_seguidores": {
+        "mixto": "120253569763650220",
+        "todos": "120253446273510220",
+        "mixto_con_error_1885180": "120253446266450220"
+      }
     },
     {
       "media_id": "18130630165905768",
@@ -475,6 +486,10 @@
     {
       "fecha": "2026-11-20 09:00",
       "evento": "Corrida del viernes: reel nuevo Df5ydbYhv-w (18118177820041089, publicado 18-nov) detectado pero NO quedó listo: el usuario de Facebook con sesión en Chrome no tiene acceso a la cuenta publicitaria; Windsor create_ad_video (acción nueva) falló con «Video not visible». Nada tocado en Meta; campaña Seguidores sigue en pausa. Seguidores 638 (−3 vs 17-nov). Df02zhJhlJE ya no aparece en el perfil (posiblemente borrado)."
+    },
+    {
+      "fecha": "2026-11-24 09:05",
+      "evento": "Corrida del martes: sin reels nuevos (REELS del perfil: DelEaZBBaEg, DepTcxBO1wa, Der5WAchoPb, Des7GQ9BPF_, Dew9WhxByAo, De3RxDMBMAv, DfL4-7GBm0Q, Dfqs7H-BJgE, DftHoA3Byzb; todos ya registrados). Df5ydbYhv-w ya no aparece en el perfil y Meta no lo encuentra (#222 / 100-33): se da por borrado. El Chrome del Mac sí tenía esta vez sesión con acceso a la cuenta publicitaria (usuario 1219659931). Hallazgo: el anuncio 120253446266450220 (Seguidores · Mixto, reel «Ya casi») estaba WITH_ISSUES por error duro 1885180 (publicación promocionada no válida; su video 2049449519296742 ya no existe) → creado el reemplazo 120253569763650220 en PAUSA (video importado 1473972887998797), en revisión. Todo lo demás en PAUSED / CAMPAIGN_PAUSED; WITH_ISSUES solo prestamista y un boost viejo, ya pausados. Gasto últimos 7 días: 0. Seguidores 638 (igual que el 20-nov; −2 vs 17-nov) → faltan 9.362 en 36 días (260/día)."
     }
   ],
   "pausados_por_jorge": [
@@ -665,6 +680,27 @@
       "dias_restantes": 43,
       "ritmo_necesario_dia": 218,
       "reels_nuevos": "DftHoA3Byzb y Df02zhJhlJE importados pero bloqueados por música con derechos (2875030); sin anuncios."
+    },
+    {
+      "fecha": "2026-11-24",
+      "periodo": "2026-11-17 a 2026-11-23",
+      "nota": "Sin gasto: campaña Seguidores en pausa desde su creación y campaña Memes retirada. Informe solo de seguidores y ritmo.",
+      "por_conjunto": {
+        "mixto": {
+          "gasto": 0,
+          "visitas": 0
+        },
+        "todos": {
+          "gasto": 0,
+          "visitas": 0
+        }
+      },
+      "seguidores": 638,
+      "ganados_semana": -2,
+      "ganados_desde_17oct": 16,
+      "faltan": 9362,
+      "dias_restantes": 36,
+      "ritmo_necesario_dia": 260
     }
   ],
   "estrategia": {
@@ -699,14 +735,14 @@
       "publicado": "2026-11-18T19:26-05:00",
       "caption": "#abogados #emprendimiento Consejo del día",
       "detectado": "2026-11-20",
-      "estado": "PENDIENTE DE IMPORTAR: la sesión de Facebook abierta en el Chrome del Mac (usuario 100068411679689) no tiene acceso a la cuenta publicitaria 911008968626641 (error 100/33 al importar el video). La vía Windsor create_ad_video respondió «(#222) Video not visible». Se reintenta la próxima corrida; si Jorge inicia sesión en Chrome con la cuenta que administra la cuenta publicitaria, queda listo en pausa."
+      "estado": "YA NO ESTÁ EN EL PERFIL (24-nov): no aparece en instagram_public (1-oct a 24-nov) y Meta responde «(#222) Video not visible» / «Object does not exist» al importarlo. Se da por borrado por Jorge; no se reintenta. Si lo vuelve a publicar será un media_id nuevo."
     }
   ],
   "campana_seguidores": {
     "campana": "120253446247610220",
     "nombre": "Seguidores · @jorgenape28 · Interacción con el perfil",
     "objetivo": "OUTCOME_ENGAGEMENT",
-    "estado": "PAUSADA (creada 16-nov 20:35; lista para la próxima orden de promocionar)",
+    "estado": "PAUSADA (creada 16-nov 20:35; lista para la próxima orden de promocionar). 24-nov: anuncio Mixto de «Ya casi» reemplazado por 120253569763650220 (en pausa, en revisión).",
     "adsets": {
       "todos": {
         "id": "120253446261440220",
@@ -727,8 +763,10 @@
     },
     "ads_listos_en_pausa": {
       "Dfqs7H-BJgE": {
-        "mujeres": "120253446266450220",
-        "todos": "120253446273510220"
+        "mixto": "120253569763650220",
+        "todos": "120253446273510220",
+        "mixto_anterior_con_error": "120253446266450220",
+        "nota": "24-nov: el anuncio 120253446266450220 (conjunto Mixto) quedó WITH_ISSUES con error duro 1885180 («la publicación promocionada no es válida»; su creativo apuntaba al video 2049449519296742, ya inexistente). Se creó el reemplazo 120253569763650220 en PAUSA (creativo con el video importado 1473972887998797), en revisión de Meta. El anuncio con error queda pausado; se puede borrar cuando Jorge quiera."
       }
     },
     "nota": "Orden de Jorge 16-nov 20:18: «enfocar las siguientes campañas en conseguir seguidores». Meta no vende un objetivo «seguidores»; el más cercano es Interacción → destino perfil de Instagram → meta de rendimiento «visitas e interacción con el perfil» (PROFILE_AND_PAGE_ENGAGEMENT). La campaña Memes (tráfico, VISIT_INSTAGRAM_PROFILE, 120252917299480220) queda retirada; sus conjuntos tienen end_time 14-nov."
@@ -741,6 +779,11 @@
     },
     {
       "fecha": "2026-11-20",
+      "seguidores": 638,
+      "fuente": "instagram_public (caché)"
+    },
+    {
+      "fecha": "2026-11-24",
       "seguidores": 638,
       "fuente": "instagram_public (caché)"
     }
